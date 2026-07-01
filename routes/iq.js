@@ -190,7 +190,7 @@ footer:"Multiverse connection established"
     let rank = "";
     let verdicts = [];
 
-    // Category Logic will come here
+    // Category Logic
 
      if(iq<=10){
 
@@ -649,7 +649,7 @@ verdicts=[
 
 
 
-    // Rare Event Logic will come here
+    // Rare Event Logic 
 const rareChance =
     Math.floor(Math.random() * 100);
 
