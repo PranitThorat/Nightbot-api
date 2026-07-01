@@ -101,7 +101,7 @@ const status = [
 "❤️ Dil Pighal Gaya",
 "💘 Crush Alert",
 "🌹 Filmy Vibes Activated",
-"🥹 Nazar Na Lage",
+"🌸 Nazar Na Lage",
 "💖 Green Flags Everywhere",
 "💕 Chemistry Matched",
 "🎵 Romantic BGM Playing",
@@ -166,7 +166,7 @@ footer:"💖 Written In The Stars"
 
 {
 title:"💝 LEGENDARY MATCH",
-message:"🥹 Rab Ne Bana Di Jodi... literally!",
+message:"👰 Rab Ne Bana Di Jodi... literally!",
 footer:"👑 Perfect Forever"
 },
 
@@ -189,7 +189,7 @@ footer:"❤️ Calculator Gave Up"
     verdicts = [
 
         "💔 Bhagwan bhi mana kar rahe hain.",
-        "🥲 Yeh pyaar sirf sapno mein hi possible hai.",
+        "🌹 Yeh pyaar sirf sapno mein hi possible hai.",
         "🚫 Cupid ne request reject kar di.",
         "🙈 Nazar bhi mat milana.",
         "📵 Seen bhi nahi milega.",
@@ -197,11 +197,11 @@ footer:"❤️ Calculator Gave Up"
         "💸 Itna investment bhi recover nahi hoga.",
         "🌚 Friendzone bhi door ki baat hai.",
         "🥀 Dil tootne ki full guarantee.",
-        "🫣 Ek tarfa pyaar unlimited.",
+        "😌 Ek tarfa pyaar unlimited.",
         "😶 Dil ne bhi bola 'Next Please'.",
         "📴 Love Network Not Found.",
         "💀 Isse achha BGMI squad bana lo.",
-        "🥹 Pyaar se pehle pehchaan toh ho.",
+        "😊 Pyaar se pehle pehchaan toh ho.",
         "🙃 Dil ki request pending hi reh gayi."
 
     ];
@@ -215,13 +215,13 @@ footer:"❤️ Calculator Gave Up"
         "🙃 Sirf dosti tak hi theek hai.",
         "🤝 Best Friend Material.",
         "📚 Love story se zyada notes exchange honge.",
-        "🥲 Hope pe duniya kayam hai.",
+        "😅 Hope pe duniya kayam hai.",
         "👀 Crush ko abhi pata bhi nahi.",
         "☕ Pehle chai pe mil lo.",
         "😂 Abhi proposal mat dena.",
         "💬 Conversation start karo pehle.",
-        "🫠 Dil ko samjhana padega.",
-        "🪫 Romance battery low.",
+        "💔 Dil ko samjhana padega.",
+        "🙃 Romance battery low.",
         "🙈 Smile toh mil sakti hai.",
         "📱 Reply aaya toh party dena.",
         "😅 Friendzone ke gate par khade ho.",
@@ -244,10 +244,10 @@ footer:"❤️ Calculator Gave Up"
         "🤭 Smile exchange ho sakti hai.",
         "☕ Ek coffee date toh banti hai.",
         "🌸 Story abhi shuru hui hai.",
-        "🫶 Dil dheere dheere pighal raha hai.",
+        "🥰 Dil dheere dheere pighal raha hai.",
         "🎵 Bollywood background music missing hai.",
         "💌 Cupid abhi soch raha hai.",
-        "🥹 Nazar mili toh baat ban sakti hai.",
+        "💝 Nazar mili toh baat ban sakti hai.",
         "✨ Pyaar loading... Please wait.",
         "📖 Love story ka trailer shuru hua hai.",
         "💖 Thodi mehnat aur... magic ho sakta hai."
@@ -265,7 +265,7 @@ footer:"❤️ Calculator Gave Up"
         "😊 Smile ka reply toh pakka milega.",
         "💬 Late night chats shuru ho sakti hain.",
         "☕ Coffee date ka chance hai.",
-        "🥹 Nazar milte hi scene badal sakta hai.",
+        "😊 Nazar milte hi scene badal sakta hai.",
         "💖 Feelings slowly develop ho rahi hain.",
         "🤭 Crush ko shayad hint mil gaya hai.",
         "🌸 Story interesting hone lagi hai.",
@@ -273,7 +273,7 @@ footer:"❤️ Calculator Gave Up"
         "✨ Abhi give up mat karna.",
         "📱 Good Morning texts coming soon.",
         "💕 Dil thoda soft ho raha hai.",
-        "🫶 Chemistry improve ho rahi hai.",
+        "🏹 Chemistry improve ho rahi hai.",
         "🎵 Bollywood interval tak pahunch gaya."
 
     ];
@@ -293,7 +293,7 @@ footer:"❤️ Calculator Gave Up"
         "🥰 Smile dekhte hi dil pighal sakta hai.",
         "🌹 Story ab achhi direction mein ja rahi hai.",
         "💕 Vibes kaafi positive lag rahi hain.",
-        "🫶 Thoda aur effort... baat ban sakti hai.",
+        "💞 Thoda aur effort... baat ban sakti hai.",
         "📱 Reply speed improve ho rahi hai.",
         "😌 Dil ab ignore nahi kar pa raha.",
         "💘 Crush meter slowly increase ho raha hai.",
@@ -318,7 +318,7 @@ footer:"❤️ Calculator Gave Up"
         "💕 Spark clearly dikh raha hai.",
         "☕ Coffee date almost confirmed.",
         "🌸 Love story kaafi promising lag rahi hai.",
-        "🫶 Dil ko ye connection pasand aa gaya.",
+        "💕 Dil ko ye connection pasand aa gaya.",
         "💌 Romance mode activated.",
         "✨ Vibes ekdum match ho rahi hain.",
         "🎵 Bollywood wali feeling aa rahi hai.",
@@ -337,14 +337,14 @@ footer:"❤️ Calculator Gave Up"
         "💞 Rab ki planning kuch aur hi lag rahi hai.",
         "🌹 Nazar na lage is jodi ko.",
         "💕 Dil se connection ho gaya.",
-        "🫶 Made for each other lag rahe ho.",
+        "💘 Made for each other lag rahe ho.",
         "💘 Cupid ne green signal de diya.",
         "🌸 Relationship status loading...",
         "😊 Smile dekhte hi dil khush ho gaya.",
         "💌 Love story ab interesting ho gayi hai.",
         "🎵 Romantic background music automatically bajne laga.",
         "✨ Dil ne quietly 'Yes' bol diya.",
-        "🥹 Is jodi pe toh filmy song banta hai.",
+        "🌈 Is jodi pe toh filmy song banta hai.",
         "💖 Hearts are syncing perfectly.",
         "🌈 Lagta hai destiny tum dono ko mila hi degi."
 
@@ -362,13 +362,13 @@ footer:"❤️ Calculator Gave Up"
         "💕 Dil se dil ka connection pakka lag raha hai.",
         "🥰 Tum dono ek saath best lagoge.",
         "💘 Cupid ne full support de diya.",
-        "🫶 Relationship officially recommended.",
+        "👑 Relationship officially recommended.",
         "💖 Matching hearts detected.",
         "🌸 Yeh story happy ending deserve karti hai.",
         "💌 Pyaar wali playlist on kar do.",
         "🎵 Bollywood ko nayi love story mil gayi.",
         "✨ Ek dusre ke liye hi bane lagte ho.",
-        "🥹 Is jodi ko kisi ki nazar na lage.",
+        "💕 Is jodi ko kisi ki nazar na lage.",
         "❤️ Dil ne bina soche 'Yes' bol diya.",
         "💑 Couple Goals officially unlocked."
 
@@ -385,7 +385,7 @@ footer:"❤️ Calculator Gave Up"
         "🎊 Rishta almost pakka lag raha hai.",
         "💖 Family ko khushkhabri dene ka time aa gaya.",
         "🌹 Yeh jodi kamaal ki lagegi.",
-        "🥹 Nazar utarwa lena dono ki.",
+        "💐 Nazar utarwa lena dono ki.",
         "💒 Mandap bas sajna baaki hai.",
         "💝 Perfect match mil gaya.",
         "❤️ Dil ne permanent address choose kar liya.",
@@ -409,7 +409,7 @@ footer:"❤️ Calculator Gave Up"
         "💍 Pandit ji muhurat nikal rahe hain.",
         "💖 Dil ne permanent booking kar li.",
         "🌍 Universe ne is jodi ko approve kar diya.",
-        "🥹 Janmo janam ka connection lag raha hai.",
+        "💕 Janmo janam ka connection lag raha hai.",
         "💘 Cupid ne full marks de diye.",
         "💞 Made for each other — no doubts!",
         "❤️ Bollywood ko nayi blockbuster love story mil gayi.",
