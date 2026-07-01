@@ -649,7 +649,7 @@ verdicts=[
 
 
 
-    // Rare Event Logic 
+// Rare Event Logic
 const rareChance =
     Math.floor(Math.random() * 100);
 
@@ -660,7 +660,7 @@ if (rareChance === 0) {
             Math.floor(Math.random() * rareEvents.length)
         ];
 
-const message =
+    const message =
 `${rare.title} | 👤 ${user} | ${rare.message} | ${rare.footer}`;
 
     return new Response(message,{
@@ -668,5 +668,16 @@ const message =
             "Content-Type":"text/plain;charset=UTF-8"
         }
     });
+
+}
+
+const message =
+`${header} | 👤 ${user} | 🧠 IQ: ${iq}/170 | ${rank} | 🤣 ${verdict} | 📊 ${systemStatus}`;
+
+return new Response(message,{
+    headers:{
+        "Content-Type":"text/plain;charset=UTF-8"
+    }
+});
 
 }
