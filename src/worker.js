@@ -1,5 +1,6 @@
 import { getShayari } from "../routes/shayari";
 import { getLove } from "../routes/love";
+import { getIQ } from "../routes/iq";
 
 export default {
 
@@ -16,6 +17,12 @@ export default {
         if (url.pathname === "/love") {
 
             return getLove(request);
+
+        }
+
+        if (url.pathname === "/iq") {
+
+            return getIQ(request);
 
         }
 
