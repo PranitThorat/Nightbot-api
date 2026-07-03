@@ -3,13 +3,49 @@ export async function getIQ(request) {
     const url = new URL(request.url);
 
     const user =
-        url.searchParams.get("u1") || "Unknown";
+    url.searchParams.get("u1") || "Unknown";
 
 
+
+// Developer Usernames
+const developerNames = [
+
+    "@pranitthorat4776",
+    "pranitthorat4776",
+    "@pranitthorat",
+    "pranitthorat",
+    "@pranit",
+    "pranit",
+    "@amorakapankha",
+    "amorakapankha"
+
+];
+
+
+
+// Puzzle Queen Usernames
+const puzzleQueenNames = [
+
+    "@royalindiangirl21",
+    "royalindiangirl21",
+    "@naina",
+    "naina"
+
+];
+
+const streamQueenNames = [
+
+    "@cozy_panda_gaming",
+    "cozy_panda_gaming",
+    "@purplepandaplayz",
+    "purplepandaplayz"
+
+];
 
     // Random IQ
-    const iq =
-        Math.floor(Math.random() * 166) + 5;
+let iq =
+    Math.floor(Math.random() * 166) + 5;
+
 
 
 
@@ -190,7 +226,7 @@ footer:"Multiverse connection established"
     let rank = "";
     let verdicts = [];
 
-    // Category Logic
+    // Category Logic will come here
 
      if(iq<=10){
 
@@ -647,6 +683,276 @@ verdicts=[
             Math.floor(Math.random()*verdicts.length)
         ];
 
+// Developer Special Mode
+if (
+    developerNames.includes(
+        user.toLowerCase().trim()
+    )
+) {
+
+    const devHeaders = [
+
+        "⚡ AURA OVERFLOW",
+        "👑 SYSTEM ARCHITECT",
+        "💻 ROOT ACCESS",
+        "🧠 CREATOR SCAN",
+        "🚀 DEVELOPER MODE",
+        "☢ SOURCE CODE VERIFIED",
+        "⚙ ADMIN PANEL",
+        "🌌 REALITY CONSOLE",
+        "🤖 KERNEL ACCESS",
+        "🔓 CREATOR PRIVILEGES"
+
+    ];
+
+
+
+    const devRanks = [
+
+        "♾ Beyond Measurement",
+        "👑 Creator",
+        "⚡ Reality Engineer",
+        "💻 Source Code Owner",
+        "🚀 Universe Developer",
+        "🧠 Brain Beyond Limits",
+        "🌌 Reality Administrator",
+        "🔓 Root User",
+        "⚙ Master Architect",
+        "☢ Simulation Owner"
+
+    ];
+
+
+
+    const devVerdicts = [
+
+        "Source code recognized its creator.",
+        "Reality is running on your commits.",
+        "The scanner saluted its developer.",
+        "Even ChatGPT requested administrator access.",
+        "The universe accepted your pull request.",
+        "Compiler surrendered immediately.",
+        "The Matrix granted root permissions.",
+        "You debugged reality successfully.",
+        "Brain benchmark skipped. Result obvious.",
+        "The scanner detected unlimited aura.",
+        "System integrity verified. Creator confirmed.",
+        "Simulation owner has joined the server.",
+        "Even quantum physics follows your logic.",
+        "Developer privileges cannot be revoked.",
+        "Admin mode permanently enabled."
+
+    ];
+
+
+
+    const devStatus = [
+
+        "⚡ Aura Overflow",
+        "🚀 Creator Online",
+        "💻 Root Access Granted",
+        "👑 Admin Permissions Active",
+        "🌌 Reality Stable",
+        "🧠 Infinite Processing",
+        "☢ Source Code Protected",
+        "⚙ Kernel Running Smoothly",
+        "🔓 Unlimited Access",
+        "💜 Creator Verified"
+
+    ];
+
+
+
+    const message =
+`${devHeaders[Math.floor(Math.random()*devHeaders.length)]} | 👤 ${user} | 🧠 IQ: ∞ | ${devRanks[Math.floor(Math.random()*devRanks.length)]} | 🤣 ${devVerdicts[Math.floor(Math.random()*devVerdicts.length)]} | 📊 ${devStatus[Math.floor(Math.random()*devStatus.length)]}`;
+
+    return new Response(message,{
+        headers:{
+            "Content-Type":"text/plain;charset=UTF-8"
+        }
+    });
+
+}
+
+// Puzzle Queen Mode
+if (
+    puzzleQueenNames.includes(
+        user.toLowerCase().trim()
+    )
+) {
+
+    const puzzleIQ =
+        Math.floor(Math.random() * 26) + 145;
+
+    const puzzleHeaders = [
+
+        "🧩 PUZZLE MASTER",
+        "👑 QUIZ QUEEN",
+        "🧠 GENIUS DETECTED",
+        "🏆 FIRST SOLVER",
+        "📚 BRAIN CHAMPION",
+        "⚡ PUZZLE ANALYZER",
+        "🎯 ANSWER MACHINE",
+        "🤖 AI CHALLENGER",
+        "💡 MASTER THINKER",
+        "🔍 RIDDLE HUNTER"
+
+    ];
+
+    const puzzleRanks = [
+
+        "🧩 Puzzle Queen",
+        "👑 Chat Genius",
+        "🏆 First Solver",
+        "💡 Brain Champion",
+        "⚡ Logic Master",
+        "📚 Knowledge Queen",
+        "🤖 AI Challenger",
+        "🧠 Quiz Legend",
+        "🎯 Puzzle Hunter",
+        "🌟 Elite Thinker"
+
+    ];
+
+    const puzzleVerdicts = [
+
+        "Google waited for your answer.",
+        "Even AI needed your hint.",
+        "The puzzle surrendered instantly.",
+        "Chat already knew you'd answer first.",
+        "The scanner detected elite logic.",
+        "Your clues arrive before the question.",
+        "Even riddles are scared of you.",
+        "Crosswords solve themselves around you.",
+        "Today's puzzle never stood a chance.",
+        "The answer found you first.",
+        "Logic level exceeded expectations.",
+        "The scanner entered admiration mode.",
+        "Knowledge database updated automatically.",
+        "You solved it before the timer blinked.",
+        "Achievement Unlocked: Puzzle Queen."
+
+    ];
+
+    const puzzleStatus = [
+
+        "🧩 Puzzle Solving",
+        "📚 Knowledge Overflow",
+        "⚡ Logic Online",
+        "🧠 Maximum Focus",
+        "🎯 Answer Locked",
+        "🤖 AI Impressed",
+        "🌟 Genius Active",
+        "📖 Encyclopedia Mode",
+        "💡 Thinking Ahead",
+        "🏆 First Answer Ready"
+
+    ];
+
+    const message =
+`${puzzleHeaders[Math.floor(Math.random()*puzzleHeaders.length)]} | 👤 ${user} | 🧠 IQ: ${puzzleIQ}/170 | ${puzzleRanks[Math.floor(Math.random()*puzzleRanks.length)]} | 🤣 ${puzzleVerdicts[Math.floor(Math.random()*puzzleVerdicts.length)]} | 📊 ${puzzleStatus[Math.floor(Math.random()*puzzleStatus.length)]}`;
+
+    return new Response(message,{
+        headers:{
+            "Content-Type":"text/plain;charset=UTF-8"
+        }
+    });
+
+}
+
+// Main Character Mode
+if (
+    streamQueenNames.includes(
+        user.toLowerCase().trim()
+    )
+) {
+
+    const streamIQ =
+        Math.floor(Math.random() * 11) + 160;
+
+    const streamHeaders = [
+
+        "💜 MAIN CHARACTER MODE",
+        "👑 QUEEN OF THE CHAT",
+        "🐼 PANDA INTELLIGENCE",
+        "🎮 STREAMER SCAN",
+        "🌟 COMMUNITY LEADER",
+        "📺 LIVE MODE",
+        "🚀 CHAT COMMANDER",
+        "💫 STREAM LEGEND",
+        "🧠 CONTENT CREATOR",
+        "🎥 LIVE GENIUS"
+
+    ];
+
+
+
+    const streamRanks = [
+
+        "👑 Chat Queen",
+        "💜 Stream Legend",
+        "🐼 Panda Supreme",
+        "🎮 Community Leader",
+        "🌟 Audience Favourite",
+        "🚀 Stream Commander",
+        "🧠 Content Genius",
+        "📺 Live Queen",
+        "⚡ Entertainment Expert",
+        "💫 Main Character"
+
+    ];
+
+
+
+    const streamVerdicts = [
+
+        "The chat couldn't stop cheering.",
+        "Even Nightbot became your biggest fan.",
+        "Chat activity increased instantly.",
+        "The scanner subscribed automatically.",
+        "Community happiness reached maximum.",
+        "Your positivity boosted everyone's IQ.",
+        "Main Character Energy detected.",
+        "The audience pressed Like automatically.",
+        "Even the algorithm smiled today.",
+        "The scanner awarded you VIP status.",
+        "Unlimited Entertainment DLC unlocked.",
+        "The chat instantly became more fun.",
+        "Stream quality upgraded automatically.",
+        "Achievement Unlocked: Stream Queen.",
+        "Everyone stayed because you were live."
+
+    ];
+
+
+
+    const streamStatus = [
+
+        "💜 Live Now",
+        "📺 Chat Active",
+        "🐼 Panda Power",
+        "🌟 Main Character Energy",
+        "⚡ Community Favourite",
+        "🎮 Stream Running Smoothly",
+        "🚀 Entertainment Online",
+        "🧠 Positive Vibes",
+        "💫 Chat Loving This",
+        "👑 Queen Mode Enabled"
+
+    ];
+
+
+
+    const message =
+`${streamHeaders[Math.floor(Math.random()*streamHeaders.length)]} | 👤 ${user} | 🧠 IQ: ${streamIQ}/170 | ${streamRanks[Math.floor(Math.random()*streamRanks.length)]} | 🤣 ${streamVerdicts[Math.floor(Math.random()*streamVerdicts.length)]} | 📊 ${streamStatus[Math.floor(Math.random()*streamStatus.length)]}`;
+
+    return new Response(message,{
+        headers:{
+            "Content-Type":"text/plain;charset=UTF-8"
+        }
+    });
+
+}
 
 
 // Rare Event Logic
