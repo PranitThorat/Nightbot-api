@@ -1,6 +1,7 @@
 import { getShayari } from "../routes/shayari";
 import { getLove } from "../routes/love";
 import { getIQ } from "../routes/iq";
+import { getShadi } from "../routes/shadi";
 
 export default {
 
@@ -24,6 +25,11 @@ export default {
 
             return getIQ(request);
 
+        }
+
+        if (url.pathname === "/shadi") {
+
+            return getShadi(request);
         }
 
         return new Response("Nightbot API is running!");
