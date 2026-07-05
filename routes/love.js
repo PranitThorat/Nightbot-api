@@ -26,7 +26,7 @@ if (
 
     return new Response(
 
-"📢 Are navin bot configure keloy, insta check krrrr",
+"📢 Waah Waah, Atif bhai",
 
         {
 
