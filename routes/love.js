@@ -11,8 +11,8 @@ const user2 =
 // Popup Message
 const popupUsers = [
 
-    "@amorakapankha",
-    "amorakapankha"
+    "manishkumar-lu7nt",
+    "@manishkumar-lu7nt"
 
 ];
 
@@ -26,7 +26,7 @@ if (
 
     return new Response(
 
-"  ☠︎︎ ☠︎︎ Manishwa Wastegunna Huiiiyeeee ☠︎︎ ☠︎︎",
+"☠︎︎ ☠︎︎ Manishwa Wastegunna Huiiiyeeee ☠︎︎ ☠︎︎",
 
         {
 
