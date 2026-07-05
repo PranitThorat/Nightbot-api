@@ -26,7 +26,7 @@ if (
 
     return new Response(
 
-"📢 Waah Waah, Atif bhai 🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+"📢 Isse acha UPSC ki tayari kr leta hu 😂😂😂😂😂😂😂😂",
 
         {
 
