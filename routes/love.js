@@ -26,7 +26,7 @@ if (
 
     return new Response(
 
-"📢 Isse acha UPSC ki tayari kr leta hu 😂😂😂😂😂😂😂😂",
+"⸜(｡˃ ᵕ ˂ )⸝♡ Hello Sandip Meri Jaan  ⸜(｡˃ ᵕ ˂ )⸝♡",
 
         {
 
