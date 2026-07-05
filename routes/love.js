@@ -8,6 +8,40 @@ export async function getLove(request) {
 const user2 =
     url.searchParams.get("u2") || "Someone";
 
+// Popup Message
+const popupUsers = [
+
+    "@amorakapankha",
+    "amorakapankha"
+
+];
+
+if (
+
+    popupUsers.includes(
+        user1.toLowerCase().trim()
+    )
+
+) {
+
+    return new Response(
+
+"📢 Are navin bot configure keloy, insta check krrrr",
+
+        {
+
+            headers: {
+
+                "Content-Type": "text/plain;charset=UTF-8"
+
+            }
+
+        }
+
+    );
+
+}
+
 
 
 // Developer Easter Egg
