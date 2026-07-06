@@ -26,7 +26,7 @@ if (
 
     return new Response(
 
-"☠︎︎ ☠︎︎ Manishwa Wastegunna Huiiiyeeee ☠︎︎ ☠︎︎",
+"(❀ˆᴗˆ)  Manishwa Janiiii Wastegunna Huiiiyeeee  (•́ᴗ•̀✿) ",
 
         {
 
