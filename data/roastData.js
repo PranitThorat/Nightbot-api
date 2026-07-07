@@ -20,14 +20,20 @@ export const roastData = {
 
     normalRoasts: [
 
+    "itna unlucky hai ki Lucky Draw bhi tujhe dekh ke logout ho gaya.",
 
+    "ko dekh ke WiFi ne password change kar diya.",
+
+    "ka comeback courier wale ne 'Address Not Found' bolke wapas bhej diya."
 
     ],
 
     reverseRoasts: [
 
+    "OTP aane se pehle refresh karta hai.",
 
+    "calculator se 7+8 karta hai."
 
-    ]
+   ]
 
 };
