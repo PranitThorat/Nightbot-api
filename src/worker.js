@@ -31,6 +31,7 @@ export default {
         if (url.pathname === "/shadi") {
 
             return getShadi(request);
+
         }
 
         if (url.pathname === "/roast") {
