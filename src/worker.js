@@ -2,6 +2,7 @@ import { getShayari } from "../routes/shayari";
 import { getLove } from "../routes/love";
 import { getIQ } from "../routes/iq";
 import { getShadi } from "../routes/shadi";
+import { getRoast } from "../routes/roast";
 
 export default {
 
@@ -30,6 +31,12 @@ export default {
         if (url.pathname === "/shadi") {
 
             return getShadi(request);
+        }
+
+        if (url.pathname === "/roast") {
+
+            return getRoast(request);
+
         }
 
         return new Response("Nightbot API is running!");
