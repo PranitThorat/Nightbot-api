@@ -9,7 +9,7 @@ const user2 =
     url.searchParams.get("u2") || "Someone";
 
 // Popup Message
-const popupUsers = [
+/*const popupUsers = [
 
     "manishkumar-lu7nt",
     "@manishkumar-lu7nt"
@@ -39,7 +39,7 @@ if (
         }
 
     );
-
+*/
 }
 
 
