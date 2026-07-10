@@ -1520,7 +1520,7 @@ export const roastData = {
 
 "Flight Mode on karke network check karna... science bhi confuse hai. ✈️",
 
-"YouTube pe 'How to sleep early' dekhte dekhte 3 baje tak jagna... discipline dekho. 🌙"
+"YouTube pe 'How to sleep early' dekhte dekhte 3 baje tak jagta... discipline dekho. 🌙"
 
 ]
 
