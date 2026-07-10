@@ -759,7 +759,7 @@ export const roastData = {
 
 "Tera comeback dekh ke Recycle Bin bola 'Permanently Deleted.' 🗑️",
 
-"Isko dekh ke Printer bola 'Paper Jam.' 🖨️"
+"Isko dekh ke Printer bola 'Paper Jam.' 🖨️",
 
 "Teri shakal dekh ke passport wale bole 'Photo dobara kheecho.' 📸",
 
