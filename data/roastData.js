@@ -3603,155 +3603,206 @@ export const roastData = {
 
 "Tu colony cricket me six maarne jaata hai... ball aunty ke achar me landing kar leti hai. 🥭",
 
-"Tu stage pe confidence leke chadhta hai...
-mic stand bhi tujhse door khisak jaata hai. 🎤",
+"Tu stage pe confidence leke chadhta hai...\nmic stand bhi tujhse door khisak jaata hai. 🎤",
 
-"Tu attendance lagwane jaata hai...
-teacher bolti hai 'Baad me aana.' 📚",
+"Tu attendance lagwane jaata hai...\nteacher bolti hai 'Baad me aana.' 📚",
 
-"Tu cricket me catch pakadne jaata hai...
-ball boundary ke bahar milti hai. 🏏",
+"Tu cricket me catch pakadne jaata hai...\nball boundary ke bahar milti hai. 🏏",
 
-"Tu birthday pe cake kaatne jaata hai...
-knife bhi doosre bande ko de di jaati hai. 🎂",
+"Tu birthday pe cake kaatne jaata hai...\nknife bhi doosre bande ko de di jaati hai. 🎂",
 
-"Tu lift me enter karta hai...
-sab log stairs choose kar lete hain. 🛗",
+"Tu lift me enter karta hai...\nsab log stairs choose kar lete hain. 🛗",
 
-"Tu group photo ke beech me khada hota hai...
-photographer bolta hai 'Thoda side.' 📸",
+"Tu group photo ke beech me khada hota hai...\nphotographer bolta hai 'Thoda side.' 📸",
 
-"Tu restaurant me order dene jaata hai...
-waiter pehle bill le aata hai. 🍽️",
+"Tu restaurant me order dene jaata hai...\nwaiter pehle bill le aata hai. 🍽️",
 
-"Tu shaadi me dance floor pe aata hai...
-DJ gaana hi badal deta hai. 🎧",
+"Tu shaadi me dance floor pe aata hai...\nDJ gaana hi badal deta hai. 🎧",
 
-"Tu speech dene uthta hai...
-peeche se chairs fold hone lagti hain. 🪑",
+"Tu speech dene uthta hai...\npeeche se chairs fold hone lagti hain. 🪑",
 
-"Tu interview dene baithta hai...
-HR paani peene bahar nikal jaati hai. 💼",
+"Tu interview dene baithta hai...\nHR paani peene bahar nikal jaati hai. 💼",
 
-"Tu selfie leta hai...
-camera automatically ultra-wide ho jaata hai. 🤳",
+"Tu selfie leta hai...\ncamera automatically ultra-wide ho jaata hai. 🤳",
 
-"Tu Google Maps kholta hai...
-location bhi bolti hai 'Main nahi aa rahi.' 🗺️",
+"Tu Google Maps kholta hai...\nlocation bhi bolti hai 'Main nahi aa rahi.' 🗺️",
 
-"Tu charger lagata hai...
-switch bhi off feel karne lagta hai. 🔌",
+"Tu charger lagata hai...\nswitch bhi off feel karne lagta hai. 🔌",
 
-"Tu gym me mirror ke saamne khada hota hai...
-mirror brightness kam kar deta hai. 🪞",
+"Tu gym me mirror ke saamne khada hota hai...\nmirror brightness kam kar deta hai. 🪞",
 
-"Tu WhatsApp pe voice note bhejta hai...
-samne wala speed 2x bhi skip kar deta hai. 🎙️",
+"Tu WhatsApp pe voice note bhejta hai...\nsamne wala speed 2x bhi skip kar deta hai. 🎙️",
 
-"Tu queue me sabse aage pahunchta hai...
-counter lunch pe chala jaata hai. 🚶",
+"Tu queue me sabse aage pahunchta hai...\ncounter lunch pe chala jaata hai. 🚶",
 
-"Tu movie dekhne baithta hai...
-projector buffering shuru kar deta hai. 🎬",
+"Tu movie dekhne baithta hai...\nprojector buffering shuru kar deta hai. 🎬",
 
-"Tu barber ko hairstyle samjhata hai...
-barber topi recommend kar deta hai. ✂️",
+"Tu barber ko hairstyle samjhata hai...\nbarber topi recommend kar deta hai. ✂️",
 
-"Tu train pakadne daudta hai...
-guard tujhe dekh ke hi seeti baja deta hai. 🚆",
+"Tu train pakadne daudta hai...\nguard tujhe dekh ke hi seeti baja deta hai. 🚆",
 
-"Tu gaming lobby join karta hai...
-team tujhe spectator bana deti hai. 🎮",
+"Tu gaming lobby join karta hai...\nteam tujhe spectator bana deti hai. 🎮",
 
-"Tu phone unlock karta hai...
-Face ID bolta hai 'Try Again.' 📱",
+"Tu phone unlock karta hai...\nFace ID bolta hai 'Try Again.' 📱",
 
-"Tu trophy lene stage pe jaata hai...
-host naam dobara check karta hai. 🏆",
+"Tu trophy lene stage pe jaata hai...\nhost naam dobara check karta hai. 🏆",
 
-"Tu canteen me token leta hai...
-canteen wala bolta hai 'Khatam ho gaya.' 🍔",
+"Tu canteen me token leta hai...\ncanteen wala bolta hai 'Khatam ho gaya.' 🍔",
 
-"Tu parking me gaadi lagata hai...
-security cone tere liye alag rakh deti hai. 🚗",
+"Tu parking me gaadi lagata hai...\nsecurity cone tere liye alag rakh deti hai. 🚗",
 
-"Tu mic pakadta hai...
-echo bhi wapas nahi aata. 🎤",
+"Tu mic pakadta hai...\necho bhi wapas nahi aata. 🎤",
 
-"Tu library me jaake seat leta hai...
-WiFi bhi logout ho jaata hai. 📚",
+"Tu library me jaake seat leta hai...\nWiFi bhi logout ho jaata hai. 📚",
 
-"Tu airport pe line me lagta hai...
-security dobara bula leti hai. ✈️",
+"Tu airport pe line me lagta hai...\nsecurity dobara bula leti hai. ✈️",
 
-"Tu coffee order karta hai...
-cup pe naam bhi galat likh dete hain. ☕",
+"Tu coffee order karta hai...\ncup pe naam bhi galat likh dete hain. ☕",
 
-"Tu online meeting join karta hai...
-host bolta hai 'You're on mute' aur phir remove kar deta hai. 💻",
+"Tu online meeting join karta hai...\nhost bolta hai 'You're on mute' aur phir remove kar deta hai. 💻",
 
-"Tu dance reel banata hai...
-background wale zyada viral ho jaate hain. 📹",
+"Tu dance reel banata hai...\nbackground wale zyada viral ho jaate hain. 📹",
 
-"Tu helmet pehenke nikalta hai...
-traffic police bhi confuse ho jaati hai. 🪖",
+"Tu helmet pehenke nikalta hai...\ntraffic police bhi confuse ho jaati hai. 🪖",
 
-"Tu buffet ki line me lagta hai...
-last gulab jamun tere se pehle khatam ho jaata hai. 🍨",
+"Tu buffet ki line me lagta hai...\nlast gulab jamun tere se pehle khatam ho jaata hai. 🍨",
 
-"Tu speech complete karta hai...
-claps ki jagah notification bajti hai. 📱",
+"Tu speech complete karta hai...\nclaps ki jagah notification bajti hai. 📱",
 
-"Tu classroom me answer deta hai...
-teacher question hi change kar deti hai. 📝",
+"Tu classroom me answer deta hai...\nteacher question hi change kar deti hai. 📝",
 
-"Tu pen maangta hai...
-log pencil offer kar dete hain. ✏️",
+"Tu pen maangta hai...\nlog pencil offer kar dete hain. ✏️",
 
-"Tu stage pe joke maarta hai...
-peeche wale curtains zyada entertain kar dete hain. 🎭",
+"Tu stage pe joke maarta hai...\npeeche wale curtains zyada entertain kar dete hain. 🎭",
 
-"Tu lift ka button dabata hai...
-lift doosre floor pe permanently ruk jaati hai. 🛗",
+"Tu lift ka button dabata hai...\nlift doosre floor pe permanently ruk jaati hai. 🛗",
 
-"Tu QR code scan karta hai...
-payment pending hi reh jaati hai. 💸",
+"Tu QR code scan karta hai...\npayment pending hi reh jaati hai. 💸",
 
-"Tu delivery receive karne bahar jaata hai...
-delivery wala bolta hai 'Wrong Address.' 📦",
+"Tu delivery receive karne bahar jaata hai...\ndelivery wala bolta hai 'Wrong Address.' 📦",
 
-"Tu Bluetooth connect karta hai...
-speaker doosre phone se jud jaata hai. 🔊",
+"Tu Bluetooth connect karta hai...\nspeaker doosre phone se jud jaata hai. 🔊",
 
-"Tu Zoom meeting me camera on karta hai...
-internet off ho jaata hai. 💻",
+"Tu Zoom meeting me camera on karta hai...\ninternet off ho jaata hai. 💻",
 
-"Tu DJ ko song request deta hai...
-DJ headphones utaar deta hai. 🎧",
+"Tu DJ ko song request deta hai...\nDJ headphones utaar deta hai. 🎧",
 
-"Tu hostel me Maggi banata hai...
-gas khatam ho jaati hai. 🍜",
+"Tu hostel me Maggi banata hai...\ngas khatam ho jaati hai. 🍜",
 
-"Tu bus me window seat leta hai...
-glass hi lock ho jaata hai. 🚌",
+"Tu bus me window seat leta hai...\nglass hi lock ho jaata hai. 🚌",
 
-"Tu scoreboard dekhne jaata hai...
-match hi rain delay ho jaata hai. 🏏",
+"Tu scoreboard dekhne jaata hai...\nmatch hi rain delay ho jaata hai. 🏏",
 
-"Tu shopping mall me trial room leta hai...
-mirror bhi wait karne bol deta hai. 🛍️",
+"Tu shopping mall me trial room leta hai...\nmirror bhi wait karne bol deta hai. 🛍️",
 
-"Tu gym me dumbbell uthata hai...
-trainer pehle warm-up kara deta hai. 💪",
+"Tu gym me dumbbell uthata hai...\ntrainer pehle warm-up kara deta hai. 💪",
 
-"Tu Insta Live start karta hai...
-network airplane mode choose kar leta hai. 📡",
+"Tu Insta Live start karta hai...\nnetwork airplane mode choose kar leta hai. 📡",
 
-"Tu presentation shuru karta hai...
-projector 'No Signal' dikha deta hai. 📽️",
+"Tu presentation shuru karta hai...\nprojector 'No Signal' dikha deta hai. 📽️",
 
-"Tu roast karne aata hai...
-Nightbot tujhe hi feature bana deta hai. 🤖",
+"Tu roast karne aata hai...\nNightbot tujhe hi feature bana deta hai. 🤖",
+
+"Tu airport pe trolley push karta hai...\nek wheel apni alag direction decide kar leta hai. 🛒",
+
+"Tu shaadi me stage pe photo khichwane jaata hai...\nphotographer bolta hai 'Family only.' 📸",
+
+"Tu classroom me bench pe baithta hai...\nusi din screw loose hone ka mood bana leta hai. 🪑",
+
+"Tu juice peene straw lagata hai...\nstraw wrapper hi andar gir jaata hai. 🥤",
+
+"Tu mall me escalator pe chadhta hai...\nupar pahunchke balance hi logout ho jaata hai. 🛗",
+
+"Tu bike start karta hai...\nhelmet ka buckle hi atak jaata hai. 🪖",
+
+"Tu shopping bag style se uthata hai...\nhandle bolta hai 'Main chalta hoon.' 🛍️",
+
+"Tu restaurant me tissue nikalta hai...\npoora bundle saath aa jaata hai. 🧻",
+
+"Tu chai phoonk maar ke peeta hai...\nchai bolti hai 'Abhi bhi garam hoon.' ☕",
+
+"Tu swimming pool ke paas style se chalta hai...\nfloor tujhe Olympic dive yaad dila deta hai. 🏊",
+
+"Tu wedding me mithai lene jaata hai...\nplate pe sirf kaju ka wrapper bachta hai. 🍬",
+
+"Tu exam hall me extra sheet maangta hai...\nteacher pehle answer sheet check kar leti hai. 📄",
+
+"Tu office me pen ghumata hai...\npen seedha manager ke table tak pahunch jaata hai. 🖊️",
+
+"Tu metro me pole pakadta hai...\nnext station pe haath hi jam ho jaata hai. 🚇",
+
+"Tu library me book kholta hai...\njis page ki zarurat hoti hai wahi missing hota hai. 📚",
+
+"Tu stage pe entry leta hai...\nspotlight kisi aur pe chali jaati hai. 🎭",
+
+"Tu football me penalty maarne jaata hai...\ngoalkeeper bhi side hatke dekhne lagta hai. ⚽",
+
+"Tu barber ko reference photo dikhata hai...\nbarber confidence se ignore kar deta hai. ✂️",
+
+"Tu cooler ke saamne baithta hai...\nhawa sabko milti hai, tujhe nahi. 🌬️",
+
+"Tu lift ka wait karta hai...\nlift har floor pe rukti hai, tere pe nahi. 🛗",
+
+"Tu raincoat pehenke nikalta hai...\nbaarish sirf destination pe shuru hoti hai. 🌧️",
+
+"Tu cricket bat lekar pose deta hai...\nball seedha stumps ko hi yaad karti hai. 🏏",
+
+"Tu buffet me pizza lene jaata hai...\nlast slice tere saamne disappear ho jaata hai. 🍕",
+
+"Tu shoes polish karta hai...\npehla kadam kichad me padta hai. 👟",
+
+"Tu speech ke liye throat clear karta hai...\ngala bolta hai 'Main off hoon.' 🎤",
+
+"Tu bus me ticket lene wallet nikalta hai...\ncoins hide and seek khelne lagte hain. 🪙",
+
+"Tu gym me treadmill start karta hai...\nshoelace adventure pe nikal jaata hai. 👟",
+
+"Tu AC ka remote uthata hai...\nbattery usi din retirement le leti hai. ❄️",
+
+"Tu train me upper berth pe chadhta hai...\nphone neeche hi reh jaata hai. 🚆",
+
+"Tu birthday candle bujhata hai...\nsmoke seedha teri aankhon me aa jaati hai. 🎂",
+
+"Tu hostel me bucket bharne rakhta hai...\ntap tujhe dekhke slow motion chalu kar deta hai. 🚰",
+
+"Tu pizza ka cheese pull dikhata hai...\ncheese plate pe hi resign kar deta hai. 🧀",
+
+"Tu sunglasses pehenke style marta hai...\nglass pe pehle se fingerprint show ho jaata hai. 🕶️",
+
+"Tu photo ke liye jump karta hai...\ncamera countdown hi khatam nahi karta. 📷",
+
+"Tu online order receive karta hai...\ndelivery wala bolta hai 'OTP baad me de dena' aur chala jaata hai. 📦",
+
+"Tu umbrella kholta hai...\nhawa usko drone bana deti hai. ☂️",
+
+"Tu fresh white shoes pehenke nikalta hai...\nkabootar attendance laga dete hain. 🕊️",
+
+"Tu laptop charge pe lagata hai...\nsocket ko bhi usi din leave chahiye hoti hai. 💻",
+
+"Tu class me first answer deta hai...\nteacher bolti hai 'Galat example tha.' 📝",
+
+"Tu park me bench pe baithta hai...\npaint fresh hi nikla hota hai. 🎨",
+
+"Tu car wash karwata hai...\nbaarish appreciation dene aa jaati hai. 🚗",
+
+"Tu colony cricket me fielding karta hai...\nball sirf tujhe dhoondh leti hai. 🏏",
+
+"Tu canteen me cold drink kholta hai...\nfoam hi pehle bahar interview dene aa jaata hai. 🥤",
+
+"Tu hotel ka room lock karta hai...\ncard andar hi reh jaata hai. 🚪",
+
+"Tu cinema me popcorn lekar baithta hai...\nmovie shuru hote hi kisi ka phone full brightness pe on ho jaata hai. 🍿",
+
+"Tu doctor ke clinic time pe pahunchta hai...\ndoctor bolta hai 'Bas 10 minute.' 🩺",
+
+"Tu bike saaf karta hai...\nagle 5 minute me kabootar review de dete hain. 🏍️",
+
+"Tu presentation save karta hai...\nlaptop update maang leta hai. 💻",
+
+"Tu water bottle tight band karta hai...\nkhulne ke time poora gussa tere upar nikalti hai. 💧",
+
+"Tu kisi ko roast karne aata hai...\nNightbot bolta hai 'Aaj public execution tera hai.' 🤖",
+
 
 
 
