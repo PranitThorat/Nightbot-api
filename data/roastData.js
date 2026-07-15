@@ -2,21 +2,125 @@ export const roastData = {
 
     amora: {
 
-        aliases: [
+    aliases: [
 
-            "@cozy_panda_gaming",
-            "cozy_panda_gaming",
-            "@purplepandaplayz",
-            "purplepandaplayz"
+        "amora",
+        "@amora",
+        "amoraa",
+        "panda",
+        "@panda",
+        "amorapanda",
+        "amora panda",
+        "pandaa",
+        "pandu"
 
-        ],
+    ],
 
-        title: "💜 ROAST SYSTEM ERROR",
+    messages: [
 
-        message:
-            "Roast.exe crashed... Stream Queen detected. Chat unanimously refused to roast today. 💜"
+        "Roast? Amora ko? Itni himmat kisne di... 🌸",
 
-    },
+        "Error 403: Amora is protected by unlimited cuteness. 💖",
+
+        "System refused. Amora roasting requires admin permissions. 🔒",
+
+        "Request cancelled. Amora smiled... server melted. ✨",
+
+        "Roast unavailable. Compliments only for Amora. 🌹",
+
+        "Machine rebooted after hearing Amora's name. 💫",
+
+        "Mission failed. Dil beech me aa gaya. ❤️",
+
+        "Target changed automatically. Amora stays untouched. 🌷",
+
+        "Roast engine crashed trying to find a flaw in Amora. 💕",
+
+        "Nice try... Amora is under permanent VIP protection. 👑",
+
+        "Roast cancelled.\nReason: Developer got emotionally involved. ❤️",
+
+        "404 Flaw Not Found. Amora search completed successfully. 🔍",
+
+        "System detected Amora.\nAggression level automatically set to 0%. 🌸",
+
+        "Attempt rejected.\nBeauty exceeded roast limit. ✨",
+
+        "Critical Error.\nCompliment mode activated automatically. 💖",
+
+        "Roast Machine respectfully folded its hands before Amora. 🙏",
+
+        "Request expired.\nReason: Amora smiled first. 🌷",
+
+        "Target analysis completed.\nResult: Sirf tareef banti hai. 💝",
+
+        "Server tried roasting Amora...\nServer apologized instead. 💞",
+
+        "Permission denied.\nDeveloper wrote this exception personally. 👀",
+
+        "Developer Notes:\n'Amora ko roast karna company policy ke khilaaf hai.' 📄",
+
+        "Compiler Error:\nUnexpected token 'Perfection' near Amora. 🤍",
+
+        "Roast Machine has stopped responding.\nReason: It started simping. 🌸",
+
+        "Warning:\nMentioning Amora automatically disables savage mode. 🛡️",
+
+        "Internal Error:\nDeveloper refused to merge the 'Roast Amora' feature. 🚫",
+
+        "Patch Notes v2.0:\nAdded 1600+ roasts.\nStill can't roast Amora. 😂",
+
+        "Loading...\nSearching flaws in Amora...\n0 results found. 💖",
+
+        "Dear User,\nRoasting Amora isn't a feature.\nIt's a bug report. 🌷",
+
+        "Nice try.\nDeveloper is emotionally attached to Amora.\nRequest denied forever. ❤️",
+
+        "Access Denied.\nAmora Protection Shield activated. ☠️",
+
+        "Roast skipped.\nHeart.exe interrupted the process. 💘",
+
+        "Request ignored.\nAmora unlocked God Mode. ✨",
+
+        "System Notice:\nSome targets are simply out of syllabus.\nAmora is one of them. 📚",
+
+        "Roast Machine looked at Amora...\nThen respectfully looked away. 🌸",
+
+        "Congratulations.\nYou found the only protected account. 🏆",
+
+        "Roast Engine:\n'I choose unemployment instead.' 😂",
+
+        "Fatal Exception:\nRespectOverflowError: Amora. 💖",
+
+        "Developer Console:\nreturn compliment(); ❤️",
+
+        "System Update:\nRoast module disabled for Amora. 🔧",
+
+        "Mission Aborted.\nConfidence tha... permission nahi thi. 🚫",
+
+        "Even sarcasm refused to work today.\nReason: Amora detected. 🌷",
+
+        "Roast Machine checked twice...\nStill couldn't find a reason. 🔍",
+
+        "AI Report:\nAmora classified as 'Do Not Roast'. 🤖",
+
+        "Hidden Rule:\nAmora is permanently whitelisted. 📜",
+
+        "Server Status:\nEverything working...\nExcept roasting Amora. 💫",
+
+        "Request rolled back.\nDeveloper smiled instead. 😊",
+
+        "Roast Engine entered sleep mode after hearing 'Amora'. 😴",
+
+        "System Message:\nSome names deserve respect.\nAmora is one of them. 🌹",
+
+        "Debug Log:\nExpected roast.\nReceived admiration instead. 💝",
+
+        "Operation Cancelled.\nReason: Amora is priceless. 👑"
+
+    ]
+
+},
 
     
     normalRoasts: [
@@ -3437,7 +3541,69 @@ export const roastData = {
 
 "Tu earphones suljha ke rakhta hai... pocket me jaake fir engineering kar lete hain. 🎧",
 
-"Tu confidence se bolta hai 'Easy hai'... universe usi waqt difficulty update release kar deta hai. ☠️"
+"Tu confidence se bolta hai 'Easy hai'... universe usi waqt difficulty update release kar deta hai. ☠️",
+
+"Tu answer confidently bolta hai... teacher bolta hai 'Main question hi nahi pooch raha tha.' 📝",
+
+"Tu washroom se haath dhoke nikalta hai... sleeve khud hi tap ke neeche aa jaati hai. 💧",
+
+"Tu nayi shirt pehenke function me jaata hai... pehla hug tel wale uncle de dete hain. 🤝",
+
+"Tu class me late ghusta hai... sab log ek saath peeche mudke dekhte hain. 🚪",
+
+"Tu silent room me chair kheechta hai... awaaz earthquake alert jaisi aati hai. 🪑",
+
+"Tu lift me akela khada hota hai... phir bhi galat floor pe utar jaata hai. 🛗",
+
+"Tu ATM pe balance check karta hai... peeche wala aadmi bhi sympathy se screen dekhne lagta hai. 🏧",
+
+"Tu traffic me shortcut leta hai... saamne baraat nikal aati hai. 🥁",
+
+"Tu sabke saamne phone unlock karta hai... Face ID bolta hai 'Dobara dekh.' 📱",
+
+"Tu interview me chair pe baithta hai... chair hi confidence test lena shuru kar deti hai. 🪑",
+
+"Tu canteen me tray lekar chalta hai... sabzi pehle shoes se milne chali jaati hai. 🍛",
+
+"Tu wedding me white kurta pehenke jaata hai... pehla gulab jamun seedha lap pe land karta hai. 🍮",
+
+"Tu bus me style se chadhta hai... last step hi ego check kar deta hai. 🚌",
+
+"Tu exam ke baad confidently answer discuss karta hai... question hi ulta padhke aaya hota hai. 📄",
+
+"Tu cricket me diving catch lene jaata hai... ball boundary ke bahar tera wait kar rahi hoti hai. 🏏",
+
+"Tu nayi notebook ka first page sundar likhta hai... doosri line me hi spelling surrender kar deti hai. ✍️",
+
+"Tu projector ke saamne se nikalta hai... poori presentation pe tera shadow interview de deta hai. 📽️",
+
+"Tu QR scan karke payment karta hai... 'Amount Received' saamne wale ke phone me aata hai, tere me nahi. 📲",
+
+"Tu train me bottle upar rakhta hai... station pe sirf bottle yaad rehti hai. 🚆",
+
+"Tu speech shuru karta hai... pehla hi word gala strike pe bhej deta hai. 🎤",
+
+"Tu photo click karne ke liye smile karta hai... camera usi second blink capture kar leta hai. 📸",
+
+"Tu naya hairstyle bana ke nikalta hai... hawa usko freedom de deti hai. 🌪️",
+
+"Tu slippers pehenke jaldi me bhaagta hai... ek slipper democracy declare kar deta hai. 🩴",
+
+"Tu chai lekar laptop ke paas baithta hai... table ka balance usi din resign kar deta hai. ☕",
+
+"Tu socks pehenke shoes tak pahunchta hai... tab yaad aata hai dono alag colour ke hain. 🧦",
+
+"Tu shopping bag ek haath me leta hai... handle bolta hai 'Mera shift khatam.' 🛍️",
+
+"Tu barber ko bolta hai 'Thoda aur chhota.'... baad me mirror se negotiation karta hai. ✂️",
+
+"Tu hotel room ka card lagata hai... light tujhe ignore kar deti hai. 💳",
+
+"Tu cinema me perfect timing pe washroom jaata hai... wahi interval announce ho jaata hai. 🎬",
+
+"Tu colony cricket me six maarne jaata hai... ball aunty ke achar me landing kar leti hai. 🥭",
+
+
 ]
 
 };
