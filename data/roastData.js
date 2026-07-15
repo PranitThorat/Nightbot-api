@@ -571,8 +571,6 @@ export const roastData = {
 
 "Teri excuse sunke attendance boli 'Nice Try.' 📚",
 
-"Isko dekh ke weather app bola 'Forecast Failed.' 🌦️",
-
 "Tera future dekh ke horoscope bola 'Skip Today.' 🔮",
 
 "Isko dekh ke Police Verification boli 'Pending Hi Theek Hai.' 🚔",
@@ -593,15 +591,11 @@ export const roastData = {
 
 "Tera confidence dekh ke LinkedIn bola 'Open To Work.' 💼",
 
-"Isko dekh ke Blinkit bola 'Delivery Failed.' 🛒",
-
 "Tera network dekh ke Tower bola 'Emergency Calls Only.' 📡",
 
 "Isko dekh ke QR Code bola 'Invalid Scan.' 📱",
 
 "Tera logic dekh ke Calculator bola 'Syntax Error.' 🧮",
-
-"Isko dekh ke Google bola 'No Results Found.' 🌐",
 
 "Tera hairstyle dekh ke Barber bola 'Risk Accepted.' ✂️",
 
@@ -609,17 +603,11 @@ export const roastData = {
 
 "Tera aura dekh ke NPC bola 'I'm out.' 🤖",
 
-"Isko dekh ke ChatGPT bola 'Response Failed.' 🤖",
-
 "Tera future dekh ke Weather App bola 'Unable To Forecast.' 🌦️",
-
-"Isko dekh ke CapCut bola 'Project Recovery Failed.' 🎬",
 
 "Tera scene dekh ke CCTV bola 'Storage Corrupted.' 📹",
 
 "Isko dekh ke Swiggy bola 'Address Not Serviceable.' 🛵",
-
-"Tera luck dekh ke Dream11 bola 'Contest Cancelled.' 🏏",
 
 "Isko dekh ke Aadhaar Office bola 'Biometric Failed.' 🪪",
 
@@ -1019,8 +1007,6 @@ export const roastData = {
 
 "Teri speed dekh ke loading screen bhi bore ho gayi. ⌛",
 
-"Tera logic dekh ke calculator ne '=' dabane se mana kar diya. 🧮",
-
 "Teri shakal dekh ke Face ID ne update maang liya. 📱",
 
 "Tera aura dekh ke NPC bhi promotion le gaya. 🤖",
@@ -1032,8 +1018,6 @@ export const roastData = {
 "Teri vibe dekh ke Spotify ne ads hi ads chala diye. 🎧",
 
 "Tera scene dekh ke CCTV ne quality low kar di. 📹",
-
-"Teri entry dekh ke spotlight dusri side ghoom gayi. 🔦",
 
 "Tera mood dekh ke weather ne forecast postpone kar diya. 🌦️",
 
@@ -1076,8 +1060,6 @@ export const roastData = {
 "Teri planning dekh ke whiteboard khud saaf ho gaya. 🧽",
 
 "Teri vibe dekh ke selfie stick fold ho gayi. 🤳",
-
-"Tera excuse sunke class monitor bhi chup ho gaya. 📚",
 
 "Teri speed dekh ke escalator bhi ruk ruk ke chalne laga. 🛗",
 
@@ -1481,47 +1463,1981 @@ export const roastData = {
 
 "Teri timing pe notification bhi late arrive karti hai. 🔔",
 
+"Tera confidence dekh ke viva lene wala hi absent ho gaya. 🎓",
 
+"Teri timing dekh ke bus conductor ne seedha agli bus ka wait karne bola. 🚌",
 
+"Tera comeback dekh ke mic wale ne volume aadha kar diya. 🎤",
 
+"Tera logic dekh ke maths ka formula bhi optional lagne laga. 📚",
 
+"Tera scene dekh ke CCTV wale ne footage fast-forward kar di. 📹",
 
+"Teri planning dekh ke captain ne toss jeetke bhi batting chhod di. 🏏",
 
+"Tera network dekh ke customer care wale ne call cut kar di. 📞",
+
+"Tera excuse dekh ke principal ne diary khol li. 📖",
+
+"Teri entry dekh ke DJ ne seedha slow songs laga diye. 🎧",
+
+"Tera level dekh ke photographer ne group photo se start kiya. 📸",
+
+"Teri speed dekh ke escalator bhi normal stairs ban gaya. 🛗",
+
+"Tera future dekh ke astrologer ne next customer bula liya. 🔮",
+
+"Tera confidence dekh ke debate judge ne bell jaldi baja di. 🔔",
+
+"Tera comeback dekh ke audience ne reels scroll karna shuru kar diya. 📱",
+
+"Tera scene dekh ke chai bhi thandi ho gayi. ☕",
+
+"Teri planning dekh ke meeting hi email ban gayi. 📧",
+
+"Tera mood dekh ke birthday candles khud bujh gayi. 🎂",
+
+"Tera timing dekh ke toss dobara karwana pad gaya. 🪙",
+
+"Tera logic dekh ke science bhi Arts lene ko ready ho gayi. 🧪",
+
+"Tera comeback dekh ke subtitles bhi sync se bahar ho gaye. 💬",
+
+"Tera confidence dekh ke interviewer CV ulta pakad ke baith gaya. 📄",
+
+"Teri vibe dekh ke background music hi emotional ho gaya. 🎼",
+
+"Tera scene dekh ke stadium ka echo bhi wapas nahi aaya. 🏟️",
+
+"Teri planning dekh ke projector ne signal hi nahi liya. 📽️",
+
+"Tera comeback dekh ke commentator ne score repeat kar diya. 🎙️",
+
+"Teri entry dekh ke spotlight audience pe ghoom gayi. 🔦",
+
+"Tera level dekh ke practice match bhi cancel ho gaya. 🏆",
+
+"Tera excuse dekh ke attendance register band kar diya gaya. 📚",
+
+"Tera confidence dekh ke lie detector ne bhi break le li. 🎛️",
+
+"Tera comeback dekh ke script writer ne page palat diya. 📜",
+
+"Tera comeback dekh ke subtitles bhi 'Skip Intro' pe chale gaye. 📺",
+
+"Teri timing dekh ke countdown bhi ulta shuru ho gaya. ⏳",
+
+"Tera confidence dekh ke reality ne airplane mode on kar liya. ✈️",
+
+"Tera scene dekh ke commentator ne 'Ye dekhna zaroori nahi hai.' bol diya. 🎙️",
+
+"Teri planning dekh ke whiteboard pe 'To Be Decided' likh diya gaya. 📝",
+
+"Tera logic dekh ke calculator ne battery nikaal di. 🔋",
+
+"Teri entry dekh ke background dancers bhi side ho gaye. 💃",
+
+"Tera comeback dekh ke replay bhi fast-forward ho gaya. ⏩",
+
+"Teri vibe dekh ke ring light ne brightness auto pe kar di. 💡",
+
+"Tera future dekh ke compass ne gol gol ghoomna shuru kar diya. 🧭",
+
+"Tera confidence dekh ke survey form me 'Prefer Not To Answer' tick ho gaya. 📋",
+
+"Tera mood dekh ke coffee bhi thandi pad gayi. ☕",
+
+"Tera scene dekh ke scoreboard pe 'Technical Issue' aa gaya. 📟",
+
+"Teri planning dekh ke projector ne 'No Signal' dikha diya. 📽️",
+
+"Tera comeback dekh ke audience ne volume kam kar diya. 🔉",
+
+"Teri timing dekh ke stopwatch ne lap save hi nahi ki. ⏱️",
+
+"Tera excuse dekh ke attendance register ne page palat diya. 📚",
+
+"Teri entry dekh ke drone ne Return To Home on kar diya. 🚁",
+
+"Tera confidence dekh ke elevator ne 'Maximum Capacity' dikha diya. 🛗",
+
+"Tera level dekh ke trophy polish hone se mana kar gayi. 🏆",
+
+"Tera comeback dekh ke editor ne pura scene cut kar diya. ✂️",
+
+"Teri planning dekh ke blueprint hi revise ho gaya. 📐",
+
+"Tera scene dekh ke spotlight ceiling pe chali gayi. 🔦",
+
+"Tera logic dekh ke debate timer hi band kar diya gaya. ⏲️",
+
+"Teri vibe dekh ke popcorn interval se pehle khatam ho gaya. 🍿",
+
+"Tera confidence dekh ke scanner ne dobara scan maang liya. 📠",
+
+"Teri entry dekh ke gate khula tha... phir bhi awkward lag raha tha. 🚪",
+
+"Tera comeback dekh ke script me '...' likh diya gaya. 📜",
+
+"Tera scene dekh ke audience ne live chat padhna zyada interesting samjha. 💬",
+
+"Teri timing dekh ke whistle bajne se pehle hi match khatam ho gaya. 🏁",
+
+"Tera comeback dekh ke audience ne comments refresh karna shuru kar diya. 💬",
+
+"Teri timing dekh ke countdown bhi confuse ho gaya kiski wait karni hai. ⏳",
+
+"Tera confidence dekh ke overconfidence bhi distance maintain karne laga. 😭",
+
+"Tera scene dekh ke editor ne 'Ye rehne dete hain.' bol diya. 🎬",
+
+"Teri planning dekh ke backup plan ne bhi leave apply kar diya. 📋",
+
+"Tera logic dekh ke argument bhi apni side change kar gaya. 🤦",
+
+"Teri entry dekh ke intro music ne volume kam kar diya. 🎵",
+
+"Tera comeback dekh ke live audience VOD jaisa behave karne lagi. 📺",
+
+"Teri vibe dekh ke aesthetic bhi normal hona chahti thi. 🎨",
+
+"Tera future dekh ke prediction ne bhi guess maar diya. 🔮",
+
+"Tera excuse dekh ke bahana bhi sharma gaya. 🤥",
+
+"Teri speed dekh ke queue tere counter pe hi slow ho gayi. 🚶",
+
+"Tera confidence dekh ke reality ne notification off kar diye. 🔕",
+
+"Tera scene dekh ke cameraman ne wide angle laga diya. 📷",
+
+"Teri planning dekh ke checklist me sirf question marks bach gaye. ✅",
+
+"Tera comeback dekh ke meme bhi outdated lagne laga. 🗿",
+
+"Teri entry dekh ke silence bhi uncomfortable ho gaya. 🤐",
+
+"Tera level dekh ke expectations ne khud ko uninstall kar liya. 📉",
+
+"Tera mood dekh ke motivational quote bhi chup ho gaya. 📖",
+
+"Teri timing dekh ke green signal ne bhi socha 'Aaj nahi.' 🚦",
+
+"Tera confidence dekh ke ego ne bhi bola 'Main chalta hoon.' 🚶",
+
+"Tera comeback dekh ke buffering bhi meaningful lagne lagi. ⌛",
+
+"Teri planning dekh ke shortcut bhi lamba lagne laga. 🛣️",
+
+"Tera logic dekh ke common sense ne logout kar diya. 🚪",
+
+"Teri vibe dekh ke playlist shuffle pe chali gayi. 🎶",
+
+"Tera scene dekh ke spotlight ne wall ko celebrity bana diya. 🔦",
+
+"Teri entry dekh ke applause ne bhi wait karna sahi samjha. 👏",
+
+"Tera comeback dekh ke reaction channel bhi react na kar paya. 🎥",
+
+"Teri planning dekh ke map ne 'Good Luck' bol diya. 🗺️",
+
+"Tera confidence dekh ke disclaimer bhi bold font me aa gaya. ⚠️",
+
+"Tera comeback dekh ke punchline bhi backup maangne lagi. 🎤",
+
+"Teri timing dekh ke notification bhi 'Kal yaad dilana' pe chali gayi. 🔔",
+
+"Tera confidence dekh ke reality ne seat belt baandh li. 🚗",
+
+"Tera scene dekh ke editor ne bloopers alag upload kar diye. 🎬",
+
+"Teri planning dekh ke destiny bhi 'Main nahi.' bolke nikal gayi. 🚪",
+
+"Tera logic dekh ke debate khud topic change kar gayi. 🎙️",
+
+"Teri entry dekh ke crowd ne volume kam kar liya. 🔉",
+
+"Tera comeback dekh ke trailer hi hit nikla... picture nahi. 🍿",
+
+"Teri vibe dekh ke background music copyright claim maar gaya. 🎼",
+
+"Tera future dekh ke motivational speaker ne bhi pause le liya. 🎤",
+
+"Tera excuse dekh ke bahane bhi union bana ke nikal gaye. 📄",
+
+"Teri speed dekh ke queue ne bhi shortcut dhoondhna shuru kar diya. 🚶",
+
+"Tera confidence dekh ke mirror ne bhi angle badal liya. 🪞",
+
+"Tera scene dekh ke script writer ne ending change kar di. 📜",
+
+"Teri planning dekh ke checklist ne khud ko draft bol diya. ✅",
+
+"Tera comeback dekh ke audience ne '1.5x' dhoondhna shuru kar diya. ⏩",
+
+"Teri entry dekh ke spotlight ne doosra candidate choose kar liya. 🔦",
+
+"Tera level dekh ke expectations ne resignation letter type kar diya. 📉",
+
+"Tera mood dekh ke Monday bhi energetic lagne laga. 📅",
+
+"Teri timing dekh ke green signal bhi yellow pe atak gaya. 🚦",
+
+"Tera confidence dekh ke overacting boli 'Main itni bhi nahi.' 🎭",
+
+"Tera comeback dekh ke reaction video bhi silent mode me chali gayi. 🤐",
+
+"Teri planning dekh ke shortcut ne lamba raasta recommend kar diya. 🛣️",
+
+"Tera logic dekh ke dictionary ne naya meaning maang liya. 📖",
+
+"Teri vibe dekh ke filter bhi natural mode pe aa gaya. 📸",
+
+"Tera scene dekh ke audience ne comments ko hi entertainment maan liya. 💬",
+
+"Tera comeback dekh ke credits jaldi roll hone lage. 🎞️",
+
+"Teri entry dekh ke host ne mic kisi aur ko de diya. 🎤",
+
+"Tera confidence dekh ke disclaimer full screen ho gaya. ⚠️",
+
+"Tera level dekh ke plot twist bhi seedha ho gaya. 🎭",
+
+"Teri DP dekh ke FaceApp ne update maang liya. 📸",
+
+"Tera bio padh ke LinkedIn bhi emotional ho gaya. 💼",
+
+"Tera username dekh ke auto-suggest ne resign kar diya. ⌨️",
+
+"Tera wallpaper roz motivation maangta hoga. 📱",
+
+"Tera password dekh ke hacker bola 'Rehne de.' 🔐",
+
+"Teri search history dekh ke incognito bhi sharma gaya. 🌐",
+
+"Tera clipboard bhi tere ideas copy nahi karta. 📋",
+
+"Teri gallery dekh ke storage bhi bore ho gaya. 🖼️",
+
+"Tera draft dekh ke send button chhutti pe chala gaya. 📄",
+
+"Tera notification panel bhi mostly OTP se chalta hai. 🔔",
+
+"Teri playlist sunke shuffle bhi confuse ho gaya. 🎶",
+
+"Tera caption dekh ke emoji bhi context maangne lage. 😂",
+
+"Teri reel dekh ke algorithm ne aankh band kar li. 🎥",
+
+"Tera status dekh ke 'Seen' bhi soch samajh ke aata hai. 💬",
+
+"Teri handwriting dekh ke doctor bhi appreciate kar gaya. ✍️",
+
+"Tera signature dekh ke bank wale ne dobara verify kiya. 🏦",
+
+"Tera resume dekh ke PDF bhi editable banna chahta tha. 📄",
+
+"Tera wishlist dekh ke wallet ne logout kar diya. 💸",
+
+"Teri shopping cart dekh ke sale khatam ho gayi. 🛒",
+
+"Tera browser history dekh ke recommendations confuse ho gayi. 🌍",
+
+"Teri bucket list dekh ke calendar ne leave le li. 📅",
+
+"Tera perfume itna confused hai ki hawa bhi decide nahi kar paati. 🌸",
+
+"Tera nickname sunke asli naam ko bura lag gaya. 😭",
+
+"Teri selfie dekh ke portrait mode bhi normal ho gaya. 🤳",
+
+"Tera ringtone sunke phone bhi vibrate pe aa gaya. 📞",
+
+"Tera screenshot folder CID ka evidence room lagta hai. 📂",
+
+"Teri email inbox dekh ke spam bhi respectful ho gaya. 📧",
+
+"Tera notes app sirf 'kal se' wali planning se bhara hai. 📝",
+
+"Tera download folder archaeologists ko de dena chahiye. 📥",
+
+"Teri browser tabs dekh ke RAM ne notice period de diya. 💻",
+
+"Tu woh banda hai jo OTP copy karke bhi manually type karta hai. 📲",
+
+"Tu itna overthink karta hai ki calculator bhi confirm karta hai 'Pakka?'. 🧮",
+
+"Tere phone ka Storage section tujhe naam se jaanta hoga. 📱",
+
+"Tu Google pe answer milne ke baad bhi doosri website kholta hai. 🌐",
+
+"Teri gallery me 14 same selfies hongi... bas angle alag hoga. 🤳",
+
+"Tu charger lagane ke baad bhi battery percentage dekhte rehta hai. 🔋",
+
+"Tu lift ka button 6 baar dabata hai jaise speed badh jayegi. 🛗",
+
+"Tu Maggi banate waqt bhi tutorial dekh leta hai. 🍜",
+
+"Tu YouTube pe 'Skip Ad' aane ka countdown bhi stare karta hai. ▶️",
+
+"Tu password galat likhne ke baad keyboard ko blame karta hai. ⌨️",
+
+"Tu bina reason phone unlock karta hai aur phir bhool jaata hai kyun. 📱",
+
+"Tu fridge kholta hai jaise har 5 minute me naya item spawn hoga. 🧊",
+
+"Tu online aata hai sirf status dekhke offline hone ke liye. 💬",
+
+"Tu pen test karte karte aadha page bhar deta hai. ✍️",
+
+"Tu TV remote dhoondhne ke liye phone ki flashlight use karta hai. 🔦",
+
+"Tu socks dhoondhne me utna time lagata hai jitna log career choose karne me lagate hain. 🧦",
+
+"Tu ek hi meme 12 logon ko bhejke reaction compare karta hai. 😂",
+
+"Tu AC ka remote dhoondhne me itna time laga deta hai ki garmi normal lagne lagti hai. ❄️",
+
+"Tu shopping cart bhar ke khud hi close kar deta hai. 🛒",
+
+"Tu phone silent pe rakhke vibration dhoondhta rehta hai. 📳",
+
+"Tu browser me 42 tabs kholke ek bhi band nahi karta. 💻",
+
+"Tu charging pe phone lagake 2 minute baad battery check karta hai. 🔋",
+
+"Tu bottle fridge me rakhke 5 minute baad thandi expect karta hai. 🧊",
+
+"Tu WhatsApp kholta notification ke liye... aur Instagram pe pahunch jaata hai. 📲",
+
+"Tu Wi-Fi off karke speed check karta hai. 📶",
+
+"Tu screenshot lene ke baad gallery kholke verify karta hai. 📷",
+
+"Tu calendar me reminder lagake bhi bhool jaata hai. 📅",
+
+"Tu phone saaf karne ke liye storage nahi... wallpaper change karta hai. 📱",
+
+"Tu headphones pehne bina bhi volume button dabata rehta hai. 🎧",
+
+"Tu OTP yaad rakhne ke liye padh leta hai... phir SMS khol leta hai. 📩",
+
+"Tu itna overthink karta hai ki coin toss bhi best of 3 maang leta hai. 🪙",
+
+"Tu itna unlucky hai ki password sahi ho... phir bhi 'Incorrect Password' aa jata hai. 🔐",
+
+"Tu phone 100% charge karke bhi charger saath leke nikalta hai. 🔋",
+
+"Tu itna confuse rehta hai ki GPS bolta hai 'Tu hi chala le.' 📍",
+
+"Tu itna late reply karta hai ki 'Typing...' bhi expire ho jaata hai. 💬",
+
+"Tu itna random hai ki YouTube History bhi context maangti hai. ▶️",
+
+"Tu itna unlucky hai ki AutoCorrect bhi galat spelling suggest karta hai. ⌨️",
+
+"Tu itna ajeeb hai ki Face Unlock aankh milaane se bachta hai. 📱",
+
+"Tu itna slow hai ki progress bar tujhe overtake kar deti hai. 📊",
+
+"Tu itna risky hai ki Draft bhi save hone se darta hai. 📄",
+
+"Tu itna alag level ka hai ki Screenshot bhi blur aa jata hai. 📸",
+
+"Tu itna unpredictable hai ki Calculator bhi 'Approx.' likhne lagta hai. 🧮",
+
+"Tu itna unlucky hai ki queue tere baad fast chalti hai. 🚶",
+
+"Tu itna overconfident hai ki wrong answer bhi attitude me deta hai. 😂",
+
+"Tu itna dangerous hai ki Undo button bhi backup bana ke rakhta hai. ↩️",
+
+"Tu itna unlucky hai ki battery 1% pe nahi... 17% pe hi drama shuru kar deti hai. 🔋",
+
+"Tu itna confusing hai ki Search History bhi anonymous rehna chahti hai. 🌐",
+
+"Tu itna slow hai ki loading circle tujhe motivate karta hai. ⏳",
+
+"Tu itna unique hai ki spam calls bhi do baar sochti hain. 📞",
+
+"Ye woh insaan hai jo 'Are you sure?' ko personal challenge samajhta hai. ☠️",
+
+"Ye woh insaan hai jiske aate hi queue slow ho jaati hai. 🚶",
+
+"Ye woh insaan hai jo phone silent pe rakhke bhi har 2 minute baad check karta hai. 📱",
+
+"Ye woh insaan hai jo fridge kholke 10 second sochta hai... phir paani pee ke chala jaata hai. 🧊",
+
+"Ye woh insaan hai jo calculator kholke 100−99 confirm karta hai. 🧮",
+
+"Ye woh insaan hai jo OTP aane se pehle hi refresh maarna shuru kar deta hai. 📲",
+
+"Ye woh insaan hai jo 'Last Reel' bolke sunrise dekh leta hai. 🌅",
+
+"Ye woh insaan hai jo YouTube pe ek gaana sunne jaata hai aur conspiracy theory dekhke nikalta hai. ▶️",
+
+"Ye woh insaan hai jo charger lagake battery percentage live dekhta rehta hai. 🔋",
+
+"Ye woh insaan hai jo password bhoolne ke baad keyboard pe gussa karta hai. ⌨️",
+
+"Ye woh insaan hai jo screenshot lene ke baad gallery kholke verify karta hai. 📸",
+
+"Ye woh insaan hai jo phone dhoondhta hai... phone haath me lekar. 📱",
+
+"Ye woh insaan hai jo lift ka button baar baar dabata hai jaise driver andar baitha ho. 🛗",
+
+"Ye woh insaan hai jo pen chal raha ho tab bhi line kheench ke test karta hai. ✍️",
+
+"Ye woh insaan hai jo alarm band karke bolta hai '5 minute aur'... aur calendar change kar deta hai. ⏰",
+
+"Ye woh insaan hai jo Google pe Google search karta hai. 🌐",
+
+"Ye woh insaan hai jo remote dhoondhne ke liye TV on kar deta hai. 📺",
+
+"Ye woh insaan hai jo online aake sirf 'Seen' karke chala jaata hai. 💬",
+
+"Ye woh insaan hai jo shopping cart bhar ke khud hi mood change kar leta hai. 🛒",
+
+"Ye wahi insaan hai jiske liye CAPTCHA bhi do baar sochta hai. 🤖",
+
+"Ye wahi insaan hai jiske aate hi WiFi full signal se emotional support pe aa jaata hai. 📶",
+
+"Is level pe pahunch gaya hai ki autocorrect bhi bolta hai 'Tu hi likh.' ⌨️",
+
+"Ye wahi insaan hai jiske phone ka battery saver 80% pe on ho jaata hai. 🔋",
+
+"Iske saath wahi hota hai ki jis line me khada ho... wahi sabse slow nikalti hai. 🚶",
+
+"Ye wahi insaan hai jiska OTP bhi raste me motivation lose kar deta hai. 📲",
+
+"Is level pe pahunch gaya hai ki spam calls bhi interest lose kar deti hain. ☎️",
+
+"Ye wahi insaan hai jiska Face Unlock bhi pehle confirmation maangta hai. 📱",
+
+"Iske saath wahi hota hai ki lift uske floor pe aake bhi upar chali jaati hai. 🛗",
+
+"Ye wahi insaan hai jiske liye progress bar bhi break le leti hai. 📊",
+
+"Is level pe pahunch gaya hai ki background music bhi mute pe chale jaata hai. 🎵",
+
+"Ye wahi insaan hai jiska screenshot bhi blur confidence ke saath aata hai. 📸",
+
+"Iske saath wahi hota hai ki queue uske peeche fast chalti hai. 🚶",
+
+"Ye wahi insaan hai jiske browser tabs dekhke RAM transfer maang leti hai. 💻",
+
+"Is level pe pahunch gaya hai ki draft bhi save hone se pehle sochta hai. 📄",
+
+"Ye wahi insaan hai jiska calculator bhi answer dene se pehle loading leta hai. 🧮",
+
+"Iske saath wahi hota hai ki green signal usko dekhte hi personal ho jaata hai. 🚦",
+
+"Ye wahi insaan hai jiska playlist bhi mood swings se pareshaan hai. 🎧",
+
+"Is level pe pahunch gaya hai ki wallpaper bhi lock screen pe rehna pasand karta hai. 📱",
+
+"Ye wahi insaan hai jiske liye notification bhi 'Baad me.' bol deti hai. 🔔",
+
+"Iske saath wahi hota hai ki vending machine bhi change na hone ka bahana bana deti hai. 🥤",
+
+"Ye wahi insaan jiske browser history ko bhi context chahiye hota hai. 🌐",
+
+"Is level pe pahunch gaya hai ki QR Code bhi camera se bachke rehta hai. 📷",
+
+"Ye wahi insaan hai jiske liye buffering bhi shortcut dhoondti hai. ⏳",
+
+"Iske saath wahi hota hai ki pen exam ke pehle page pe hi strike pe chala jaata hai. ✍️",
+
+"Ye wahi insaan hai jiske remote ki battery sirf match wale din khatam hoti hai. 📺",
+
+"Is level pe pahunch gaya hai ki search bar bhi usko suggestions dena chhod chuki hai. 🔍",
+
+"Ye wahi insaan hai jiska download 99% pe philosophy padhne lagta hai. 📥",
+
+"Iske saath wahi hota hai ki umbrella baarish khatam hote hi milta hai. ☔",
+
+"Ye wahi insaan hai jiske liye destiny bhi 'Try Again Later' pe chal rahi hai. 💀",
+
+"Tu woh insaan hai jiska 'Last Seen' bhi jhooth bolta hai. 💬",
+
+"Tere liye toh calculator bhi 'Close Enough' bol deta hai. 🧮",
+
+"Tu itna unlucky hai ki Free Trial bhi expire ho jaata hai login se pehle. ⏳",
+
+"Teri DP dekh ke gallery ne bhi 'Retake Recommended' soch liya. 📸",
+
+"Tu itna confusing hai ki 'Are you a robot?' bhi rethink kar leta hai. 🤖",
+
+"Tere browser tabs dekh ke Chrome RAM se maafi maang leta hai. 💻",
+
+"Tu woh insaan hai jo charger nikaalte hi 99% pe aa jaata hai. 🔋",
+
+"Teri search history dekh ke Google bhi incognito on kar le. 🌐",
+
+"Tu itna random hai ki algorithm bhi tujhe 'Other' category me daal de. 📱",
+
+"Tera password dekh ke hacker bhi career switch kar le. 🔐",
+
+"Tu itna late hai ki countdown bhi reverse chalne lage. ⏳",
+
+"Teri playlist sunke shuffle bhi bolta 'Main nahi kar raha.' 🎵",
+
+"Tu woh insaan hai jiske liye buffering bhi shortcut le leti hai. ⌛",
+
+"Tera screenshot folder CID ki case diary lagta hai. 📂",
+
+"Tu itna unlucky hai ki battery saver khud battery kha jaata hai. 🔋",
+
+"Teri notifications dekh ke phone bhi anxiety me aa jaata hai. 🔔",
+
+"Tu itna ajeeb hai ki typo bhi tujhe correct karta hai. ⌨️",
+
+"Tera wallpaper bhi roz resignation type karta hoga. 📱",
+
+"Tu itna overthink karta hai ki 'Skip Ad' bhi soch ke dabata hai. ▶️",
+
+"Tera OTP bhi bolta hoga 'Main kal aata hoon.' 📩",
+
+"Tu woh insaan hai jiska autocorrect bhi confidence lose kar deta hai. ⌨️",
+
+"Teri gallery me memories kam... evidence zyada hai. 📷",
+
+"Tere download folder ko dekh ke recycle bin bhi darr jaaye. 🗑️",
+
+"Tu itna unique hai ki spam folder bhi tujhe Inbox me bhej de. 📧",
+
+"Teri browser history Netflix se zyada plot twists rakhti hai. 🍿",
+
+"Tu itna unlucky hai ki fingerprint scanner bhi second opinion maang le. 📱",
+
+"Tera bio padh ke AI bhi bole 'Context Missing.' 🤖",
+
+"Tu woh insaan hai jiska search bar bhi suggestions hide kar deta hai. 🔍",
+
+"Teri Reels ka algorithm bhi leave application likh raha hai. 🎥",
+
+"Tu itna slow hai ki typing indicator bhi tujhe overtake kar de. 💬",
+
+"Tu itna unlucky hai ki vending machine bhi paise rakhke chips na de. 🥤",
+
+"Teri DP dekh ke FaceApp bhi 'Main kya karu?' bol de. 📸",
+
+"Tu itna ajeeb hai ki shadow bhi thodi distance maintain karti hai. 🌚",
+
+"Tera bio padh ke LinkedIn bhi career break pe chala jaaye. 💼",
+
+"Tu itna random hai ki search suggestions bhi haath khade kar dein. 🔍",
+
+"Teri gallery dekh ke Google Photos backup postpone kar de. ☁️",
+
+"Tu itna confusing hai ki lie detector bhi 'Mixed Signals' dikha de. 🎛️",
+
+"Tera wallpaper bhi roz motivation quotes dhoondhta hoga. 📱",
+
+"Tu itna slow hai ki progress circle tujhe dekhke complete ho jaaye. ⏳",
+
+"Teri search history dekh ke browser bole 'Hum pehle kabhi mile hain?' 🌐",
+
+"Tu itna unlucky hai ki coupon code bhi 'Not Applicable' ho jaaye. 🏷️",
+
+"Tera ringtone sunke unknown number bhi cut maar de. 📞",
+
+"Tu itna random hai ki playlist bhi mood swing me chali jaaye. 🎵",
+
+"Tera download folder dekh ke zip file bhi khud ko compress kar le. 📂",
+
+"Tu itna dangerous hai ki recycle bin bhi restore na kare. 🗑️",
+
+"Teri notification bar dekh ke phone bhi silent ho jaaye. 🔕",
+
+"Tu itna unlucky hai ki captcha bhi timeout le le. 🤖",
+
+"Tera username dekh ke auto-fill bhi resign de de. ⌨️",
+
+"Tu itna ajeeb hai ki fingerprint scanner bhi gloves pehen le. 📱",
+
+"Teri browser history dekh ke recommendations bhi therapy maang le. 🍿",
+
+"Tu itna unlucky hai ki cashback sirf Terms & Conditions me mile. 💸",
+
+"Tera password dekh ke hacker bole 'Salary jitni nahi milegi.' 🔐",
+
+"Tu itna random hai ki drafts bhi publish hone se mana kar dein. 📄",
+
+"Teri playlist sunke Bluetooth bhi disconnect ho jaaye. 🎧",
+
+"Tu itna confusing hai ki maps bhi 'Best of Luck' dikha de. 🗺️",
+
+"Tera screenshot folder dekh ke storage bhi overtime maang le. 📸",
+
+"Tu itna unlucky hai ki 'Buy 1 Get 1' me bhi ek hi mile. 🛒",
+
+"Teri typing speed dekh ke autocorrect retirement plan bana le. ⌨️",
+
+"Tu itna ajeeb hai ki emoji bhi expression change kar le. 😂",
+
+"Tera search bar bhi tujhe dekhke history clear karna chahe. 🧹",
+
+"Iske phone ka Screen Time dekh ke Digital Wellbeing ne haath khade kar diye. 📱",
+
+"Iske browser tabs band karne ke liye alag internship chahiye. 💻",
+
+"Iske gallery me memories kam... investigation material zyada hai. 📸",
+
+"Iska password guess karna mushkil nahi... himmat ka kaam hai. 🔐",
+
+"Iske search history ka RTI file hona chahiye. 🌐",
+
+"Iske notifications dekh ke phone bhi Do Not Disturb pe chala jaata hai. 🔕",
+
+"Iske downloads folder me puri civilization basi hui hai. 📂",
+
+"Iski playlist mood swings ka ISO certificate hai. 🎧",
+
+"Iska wallpaper bhi roz resign dene ka sochta hoga. 📱",
+
+"Iski typing speed dekh ke autocorrect bhi overtime refuse kar de. ⌨️",
+
+"Iske screenshots dekh ke FBI bhi zoom maare. 🔍",
+
+"Iske Notes app me 'kal se' ka museum khula hua hai. 📝",
+
+"Iski email inbox me spam bhi respect se rehta hoga. 📧",
+
+"Iske charger ki life isse zyada disciplined hai. 🔋",
+
+"Iske Wi-Fi ka patience unlimited plan pe chal raha hai. 📶",
+
+"Iske phone ka storage har hafte independence maangta hoga. 📱",
+
+"Iska Google account bhi isko recommendations dene se thak gaya hoga. 🌐",
+
+"Iski browser history pe documentary ban sakti hai. 🎬",
+
+"Iski shopping cart aur Indian railway waiting list me bas number ka farq hai. 🛒",
+
+"Iska OTP bhi aane se pehle sochta hoga 'Worth it hai kya?' 📲",
+
+"Iski Reels dekh ke algorithm bhi side income dhoondhne lage. 🎥",
+
+"Iske password hints bhi confuse ho jaate honge. 🔑",
+
+"Iske drafts ka future IPL ke RCB trophy jaisa lag raha hai. 🏆",
+
+"Iske bookmarks dekh ke librarian bhi retire ho jaaye. 📚",
+
+"Iska download speed aur government office ki file ek hi pace pe chalte hain. 📥",
+
+"Iski RAM bhi Monday morning jaisi feel karti hogi. 💻",
+
+"Iske tabs dekh ke Chrome update maangta nahi... dua maangta hai. 🌐",
+
+"Iske screenshots ka backup alag hard disk deserve karta hai. 💾",
+
+"Iske playlist transitions se zyada mood swings stock market me nahi hote. 📈",
+
+"Iske browser ko bhi therapy ki zarurat pad gayi hogi. 🧠",
+
+"Iska phone bhi charging pe lagte hi thak jaata hoga. 🔋",
+
+"Iske confidence ka source code kabhi leak mat hone dena. 💀",
+
+"Iski gallery dekh ke Google Photos bhi backup postpone kar de. ☁️",
+
+"Iske browser tabs dekh ke laptop bhi fan full speed pe chala deta hoga. 💻",
+
+"Iske screenshots dekh ke CID ek season aur bana de. 📸",
+
+"Iska password dekh ke hacker bole 'Salary jitni bhi nahi milegi.' 🔐",
+
+"Iske downloads folder ko Archaeological Survey of India de do. 📂",
+
+"Iski playlist shuffle nahi... survival mode pe chalti hai. 🎵",
+
+"Iske Notes app me 'Kal se' permanent resident hai. 📝",
+
+"Iska charger isse zyada loyal nikla. 🔌",
+
+"Iski search history ko witness protection milni chahiye. 🌐",
+
+"Iske phone ka storage roz freedom maangta hoga. 📱",
+
+"Iske browser ko bhi history dekh ke history yaad aa jaati hogi. 🌍",
+
+"Iske wallpaper ki life isse zyada depressing hai. 📲",
+
+"Iski typing dekh ke keyboard bhi vibration pe aa jaata hoga. ⌨️",
+
+"Iske drafts kabhi publish hue toh archaeology ka naya chapter khul jayega. 📄",
+
+"Iska autocorrect bhi bolta hoga 'Tu dekh le.' 😂",
+
+"Iski notifications dekh ke phone bhi anxiety me chala jaata hoga. 🔔",
+
+"Iske bookmarks library se zyada organized hain... use hi nahi hote. 📚",
+
+"Iski email inbox me spam bhi rent pe rehta hoga. 📧",
+
+"Iske browser tabs band karne ke liye long weekend chahiye. 💻",
+
+"Iske OTP ko bhi motivation video dekhni padti hogi. 📲",
+
+"Iski battery percentage iske mood se zyada stable hai. 🔋",
+
+"Iska screenshot folder evidence locker lagta hai. 📁",
+
+"Iske Google account ne bhi expectations kam kar di hongi. 🌐",
+
+"Iski shopping cart har festival celebrate karti hai. 🛒",
+
+"Iske Reels algorithm ne bhi transfer request daal di hogi. 🎥",
+
+"Iske search suggestions bhi sochte honge 'Bas kar.' 🔍",
+
+"Iske browser ko Incognito se emotional support milta hoga. 🕶️",
+
+"Iska RAM aur patience... dono full time struggle pe hain. 💻",
+
+"Aise log hi OTP aane se pehle phone unlock karke ready baithte hain. 📲",
+
+"Aise log hi charger lagake battery ko live commentary dete hain. 🔋",
+
+"Aise log hi fridge kholke bolte hain 'Kuch nahi hai'... phir dobara kholte hain. 🧊",
+
+"Aise log hi YouTube pe 2 minute ka video dekhne jaake documentary dekhke nikalte hain. ▶️",
+
+"Aise log hi calculator me 10×10 dobara check karte hain. 🧮",
+
+"Aise log hi WhatsApp kholke Instagram pe pahunch jaate hain. 📱",
+
+"Aise log hi shopping cart bhar ke salary ka wait karte rehte hain. 🛒",
+
+"Aise log hi lift ka button baar baar dabate hain jaise turbo mode unlock ho jayega. 🛗",
+
+"Aise log hi screenshot leke turant gallery kholte hain verify karne. 📸",
+
+"Aise log hi password bhoolke keyboard pe gussa karte hain. ⌨️",
+
+"Aise log hi Google Maps ko ignore karke bolte hain 'Shortcut pata hai.' 🗺️",
+
+"Aise log hi remote kho ke phone se flashlight dhoondhte hain. 🔦",
+
+"Aise log hi browser me 63 tabs kholke bolte hain 'Sab important hai.' 💻",
+
+"Aise log hi shampoo khatam hone pe usme paani daalke aur 3 din chala dete hain. 🧴",
+
+"Aise log hi bottle fridge me rakhke 2 minute baad check karte hain thandi hui ya nahi. 🧊",
+
+"Aise log hi pen chal raha ho tab bhi page pe gol gol bana ke test karte hain. ✍️",
+
+"Aise log hi 'Last Reel' bolke subah ke 3 baja dete hain. 🌙",
+
+"Aise log hi OTP yaad karke bhi SMS dobara kholte hain. 📩",
+
+"Aise log hi online aake sirf Last Seen check karke chale jaate hain. 💬",
+
+"Aise log hi headphones pehne bina volume button dabate rehte hain. 🎧",
+
+"Aise log hi battery 90% pe power bank charge karte hain. 🔋",
+
+"Aise log hi phone haath me lekar phone dhoondte hain. 📱",
+
+"Aise log hi calendar me reminder laga ke reminder ignore kar dete hain. 📅",
+
+"Aise log hi Maggi banane ke liye YouTube Short dekhte hain. 🍜",
+
+"Aise log hi browser history clear karke khud hi tension me aa jaate hain. 🌐",
+
+"Aise log hi AC ka remote dhoondhte dhoondhte sardi nikal dete hain. ❄️",
+
+"Aise log hi charger ulta lagane ki teen baar koshish karte hain. 🔌",
+
+"Aise log hi download complete hone ke baad cancel dabane ka talent rakhte hain. 📥",
+
+"Aise log hi Wi-Fi off karke speed test chala dete hain. 📶",
+
+"Aise log hi alarm band karke usi alarm ko blame karte hain. ⏰",
+
+"Iske OTP ko bhi lagta hoga 'Ye phir aa gaya.' 📲",
+
+"Ye woh insaan hai jiska OTP bhi late nahi... aana hi cancel kar deta hai. 💀",
+
+"Tere number pe OTP bhi sochta hoga 'Risk hai.' 📩",
+
+"OTP bhi tere phone pe aake 'Seen' chhod jaata hoga. 😂",
+
+"Tere liye OTP bhi Wrong Person pehle check karta hoga. 📲",
+
+"OTP aane se pehle hi tu panic mode me chala jaata hoga. ☠️",
+
+"Tere OTP ka confidence tujhse kam hai. 📩",
+
+"Tere phone pe OTP bhi bolta hoga 'Kal milte hain.' 🤝",
+
+"Tere OTP ko bhi location access chahiye hoti hogi. 📍",
+
+"OTP bhi tere number pe buffering leke aata hoga. ⌛",
+
+"Tera OTP bhi 'Are you sure?' poochta hoga. 🤖",
+
+"OTP bhi tere phone pe land hoke regret karta hoga. 📩",
+
+"Tere OTP ko bhi route nahi milta hoga. 🗺️",
+
+"Tera OTP aate hi expire nahi hota... disappoint ho jaata hai. 💀",
+
+"Tere OTP ko bhi backup OTP chahiye hota hoga. 📲",
+
+"Iske calculator ka '=' button sabse zyada suffer karta hoga. 🧮",
+
+"Calculator bhi isko dekhke Scientific banne ka plan chhod de. ☠️",
+
+"Ye 7+8 pe bhi rough work karta hoga. 😂",
+
+"Calculator bhi answer dikhane se pehle lawyer bula leta hoga. 📄",
+
+"Iske liye calculator me bhi Undo hona chahiye. 🤦",
+
+"Calculator bhi bolta hoga 'Itna trust issue?' 🧮",
+
+"Ye woh insaan hai jo calculator ka result Google pe verify karta hoga. 🌐",
+
+"Calculator bhi iske sawaal dekhke battery low kar leta hoga. 🔋",
+
+"Calculator ka history section bhi confuse rehta hoga. 📱",
+
+"Calculator bhi isko dekhke percentage bhool jaata hoga. 📊",
+
+"Lift bhi isko dekhke 'Full Capacity' dikha deti hogi. 🛗",
+
+"Ye woh insaan hai jo lift ka button itni baar dabata hai jaise horn ho. 😂",
+
+"Lift bhi iske floor pe aake mood change kar leti hogi. ☠️",
+
+"Lift bhi bolti hogi 'Seedhiyan use kar le.' 🪜",
+
+"Lift ke sensor ko bhi ispe trust nahi hota hoga. 🤖",
+
+"Ye woh insaan hai jiske liye lift hamesha ek floor upar hoti hai. 💀",
+
+"Lift ka darwaza bhi isko dekhke jaldi band hota hoga. 🚪",
+
+"Lift bhi isko ignore karne me expert ho gayi hogi. 😂",
+
+"Lift bhi iske liye loading leti hogi. ⌛",
+
+"Lift bhi isko dekhke maintenance pe chali jaati hogi. 🔧",
+
+"Tere peeche line bhi shortcut dhoondhne lagti hogi. 🚶",
+
+"Tu jis queue me lagta hai usi counter pe lunch break lag jaata hai. 🍛",
+
+"Tere number pe aake token machine bhi restart ho jaati hogi. 🎟️",
+
+"Tu line me khada ho aur 'Server Down' na aaye... aisa kabhi hua hai? 💀",
+
+"Tere saamne wala hamesha 17 sawaal poochta hoga. 😂",
+
+"Tu queue change kare aur purani wali fast chal pade... classic. ☠️",
+
+"Tere liye hi naya counter khulke sirf enquiry ban jaata hai. 🏢",
+
+"Tera token aate hi printer paper khatam ho jaata hoga. 🖨️",
+
+"Teri baari pe hi system update maang leta hoga. 💻",
+
+"Tere peeche wale ka kaam pehle ho jaata hoga. 🤝",
+
+"Tu line me khada ho toh network bhi patience test leta hoga. 📶",
+
+"Teri wajah se queue bhi zig-zag lagne lagti hogi. 🚧",
+
+"Tera number aate hi '5 minute ruk jaiye' start ho jaata hoga. ⏳",
+
+"Tu jis line me khada ho usme hamesha ek uncle form wahi bharte milte honge. 📄",
+
+"Teri baari pe hi token display blink karna shuru kar deta hoga. 📺",
+
+"Printer bhi tere documents pe paper jam choose karta hoga. 🖨️",
+
+"Teri file print karte hi ink retirement le leti hogi. 🖋️",
+
+"Tere document ki last page hi missing nikalti hogi. 📄",
+
+"Teri print command dekhke printer bhi sochta hoga 'Kal karte hain.' 😂",
+
+"Tere liye printer hamesha test page hi nikalta hoga. 📑",
+
+"Tera PDF dekhke printer sideways print kar de. 📄",
+
+"Teri file pe hi printer ko existential crisis aa jaata hoga. ☠️",
+
+"Tere printout me signature wali jagah hi cut jaati hogi. ✍️",
+
+"Teri copy pe hi margins strike pe chale jaate honge. 📏",
+
+"Tera print nikalte hi 'Low Toner' aa jaata hoga. 🖨️",
+
+"Tera charger sirf dusro ke phone pe fast charging karta hoga. 🔋",
+
+"Tere phone ka charger connection bhi commitment issues wala hai. 😂",
+
+"Tera charger bed ke us side hota hoga jahan haath nahi pahunchta. 🛏️",
+
+"Teri battery 99% pe hi life decisions lene lagti hogi. 🔋",
+
+"Tera charger lagte hi socket loose ho jaata hoga. 🔌",
+
+"Tere phone ko charger se zyada emotional support chahiye hota hoga. ☠️",
+
+"Teri charging cable ka favourite hobby disconnect hona hai. 📱",
+
+"Tere charger ka wire dekhke electrician bhi chup ho jaaye. ⚡",
+
+"Teri battery percentage stock market se zyada unstable hai. 📉",
+
+"Tera charger bhi tujhe dekhke slow charging pe aa jaata hoga. 🐢",
+
+"100% tu OTP yaad karke bhi SMS dobara kholta hoga. 📲",
+
+"100% tu calculator ka answer Google pe verify karta hoga. 🧮",
+
+"Lagta hai lift ka Close button tere liye stress ball hai. 🛗",
+
+"Pakka tu train rukne se pehle gate pe latak jaata hoga. 🚆",
+
+"Tu wahi hai na jo password galat likhke keyboard ko gaali deta hai? ⌨️",
+
+"Tu hi hoga jo screenshot lene ke baad screenshot check karta hai. 📸",
+
+"Kasam se tu browser me 67 tabs kholke bolta hoga 'Sab important hai.' 💻",
+
+"Tu hi woh hai jo charger lagake har 20 second me battery check karta hai. 🔋",
+
+"Pakka tu queue change karte hi purani wali fast karwa deta hoga. 🚶",
+
+"Tu hi shampoo me paani daalke usko Limited Edition bana deta hoga. 🧴",
+
+"Tu phone haath me lekar 'Mera phone kahan hai?' poochne walon ka captain lag raha hai. 📱",
+
+"Tu hi ATM ki receipt ghar le jaake padhne wala banda hai. 🧾",
+
+"Pakka tu Maggi se pehle recipe video dekh leta hoga. 🍜",
+
+"Tu hi AC remote dhoondhte dhoondhte garmi khatam kar deta hoga. ❄️",
+
+"Tu hi browser history clear karke aur suspicious lagta hoga. 🌐",
+
+"Tu hi fridge 12 baar kholke bhi paani pe settle karta hoga. 🧊",
+
+"Tu hi online payment ke baad bank app 9 baar refresh karta hoga. 💸",
+
+"Kasam se tu power bank charge karke ghar pe bhool jaata hoga. 🔋",
+
+"Tu hi TV remote pe thappad maar ke engineer feel karta hoga. 📺",
+
+"Pakka tu OTP aane se pehle hi refresh karna shuru kar deta hoga. 📩",
+
+"Tu hi phone silent pe rakhke vibration feel karta rehta hoga. 📳",
+
+"Tu hi YouTube pe gaana sunne jaake crime documentary dekhke nikalta hoga. ▶️",
+
+"Kasam se tu pen chal raha ho tab bhi page pe gol gol bana ke test karta hoga. ✍️",
+
+"Tu hi browser me ek tab dhoondhne ke liye 40 tabs kholta hoga. 💻",
+
+"Tu hi alarm snooze karke alarm ko blame karta hoga. ⏰",
+
+"Pakka tu password likhte waqt khud hi spelling bhool jaata hoga. 🔐",
+
+"Tu hi shopping cart ko wishlist samajhke jeeta hoga. 🛒",
+
+"Kasam se tu lift ka button baar baar daba ke usko motivate karta hoga. 😂",
+
+"Tu hi charger ulta laga ke socket ko judge karta hoga. 🔌",
+
+"Tu hi gallery me screenshot dhoondhne ke liye aur screenshots le leta hoga. 📂",
+
+"Bata sach sach... tu restaurant me menu 15 minute dekhke 'Jo sab le rahe hain wahi de do' bolta hai na? 🍽️",
+
+"Pakka tu kapde try karne jaake sirf mirror me pose maar ke aa jaata hai. 🪞",
+
+"Tu hi hoga jo movie khatam hone se pehle IMDb rating check karta hai. 🎬",
+
+"Bata sach sach... tu birthday pe candles se zyada cake ka wait karta hai na? 🎂",
+
+"Pakka tu airport pe gate pehle dhoondhta hai... ticket baad me. ✈️",
+
+"Tu hi hoga jo wedding buffet me pehle pura round laga ke survey karta hai. 🍛",
+
+"Bata sach sach... tu shopping mall me escalator choose karta hai, stairs khaali hone ke baad bhi. 🛗",
+
+"Pakka tu cricket match me TV ko coaching deta rehta hai. 🏏",
+
+"Tu hi hoga jo selfie lene ke baad dus minute sirf filter decide karta hai. 🤳",
+
+"Bata sach sach... tu hotel room me jaate hi blanket quality check karta hai na? 🛏️",
+
+"Pakka tu gym join karke pehle protein flavour decide karta hai. 💪",
+
+"Tu hi hoga jo train me window seat milte hi philosopher ban jaata hai. 🚆",
+
+"Bata sach sach... tu popcorn movie se pehle khatam kar deta hai na? 🍿",
+
+"Pakka tu exam ke baad answer nahi... marks calculate karta hai. 📄",
+
+"Tu hi hoga jo function me khana dekhke relatives bhool jaata hai. 🍛",
+
+"Bata sach sach... tu rain dekhte hi balcony me expert ban jaata hai. 🌧️",
+
+"Pakka tu hotel ka shampoo ghar laane ko complimentary maanta hai. 🧴",
+
+"Tu hi hoga jo wedding photographer ke saamne extra seedha chalne lagta hai. 📸",
+
+"Bata sach sach... tu bill aate hi phone dekhne lagta hai na? 💸",
+
+"Pakka tu family photo me apna face hi zoom karke dekhta hai. 👨‍👩‍👧‍👦",
+
+"Tu hi hoga jo shopping bag utha ke gym completed feel karta hai. 🛍️",
+
+"Bata sach sach... tu cricket me catch drop hote hi TV mute kar deta hai na? 📺",
+
+"Pakka tu chai thandi hone ka wait karta hai aur phir ek hi sip me khatam kar deta hai. ☕",
+
+"Tu hi hoga jo lift me sirf floor number dekhte rehta hai. 🛗",
+
+"Bata sach sach... tu farewell me speech se zyada snacks ka wait karta hai na? 🎓",
+
+"Pakka tu parking me gaadi se pehle shade dhoondhta hai. 🚗",
+
+"Tu hi hoga jo buffet me dessert pehle dekh leta hai. 🍰",
+
+"Bata sach sach... tu group photo me pehle khud ko hi dhoondhta hai na? 📷",
+
+"Pakka tu shopping karne jaata kam hai... AC khaane zyada jaata hai. 🏬",
+
+"Tu hi hoga jo hotel ke towel ko ghar wale towel se compare karta hai. 🏨",
+
+"Bata sach sach... tu restaurant me menu sirf isliye ulta-palta karta hai taaki busy lage. 🍽️",
+
+"Tu hi hoga jo movie shuru hone ke 10 minute baad poochta hai 'Ye villain hai kya?' 🎬",
+
+"Pakka tu buffet me plate chhoti isliye leta hai taaki 7 baar round maar sake. 🍛",
+
+"Tu hi hoga jo shaadi me dulhe se pehle dessert counter locate karta hai. 🍰",
+
+"Bata sach sach... tu airport pe boarding se pehle hi gate ke saamne camp laga deta hai. ✈️",
+
+"Tu hi hoga jo cricket dekhte waqt har over ke baad selector ban jaata hai. 🏏",
+
+"Pakka tu hotel room me enter hote hi AC remote dhoondhta hai. 🏨",
+
+"Tu hi hoga jo gym ki selfie workout se pehle le leta hai. 💪",
+
+"Bata sach sach... tu shopping mall me trial room ko photoshoot bana deta hai. 🪞",
+
+"Tu hi hoga jo rain aate hi story daal deta hai jaise mausam department wahi ho. 🌧️",
+
+"Pakka tu wedding me khana khake bolta hai 'Bas milne aaya tha.' 😂",
+
+"Tu hi hoga jo family function me charger se zyada gossip collect karta hai. 🎉",
+
+"Bata sach sach... tu birthday pe candles se pehle cake ka size judge karta hai. 🎂",
+
+"Tu hi hoga jo theatre me interval se pehle popcorn finish kar deta hai. 🍿",
+
+"Pakka tu parking me gaadi se pehle selfie angle dhoondhta hai. 🚗",
+
+"Tu hi hoga jo café me coffee thandi hone deta hai kyunki photo pehle zaroori hai. ☕",
+
+"Bata sach sach... tu train me window seat milte hi motivational shayar ban jaata hai. 🚆",
+
+"Tu hi hoga jo exam ke baad answer discuss karke khud ka BP badha leta hai. 📄",
+
+"Pakka tu supermarket sirf ek cheez lene jaata hai aur trolley bhar laata hai. 🛒",
+
+"Tu hi hoga jo cab me baithte hi map driver se zyada dhyan se dekhta hai. 🚕",
+
+"Bata sach sach... tu function me stage pe kam, food counter pe zyada milta hai. 🍛",
+
+"Tu hi hoga jo hotel ka complimentary toothbrush bhi investment samajhta hai. 🪥",
+
+"Pakka tu rain me bheegne ke baad bolta hai 'Maza aa gaya' aur ghar jaake kadha peeta hai. ☔",
+
+"Tu hi hoga jo group photo me sabse pehle khud ko zoom karta hai. 📸",
+
+"Bata sach sach... tu lift me mirror dekhke baal set kiye bina bahar nahi nikalta. 🪞",
+
+"Tu hi hoga jo shaadi me return gift ka weight haath se estimate karta hai. 🎁",
+
+"Pakka tu movie khatam hote hi bolta hai 'Book better thi.' 📚",
+
+"Tu hi hoga jo chai peene se pehle usko review de deta hai. ☕",
+
+"Bata sach sach... tu bus me window seat milte hi headphones pehne bina hi hero ban jaata hai. 🚌",
+
+"Tu hi hoga jo mall me AC enjoy karke bina shopping ghar aa jaata hai. 🏬",
+
+"Tu pakka WhatsApp pe 'Typing...' likhke 5 minute sochta hoga. 💬",
+
+"Tu woh type ka insaan hai jo hotel ka towel quality check karta hai. 🏨",
+
+"Tu pakka shopping mall me sirf AC khane jaata hoga. 🏬",
+
+"Tu woh type ka insaan hai jo waiter ke 'Aur kuch?' bolte hi 'Bas...' bol deta hai. 🍽️",
+
+"Tu pakka shaadi me entry se pehle menu dekh leta hoga. 🍛",
+
+"Tu woh type ka insaan hai jo supermarket me basket lekar trolley bhar deta hai. 🛒",
+
+"Tu pakka movie khatam hone se pehle ending predict karta hoga... aur galat hota hoga. 🎬",
+
+"Tu woh type ka insaan hai jo buffet me pehle dessert count karta hai. 🍰",
+
+"Tu pakka train rukne se pehle bag kandhe pe daal leta hoga. 🚆",
+
+"Tu woh type ka insaan hai jo gym membership se zyada gym shoes use karta hai. 👟",
+
+"Tu pakka function me stage se zyada food counter pe dikhta hoga. 🍛",
+
+"Tu woh type ka insaan hai jo parking me gaadi se pehle shade dhoondhta hai. 🚗",
+
+"Tu pakka café me coffee se pehle photo leta hoga. ☕",
+
+"Tu woh type ka insaan hai jo wedding photographer ko khud pose suggest karta hai. 📷",
+
+"Tu pakka escalator pe khade khade bhi race jeetne jaisa feel leta hoga. 🛗",
+
+"Tu woh type ka insaan hai jo shopping ke baad bhi 'Kuch mila hi nahi.' bolta hai. 🛍️",
+
+"Tu pakka birthday gift ka price online check karta hoga. 🎁",
+
+"Tu woh type ka insaan hai jo hotel ka shampoo ghar le aata hai. 🧴",
+
+"Tu pakka supermarket ki free tasting ko full meal bana deta hoga. 😂",
+
+"Tu woh type ka insaan hai jo movie ke beech me bolta hai 'Ye actor pehle bhi dekha hai.' 🎥",
+
+"Tu restaurant me menu 10 minute dekhke wahi order karta hai jo sab karte hain. 🍽️",
+
+"Tu buffet me starter se pehle dessert ka full survey karta hai. 🍰",
+
+"Tu theatre me interval se pehle hi popcorn khatam kar deta hai. 🍿",
+
+"Tu train rukne se pehle gate pe aise khada ho jaata hai jaise driver tera wait kar raha ho. 🚆",
+
+"Tu shopping mall me shopping se zyada AC consume karta hai. 🏬",
+
+"Tu gym me mirror ko workout partner samajhta hai. 🪞",
+
+"Tu cab me driver se zyada Google Maps pe trust karta hai. 🚕",
+
+"Tu family function me relatives se pehle food counter pe milta hai. 🍛",
+
+"Tu birthday pe gift se pehle price estimate kar leta hai. 🎁",
+
+"Tu hotel room me enter hote hi Wi-Fi password dhoondhta hai. 📶",
+
+"Tu movie ke beech me bolta hai 'Ye actor kahin dekha hai.' 🎬",
+
+"Tu group photo me sabse pehle khud ko zoom karta hai. 📸",
+
+"Tu café me coffee thandi hone deta hai kyunki photo pehle zaroori hoti hai. ☕",
+
+"Tu supermarket ek cheez lene jaata hai aur trolley bhar ke nikalta hai. 🛒",
+
+"Tu parking me gaadi se pehle shade reserve karta hai. 🚗",
+
+"Tu shaadi me dulha-dulhan se pehle dessert counter locate karta hai. 🍰",
+
+"Tu function me stage pe kam, serving table ke aas paas zyada dikhta hai. 🍽️",
+
+"Tu airport pe boarding se pehle gate ke saamne colony basa leta hai. ✈️",
+
+"Tu wedding photographer ko free me directions dene lagta hai. 📷",
+
+"Tu bus ki window seat milte hi motivational reels wala background character ban jaata hai. 🚌",
+
+"Tu rain aate hi weather expert ban jaata hai. 🌧️",
+
+"Tu hotel ka complimentary shampoo personal achievement samajhta hai. 🧴",
+
+"Tu cricket match dekhte dekhte national selector ban jaata hai. 🏏",
+
+"Tu chai peene se pehle uska review de deta hai. ☕",
+
+"Tu lift me khud se zyada mirror ko importance deta hai. 🛗",
+
+"Tu supermarket ki free tasting ko dinner plan bana deta hai. 😂",
+
+"Tu movie khatam hote hi bolta hai 'Book better thi.' 📚",
+
+"Tu shopping bag utha ke cardio complete maan leta hai. 🛍️",
+
+"Tu birthday cake cut hone se pehle frosting inspect kar leta hai. 🎂",
+
+"Tu hotel checkout se pehle room ka final inspection aise karta hai jaise audit chal raha ho. 🏨",
+
+"Tu restaurant me menu 15 minute padhke waiter se poochta hai 'Aap kya recommend karoge?' 🍽️",
+
+"Tu restaurant me menu aise scan karta hai jaise UPSC ka paper solve kar raha ho... order Paneer Butter Masala hi karta hai. 🍛",
+
+"Tu restaurant me sabka order sunne ke baad bolta hai 'Mere liye bhi wahi.' 😂",
+
+"Tu buffet me pehle pura inspection karta hai... khana baad me leta hai. 🍽️",
+
+"Tu buffet me aise ghoomta hai jaise Michelin inspector ho... plate fir bhi overfill karta hai. 🍛",
+
+"Tu buffet me dessert counter pe pehle attendance laga deta hai... starter baad me yaad aata hai. 🍰",
+
+"Tu buffet me strategy IPL auction se zyada banata hai. 🥘",
+
+"Tu theatre me trailer khatam hone se pehle popcorn finish kar deta hai... interval me doosron ke bucket pe nazar hoti hai. 🍿",
+
+"Tu theatre me movie se zyada saamne wale ki reaction dekh raha hota hai. 👀",
+
+"Tu horror movie me screen kam... exit gate zyada dekh raha hota hai. 🚪",
+
+"Tu airport pe boarding announcement se pehle hi line bana deta hai... jaise plane tere bina udne wala nahi. ✈️",
+
+"Tu airport pe gate change hote hi marathon runner ban jaata hai. 🏃",
+
+"Tu airport pe luggage belt ko aise ghoorta hai jaise tera bag tujhe pehchaan ke bahar aa jayega. 🧳",
+
+"Tu shaadi me dulha-dulhan se pehle menu confirm karta hai. 💍",
+
+"Tu shaadi me photo sirf isliye khichwata hai taaki baad me khana repeat mil jaaye. 📸",
+
+"Tu family function me rishtedaar kam... gulab jamun zyada count karta hai. 🍮",
+
+"Tu supermarket ek cheez lene jaata hai... billing ke time khud se hi poochta hai 'Ye sab kisne dala?' 🛒",
+
+"Tu supermarket me offers dekhke aisi cheez bhi khareed leta hai jo kabhi use nahi karega. 🏷️",
+
+"Tu gym jaake machine se zyada mirror use karta hai. 🪞",
+
+"Tu gym me warm-up itna lamba karta hai ki workout ka time hi khatam ho jaata hai. 💪",
+
+"Tu café me coffee thandi hone deta hai... photo garam honi chahiye bas. ☕",
+
+"Tu cab me driver se pehle bolta hai 'Shortcut pata hai na?'... phir Maps khud khol leta hai. 🚕",
+
+"Tu train me window seat milte hi motivational quotes yaad karne lagta hai. 🚆",
+
+"Tu hotel room me enter hote hi Wi-Fi connect karta hai... room baad me dekh leta hai. 📶",
+
+"Tu hotel ka complimentary shampoo aise pack karta hai jaise booking usi ke liye ki thi. 🧴",
+
+"Tu birthday pe candles se pehle cake ka flavour verify karta hai. 🎂",
+
+"Tu parking me gaadi se zyada shade ki location yaad rakhta hai. 🚗",
+
+"Tu movie khatam hote hi bolta hai 'Predictable thi'... aadhi movie washroom me tha. 🎬",
+
+"Tu group photo me pehle khud ko zoom karta hai... baaki sab crop ho gaye toh bhi chalega. 📷",
+
+"Tu chai peene se pehle uska review de deta hai... phir biscuit gira deta hai. ☕",
+
+"Tu restaurant me menu itni der padhta hai... waiter shift change karke aa jaata hai. 🍽️",
+
+"Tu restaurant me 'Kuch light hai?' poochke butter naan order kar deta hai. 🫓",
+
+"Tu buffet me pehle pura round lagata hai... plate bharte waqt aadha bhool jaata hai. 🍛",
+
+"Tu buffet me itni planning karta hai... last me pet dessert se hi bhar leta hai. 🍰",
+
+"Tu theatre me trailer pe hi itna has deta hai... movie ko prove karna padta hai. 🎬",
+
+"Tu theatre me seat pe baithte hi armrest pe ownership claim kar deta hai. 🍿",
+
+"Tu airport pe boarding zone se pehle gate pe permanent address bana leta hai. ✈️",
+
+"Tu airport pe belt number yaad nahi rakhta... conveyor belt ko ghurte rehta hai. 🧳",
+
+"Tu shaadi me entry aise karta hai jaise dulha tujhe personally bula ke gaya ho. 💍",
+
+"Tu shaadi me khana khatam karke bhi 'Ice cream reh gayi kya?' poochta hai. 🍨",
+
+"Tu family function me rishtedaaron ke naam nahi... unke special dishes yaad rakhta hai. 🍛",
+
+"Tu supermarket me basket isliye leta hai taaki trolley lene ki acting na karni pade. 🛒",
+
+"Tu supermarket me offers dekhke aisi cheez bhi khareed leta hai... jiska use Google pe dekhna padta hai. 🏷️",
+
+"Tu gym jaake bottle teen baar bharta hai... dumbbell ek baar uthata hai. 💪",
+
+"Tu gym me treadmill pe selfie zyada leta hai... steps kam. 🪞",
+
+"Tu café me coffee se pehle uska photoshoot complete karta hai. ☕",
+
+"Tu cab me driver ko shortcut samjhata hai... khud location ulta daal deta hai. 🚕",
+
+"Tu train me window seat milte hi headphones laga ke khud ko movie ka hero samajhne lagta hai. 🚆",
+
+"Tu hotel room me enter hote hi bed pe jump karta hai... review baad me deta hai. 🛏️",
+
+"Tu hotel ka complimentary soap bhi aise pack karta hai jaise booking uske liye hi ki thi. 🧼",
+
+"Tu birthday pe gift kholne se pehle wrapping paper ki quality judge karta hai. 🎁",
+
+"Tu parking me gaadi se pehle dhoop ki direction calculate karta hai. 🚗",
+
+"Tu movie khatam hone ke baad bolta hai 'Mujhe pehle se pata tha'... interval me story pooch raha tha. 🎥",
+
+"Tu group photo me pehle khud ko zoom karta hai... phir bolta hai 'Baaki sab theek aaye?' 📸",
+
+"Tu chai peene se pehle review de deta hai... pehla sip leke zubaan jala leta hai. ☕",
+
+"Tu mall me shopping kam karta hai... free perfume samples zyada collect karta hai. 🏬",
+
+"Tu wedding me stage pe sirf isliye jaata hai taaki photographer tujhe ignore na kare. 📷",
+
+"Tu cricket match dekhte waqt har ball pe career advice dene lagta hai. 🏏",
+
+"Tu bus me window seat milte hi bahar aise dekhne lagta hai jaise life decisions wahi milenge. 🚌",
+
+"Tu rain shuru hote hi status laga deta hai... bheegne ki himmat fir bhi nahi hoti. 🌧️",
+
+"Tu online meeting me camera off karke bhi serious face bana ke baitha rehta hai. 💻",
+
+"Tu exam hall me answer kam... invigilator ki location zyada track karta hai. 📝",
+
+"Tu barber ko 'Thoda sa' bolke baad me mirror ko blame karta hai. ✂️",
+
+"Tu salon se nikalte hi cap pehen leta hai... confidence ghar chhod aata hai. 🧢",
+
+"Tu petrol pump pe ₹500 ka petrol dalwa ke meter full attention se dekhta hai. ⛽",
+
+"Tu traffic signal pe countdown dekhke Formula 1 driver ban jaata hai. 🚦",
+
+"Tu auto wale se ₹10 ke liye argue karta hai... UPI pe ₹9 tip de deta hai. 🛺",
+
+"Tu bank me token lene ke baad har 20 second me screen dekhne lagta hai. 🏦",
+
+"Tu doctor ke 'Aur kuch?' bolte hi puri life story shuru kar deta hai. 🩺",
+
+"Tu medical store pe medicine ka naam bhool jaata hai... symptoms HD me yaad rehte hain. 💊",
+
+"Tu barber ki chair pe baithke hairstyle nahi... kismat trust karta hai. 💈",
+
+"Tu passport photo me smile rokne me itni mehnat karta hai... result fir bhi criminal jaisa aata hai. 📷",
+
+"Tu viva me answer se pehle 'Actually Sir...' bolke time khareedta hai. 🎓",
+
+"Tu practical file last night complete karta hai... handwriting pehle hi surrender kar deti hai. 📚",
+
+"Tu attendance lagte hi washroom yaad kar leta hai. 🚪",
+
+"Tu office me laptop kholte hi pehle weather check karta hai... kaam baad me. 🌤️",
+
+"Tu interview room ke bahar answers revise karta hai... andar jaake naam hi atak jaata hai. 💼",
+
+"Tu courier receive karke box pehle inspect karta hai... andar kya hai baad me dekhta hai. 📦",
+
+"Tu hostel me kapde dhone se pehle clean T-shirt dhoondhne ki last attempt karta hai. 👕",
+
+"Tu bus stop pe bus aate hi aise khada ho jaata hai jaise reserved seat tera intezaar kar rahi ho. 🚌",
+
+"Tu Aadhaar centre me line se zyada token number ko ghurta rehta hai. 🪪",
+
+"Tu police checking dekhke helmet ko extra tight kar leta hai. 🪖",
+
+"Tu wedding invitation padhne se pehle venue Google Maps pe dekh leta hai. 💌",
+
+"Tu parcel kholte waqt excitement itni hoti hai... bubble wrap hero ban ke nikalta hai. 📦",
+
+"Tu school assembly me prayer se zyada dhoop calculate karta tha. ☀️",
+
+"Tu raincoat tab nikaalta hai jab baarish almost khatam ho chuki hoti hai. 🌧️",
+
+"Tu dentist ke 'Relax' bolte hi aur tense ho jaata hai. 😬",
+
+"Tu train ticket check karne ke baad bhi har station pe confirm karta hai. 🚉",
+
+"Tu election wale din bhi Sunday wali sleep maintain karta hai. 🛏️",
+
+"Tu recharge karte waqt plan se zyada cashback dhoondhta hai. 📲",
+
+"Tu barber ko 'Bas thoda sa' bolta hai... barber bhi samajh jaata hai aaj blame usi pe aayega. ✂️",
+
+"Tu mechanic ke paas problem batane jaata hai... gaadi se pehle mechanic confuse ho jaata hai. 🔧",
+
+"Tu tailor ko 'Perfect fit chahiye' bolta hai... tailor measuring tape ko hi doubt karne lagta hai. 🧵",
+
+"Tu dentist ke 'Relax' bolte hi kursi ko armrest samajh ke pakad leta hai. 🦷",
+
+"Tu mobile repair wale ko itni history bata deta hai... phone se zyada woh hang ho jaata hai. 📱",
+
+"Tu courier receive karte waqt box aise inspect karta hai jaise CID evidence collect kar rahi ho. 📦",
+
+"Tu chai wale ko 'Kadak banana' bolta hai... pehla sip leke phoonk hi maar raha hota hai. ☕",
+
+"Tu paani puri wale ko 'Thoda spicy' bolta hai... teesri puri pe aankhon me paani aa jaata hai. 🥵",
+
+"Tu salon me hairstyle Salman Khan wali maangta hai... bahar nikalke helmet dhoondhta hai. 💇",
+
+"Tu plumber ke aane tak YouTube dekhke teen aur problems create kar deta hai. 🚰",
+
+"Tu electrician ke saamne switch baar baar on-off karta hai... jaise clue mil jayega. 💡",
+
+"Tu medical store pe medicine ka naam bhool jaata hai... colour pura yaad rehta hai. 💊",
+
+"Tu security guard ko flat number confidently bolta hai... apna hi floor bhool jaata hai. 🚪",
+
+"Tu xerox wale ko 'Urgent hai' bolta hai... pendrive ghar pe chhod aata hai. 📄",
+
+"Tu tea stall pe 'Bas ek chai' bolta hai... ek ghante baad bhi wahi discussion chal raha hota hai. 🍵",
+
+"Tu watch repair wale se '2 minute lagenge?' poochta hai... khud 20 minute late aata hai. ⌚",
+
+"Tu shoe shop me 8 pair try karta hai... last me pehla wala hi le leta hai. 👟",
+
+"Tu optician ke 'Clear dikh raha hai?' pe har line guess maar deta hai. 👓",
+
+"Tu cab driver ko shortcut samjhata hai... destination hi galat daal rakha hota hai. 🚕",
+
+"Tu ATM pe balance check karne jaata hai... mini statement lekar economist ban jaata hai. 🏧",
+
+"Tu kirana wale ko 'Bas do cheez chahiye' bolta hai... bill dekhke usko bhi surprise kar deta hai. 🛒",
+
+"Tu bus conductor ko ₹500 deta hai... phir poore raste uski taraf hi dekhte rehta hai. 🚌",
+
+"Tu ice cream wale se sample pe sample leta hai... order vanilla ka hi karta hai. 🍦",
+
+"Tu petrol pump pe 'Round figure kar do' bolta hai... meter khatam hote hi maths shuru kar deta hai. ⛽",
+
+"Tu society guard ko roz naam batata hai... woh roz pehchaanne se mana kar deta hai. 😂",
+
+"Tu dhobi ko 'Kal chahiye' bolta hai... khud ek hafte baad lene jaata hai. 👕",
+
+"Tu milk packet kholte hi aadha kitchen me gira deta hai... phir packet ko blame karta hai. 🥛",
+
+"Tu gas cylinder wale ko lift ka wait karwata hai... khud seedhiyon se neeche aa jaata hai. 🛗",
+
+"Tu mobile cover lene jaata hai... aadha ghanta colour decide nahi kar pata. 📱",
+
+"Tu pani bottle kharidke pehle MRP check karta hai... pyaas baad me lagti hai. 💧",
+
+"Tu barber ko reference photo dikhata hai... baad me topi pehenke ghar jaata hai. 🧢",
+
+"Tu paani puri wale ko 'Teekha aur' bolta hai... teesri puri pe aankhon se National Anthem bajne lagta hai. 🌶️",
+
+"Tu mechanic ko awaaz samjhane ke chakkar me khud hi engine ban jaata hai. 🔧",
+
+"Tu ATM pe balance dekhke aise sigh leta hai jaise economy tere bharose chal rahi ho. 🏧",
+
+"Tu tailor ko 'Slim fit' bolta hai... fitting ke baad hawa bhi permission leke andar jaati hai. 🧵",
+
+"Tu tea stall pe 'Bas 2 minute' bolta hai... ek political debate aur do chai baad uthta hai. ☕",
+
+"Tu bus conductor ko ₹500 deta hai... phir poore raste uski aankhon me refund dhoondhta rehta hai. 🚌",
+
+"Tu mobile repair wale ko problem explain karte karte phone se zyada apni life update de deta hai. 📱",
+
+"Tu dentist ke saamne muh itna kholta hai... doctor ko bhi awkward feel ho jaata hai. 🦷",
+
+"Tu kirana wale ko 'Bas do cheez' bolta hai... bill dekhke khud poochta hai 'Ye sab kab liya?' 🛒",
+
+"Tu security guard ko confidence se flat number batata hai... lift me jaake floor Google karta hai. 🚪",
+
+"Tu shoe shop me 11 pair try karta hai... last me bolta hai 'Online sasta mil raha hai.' 👟",
+
+"Tu salon me haircut ke baad mirror ko teen angle se dekhta hai... bahar nikalte hi regret start ho jaata hai. 💈",
+
+"Tu courier kholne me itni excitement dikhata hai... andar invoice dekhke silence aa jaata hai. 📦",
+
+"Tu optician ke 'Clear dikh raha hai?' pe har baar 'Thoda aur' bolta hai... chart khatam ho jaata hai. 👓",
+
+"Tu petrol pump pe meter itna ghurta hai... employee ko lagta hai audit chal raha hai. ⛽",
+
+"Tu medical store pe medicine ka naam bhool jaata hai... packet ka colour 4K me yaad rehta hai. 💊",
+
+"Tu tea stall pe chai se zyada biscuit dubone ki strategy banata hai. 🍪",
+
+"Tu xerox shop pe 'Urgent hai' bolta hai... pen drive ghar pe chhod aata hai. 📄",
+
+"Tu cab me baithte hi AC badhwa deta hai... 5 minute baad window khol deta hai. 🚕",
+
+"Tu wedding buffet me plate itni bhar leta hai... spoon ko parking nahi milti. 🍛",
+
+"Tu hotel ke complimentary slippers bhi future planning samajhke pack kar leta hai. 🏨",
+
+"Tu barber se 'Bhai trust you' bolta hai... cutting ke baad kisi pe trust nahi karta. ✂️",
+
+"Tu paan wale ko UPI karne me itna time laga deta hai... line me log friendship kar lete hain. 📲",
+
+"Tu society ke watchman ko roz 'Guest aa rahe hain' bolta hai... guest tujhe hi cancel kar dete hain. 😂",
+
+"Tu milk packet itni style se kholta hai... aadha doodh sink ka breakfast ban jaata hai. 🥛",
+
+"Tu umbrella lekar nikalta hai... baarish band. Umbrella bhool jaata hai... cloudburst. ☔",
+
+"Tu gas cylinder aate hi fitness influencer ban jaata hai... 10 second baad 'Bhai utha de' bol deta hai. 💪",
+
+"Tu ice cream wale se 6 flavour taste karta hai... order Vanilla hi deta hai. 🍦",
+
+"Tu parking ticket itni sambhalke rakhta hai... gaadi kahan park ki wohi bhool jaata hai. 🚗",
+
+"Tu barber ko 'Bas upar se thoda' bolta hai... baad me cap fashion ka hissa bana deta hai. 🧢",
+
+"Tu wedding me itni jaldi plate bhar leta hai... baad me better counter dekhke life decisions question karta hai. 🍛",
+
+"Tu pani puri wale ko 'Aur teekha' bolta hai... agle 5 minute hawa kha raha hota hai. 🌶️",
+
+"Tu ATM pe cash nikalke teen baar note ginta hai... total fir bhi wahi rehta hai. 💸",
+
+"Tu shoe shop me dono pair pehenke chalta hai... last me bolta hai 'Soch ke aata hoon.' 👟",
+
+"Tu salon me haircut ke baad har mirror me alag result dhoondhta rehta hai. ✂️",
+
+"Tu mechanic ko awaaz samjhane ke liye 'Grrrr... tak... tak...' karta hai... mechanic tujhe hi dekhne lagta hai. 🔧",
+
+"Tu chai pe phoonk itni maarta hai... chai se zyada table thandi ho jaati hai. ☕",
+
+"Tu buffet me plate itni bhar leta hai... raita bhi standing ticket pe aata hai. 😂",
+
+"Tu hotel ka towel itna inspect karta hai... jaise review likhne HR ne bheja ho. 🏨",
+
+"Tu courier ka box itni excitement se kholta hai... andar bill dekhke acting band ho jaati hai. 📦",
+
+"Tu bus me window seat ke liye sprint maarta hai... baad me dhoop wahi side aa jaati hai. 🚌",
+
+"Tu cab me baithte hi AC full karwata hai... do minute baad bolta hai 'Thoda kam kar do.' 🚕",
+
+"Tu kirana wale ko 'Bas do minute' bolta hai... aadha store yaad aa jaata hai. 🛒",
+
+"Tu medical store pe medicine ka colour yaad rakhta hai... naam kabhi nahi. 💊",
+
+"Tu train me seat milte hi bottle, bag aur rumal se territory reserve kar deta hai. 🚆",
+
+"Tu airport pe boarding line me itni jaldi lagta hai... seat number fir bhi wahi rehta hai. ✈️",
+
+"Tu petrol pump pe meter itna ghurta hai... employee ko lagta hai viva chal raha hai. ⛽",
+
+"Tu restaurant me tissue paper pehle fold karta hai... order baad me decide hota hai. 🍽️",
+
+"Tu family function me har uncle ko 'Namaste' bolta hai... baad me mummy se poochta hai 'Ye kaun the?' 😂",
+
+"Tu umbrella sirf dhoop me leke nikalta hai... baarish wale din ghar pe hi chhod deta hai. ☔",
+
+"Tu gym me bottle sabse badi laata hai... workout sabse chhota karta hai. 💪",
+
+"Tu parking me gaadi seedhi lagane se zyada photo seedhi aani chahiye pe focus karta hai. 🚗",
+
+"Tu movie dekhte waqt washroom tab jaata hai... jab asli scene shuru hota hai. 🎬",
+
+"Tu ice cream ka sample itna taste karta hai... shop wala menu andar rakh deta hai. 🍦",
+
+"Tu society guard ko har baar flat number batata hai... woh har baar naya tenant samajhta hai. 🚪",
+
+"Tu tea stall pe 'Bas ek chai' bolta hai... uthte waqt dukaan band hone wali hoti hai. 🍵",
+
+"Tu tailor ko 'Urgent chahiye' bolta hai... khud ek hafte baad lene jaata hai. 🧵",
+
+"Tu birthday pe candles bujhne se pehle cake ka corner decide kar leta hai. 🎂",
+
+"Tu raincoat pehenke nikalta hai... baarish tere ghar pahunchte hi shuru hoti hai. 🌧️",
+
+"Tu kapde fold karne baithta hai... last me chair hi wardrobe ban jaati hai. 👕",
+
+"Tu dustbin ke saamne khada hoke bhi paper ball miss kar deta hai... phir hawa ko blame karta hai. 🗑️",
+
+"Tu ghar se nikalte hi pocket check karta hai... phir wapas jaake wahi cheez bhool aata hai. 🚪",
+
+"Tu pillow ka thanda side dhoondhte dhoondhte subah kar deta hai. 🛏️",
+
+"Tu washing machine band hone se pehle hi uske saamne security guard ban ke khada ho jaata hai. 🧺",
+
+"Tu fan ki speed badha ke kambal bhi le leta hai... balance naam ki cheez hi nahi. 🌀",
+
+"Tu TV ka volume 17 pe hi comfortable feel karta hai... 16 aur 18 se personal dushmani hai. 📺",
+
+"Tu light off karke bed pe jaata hai... 2 second baad yaad aata hai charger reh gaya. 💡",
+
+"Tu almari kholta hai... phir bolta hai 'Mere paas pehenne ko kuch nahi hai.' 👔",
+
+"Tu biscuit chai me itni der dubota hai... recovery operation chalana padta hai. ☕",
+
+"Tu blanket share karta hai... aadhi raat ko pura border capture kar leta hai. 🛌",
+
+"Tu ghar ki chabi itni safely rakhta hai... khud hi nahi dhoondh pata. 🔑",
+
+"Tu TV remote ko itna dhoondhta hai... last me cushion ke neeche hi milta hai. 📺",
+
+"Tu bucket bharne lagata hai... phir bathroom ke bahar hi kisi aur kaam me lag jaata hai. 🚿",
+
+"Tu kapde sukha ke bhool jaata hai... baarish reminder bhej deti hai. 🌧️",
+
+"Tu phone charging pe lagata hai... switch on karna next update me yaad aata hai. 🔌",
+
+"Tu fridge band karke 5 second baad dobara kholta hai... jaise naye snacks spawn ho gaye hon. 🧊",
+
+"Tu naya bedsheet bichhata hai... 10 minute baad usi pe chai gira deta hai. 🍵",
+
+"Tu room clean karne nikalta hai... purani photos dekhke emotional ho jaata hai. 📸",
+
+"Tu jhadu lagate lagate khud hi ek kone me sab dhakel deta hai... future problem future wale tu ki. 🧹",
+
+"Tu socks itni jagah utaarta hai... washing machine bhi attendance nahi laga pati. 🧦",
+
+"Tu mirror saaf karne jaata hai... selfie leke wapas aa jaata hai. 🪞",
+
+"Tu bottle freezer me thandi karne rakhta hai... yaad tab aata hai jab ice ban chuki hoti hai. 🧊",
+
+"Tu room ka fan band karke bahar nikalta hai... 10 second baad doubt aa jaata hai. 🌀",
+
+"Tu cupboard organize karta hai... teesre shelf pe motivation khatam ho jaata hai. 📚",
+
+"Tu parcel ki bubble wrap ko product se zyada importance deta hai. 📦",
+
+"Tu ghar ka Wi-Fi restart karke khud hi mobile data pe chalne lagta hai. 📶",
+
+"Tu bedsheet theek karta hai... 2 minute baad usi pe chips gira deta hai. 🍟",
+
+"Tu alarm band karta hai... phir aankh band karke future bhi band kar deta hai. ⏰",
+
+"Tu slippers aise chhodta hai... subah treasure hunt shuru ho jaati hai. ",
+
+"Tu white shoes pehenke nikalta hai... pehla kadam hi pani ke gaddhe me padta hai. 👟",
+
+"Tu phone 100% charge karta hai... power bank fir bhi saath leke nikalta hai jaise expedition pe ja raha ho. 🔋",
+
+"Tu haircut ke baad har mirror me check karta hai... result har angle se same disappointing rehta hai. 💈",
+
+"Tu umbrella lekar nikalta hai... dhoop nikal aati hai. Umbrella bhool jaata hai... Indra Dev personal ho jaate hain. ☔",
+
+"Tu naya pen kholta hai... signature ke time hi strike pe chala jaata hai. ✍️",
+
+"Tu ghar se confidence leke nikalta hai... lift me hi kisi ne 'Bhai zip...' bol diya. 💀",
+
+"Tu full energy me room clean karta hai... remote ka permanent address change ho jaata hai. 📺",
+
+"Tu Maggi banata hai... masala packet sink me aur noodles cooker me daal deta hai. 🍜",
+
+"Tu naye kapde pehenke nikalta hai... pehla compliment dhool deti hai. 🌪️",
+
+"Tu itna unlucky hai... plastic cover kholte hi scratch free gift mil jaata hai. 📦",
+
+"Tu bottle itni zor se band karta hai... kholte waqt khud se negotiation karni padti hai. 🥤",
+
+"Tu charging pe phone lagata hai... switch board chup-chaap OFF rehta hai. 🔌",
+
+"Tu selfie lene jaata hai... peeche wala uncle hi main character ban jaata hai. 📸",
+
+"Tu TV dekhte waqt remote sambhalke rakhta hai... ad aate hi woh Narnia chala jaata hai. 📺",
+
+"Tu room freshener spray karta hai... pehle khud hi khaansne lagta hai. 🌬️",
+
+"Tu bedsheet perfectly bichhata hai... 5 minute baad usi pe chai ulat deta hai. ☕",
+
+"Tu ghar lock karke nikalta hai... 20 kadam baad khud pe FIR likhne lagta hai 'Lock kiya tha na?' 🚪",
+
+"Tu shopping bag sambhalke uthata hai... receipt hawa me ud jaati hai. 🛍️",
+
+"Tu phone cover lagata hai... screen pe naya crack welcome speech de deta hai. 📱",
+
+"Tu washing machine on karta hai... kapde daalne ka idea 10 minute baad aata hai. 🧺",
+
+"Tu helmet pehenke bhi itna confuse lagta hai... Google Maps bhi bolta hai 'Main chalta hoon.' 🪖",
+
+"Tu ghar se itni jaldi nikalta hai... destination hi galat pahunch jaata hai. 📍",
+
+"Tu naya notebook itna sambhalke use karta hai... last me rough work hi uska future ban jaata hai. 📒",
+
+"Tu parcel itni excitement se kholta hai... andar 'Invoice' hi hero niklta hai. 📦",
+
+"Tu chai itni der phoonk maar ke peeta hai... thandi hone ke baad bolta hai 'Maza nahi aaya.' ☕",
+
+"Tu umbrella sirf dhoop me yaad rakhta hai... baarish tujhe personally jaanti hai. ☔",
+
+"Tu ghar ki safai shuru karta hai... purani cheezein dekhke nostalgia me shift ho jaata hai. 📸",
+
+"Tu bucket bharne lagata hai... bathroom se zyada terrace pe waterfall feel aata hai. 🚿",
+
+"Tu mirror saaf karta hai... pehli selfie me hi fingerprints wapas aa jaate hain. 🪞",
+
+"Tu naya pen sirf signature ke time fail karwa sakta hai... ye alag level ka talent hai. ✍️",
+
+"Tu TV remote itna sambhalke rakhta hai... milta hamesha fridge ke upar hai. 📺",
+
+"Tu bedsheet theek karta hai... 5 minute baad khud hi usko earthquake bana deta hai. 🛏️",
+
+"Tu doodh garam karne rakhta hai... kitchen ko suspense thriller bana deta hai. 🥛",
+
+"Tu washing machine chala ke kapde daalna bhool jaata hai... machine bhi overtime kar leti hai. 🧺",
+
+"Tu almari organize karta hai... important file witness protection me chali jaati hai. 📂",
+
+"Tu room lock karta hai... raste bhar lock se zyada apni memory pe doubt karta rehta hai. 🚪",
+
+"Tu bottle freezer me rakhta hai... nikalta glacier hai. 🧊",
+
+"Tu fan full speed pe chala ke kambal bhi full cover leta hai... climate change akela sambhal raha hai. 🌀",
+
+"Tu table saaf karta hai... 10 minute baad wapas archaeological site bana deta hai. 🏺",
+
+"Tu raincoat pehenke nikalta hai... cloud bhi confuse ho jaate hain kab barsna hai. 🌧️",
+
+"Tu phone cover badalta hai... screen protector turant resignation de deta hai. 📱",
+
+"Tu cupboard set karta hai... teesre shelf pe motivation expire ho jaata hai. 📚",
+
+"Tu light band karke bed pe jaata hai... har raat ek naya pending kaam yaad aa jaata hai. 💡",
+
+"Tu ghar se wallet leke nikalta hai... confidence ghar pe hi reh jaata hai. 👛",
+
+"Tu socks itni creativity se utaarta hai... pair milte hain, pair ka pair nahi. 🧦",
+
+"Tu parcel ka bubble wrap product se zyada carefully handle karta hai. 📦",
+
+"Tu phone silent pe rakhta hai... phir har vibration apni imagination se create karta hai. 📳",
+
+"Tu fridge kholke 20 second sochta hai... paani pe compromise karke nikal aata hai. 🚰",
+
+"Tu room me cheez rakhke itni safe jagah bhoolta hai... khud future owner ban jaata hai. 😂",
+
+"Tu exam me extra sheet itni jaldi maangta hai... andar likha aadha introduction hi hota hai. 📄",
+
+"Tu passport size photo khichwane jaata hai... expression dekhke camera bhi retry maangta hai. 📸",
+
+"Tu cricket khelte waqt bat choose karne me itna time lagata hai... pehli ball pe out ho jaata hai. 🏏",
+
+"Tu nayi diary January me shuru karta hai... February tak bookmark ban jaati hai. 📔",
+
+"Tu bus me seat milte hi itna set ho jaata hai... utarna apna stop cross karke yaad aata hai. 🚌",
+
+"Tu traffic signal pe countdown dekhke race ready karta hai... saamne traffic jam khada hota hai. 🚦",
+
+"Tu bank ka form itne confidence se bharta hai... last box pe aake pen ruk jaata hai. 🏦",
+
+"Tu viva ke bahar sabko answer samjhata hai... andar apna naam spell karne me atak jaata hai. 🎓",
+
+"Tu rain me bike saaf karke nikalta hai... nature personally reply de deta hai. 🌧️",
+
+"Tu birthday balloons phulata hai... cake cut hone se pehle hi aadhe phuss ho jaate hain. 🎈",
+
+"Tu cupboard se ek T-shirt nikalta hai... baaki kapde freedom movement shuru kar dete hain. 👕",
+
+"Tu haircut ke baad itna mirror dekhta hai... baal nahi, acceptance dhoondh raha hota hai. ✂️",
+
+"Tu wedding me stage pe itni der khada rehta hai... photographer bhi doosre guests pe shift ho jaata hai. 📷",
+
+"Tu recharge sirf cashback dekhke karta hai... data teesre din hi retire ho jaata hai. 📲",
+
+"Tu parking ticket itni sambhalke rakhta hai... gaadi kis floor pe hai woh bhool jaata hai. 🚗",
+
+"Tu school reunion me sabko pehchaanne ka acting karta hai... name tag hi asli dost hota hai. 🎒",
+
+"Tu library se book time pe issue karta hai... return date history ban jaati hai. 📚",
+
+"Tu bus conductor ko ₹500 deta hai... change milne tak uski side profile yaad ho jaati hai. 💸",
+
+"Tu train me upper berth choose karta hai... neeche bottle hi reh jaati hai. 🚆",
+
+"Tu barber ko 'Experiment kar lo' bolta hai... agle mahine cap collection shuru kar deta hai. 🧢",
+
+"Tu office ID card bhoolta itni baar hai... security guard tujhe employee se zyada visitor maanta hai. 🪪",
+
+"Tu pressure cooker ki seeti ginta rehta hai... gas band karna hi bhool jaata hai. 🍲",
+
+"Tu socks ka pair sambhalke rakhta hai... washing machine alag hi relationship me hoti hai. 🧦",
+
+"Tu laptop update postpone karta rehta hai... presentation wale din badla le leta hai. 💻",
+
+"Tu toothpaste tube itni squeeze karta hai... science bhi confuse ho jaati hai aur kitna niklega. 🪥",
+
+"Tu naya perfume lagata hai... pehla compliment machhar de dete hain. 🦟",
+
+"Tu ghar ki duplicate key itni safe jagah rakhta hai... emergency me original hi dhoondhta rehta hai. 🔑",
+
+"Tu photo click karne jaata hai... camera focus background pe kar deta hai. 📷",
+
+"Tu calendar pe plan itne likhta hai... dekhke lagta hai busy hai, reality me pillow witness hai. 📅",
+
+"Tu attendance lagte hi washroom ka emergency patient ban jaata hai. 🚪",
+
+"Tu viva ke bahar professor ban jaata hai... andar mute mode pe chala jaata hai. 🎓",
+
+"Tu answer sheet submit karke bahar aata hai... asli answers tab yaad aate hain. 📝",
+
+"Tu office me laptop kholte hi itna busy face bana leta hai... Excel bhi confuse ho jaaye. 💼",
+
+"Tu meeting me sirf head nod karta rehta hai... end me 'Can you repeat?' bol deta hai. 😂",
+
+"Tu Teams call pe 'You're on mute' ka permanent subscriber hai. 🎧",
+
+"Tu office printer ko tab yaad karta hai... jab poori line uske peeche khadi hoti hai. 🖨️",
+
+"Tu traffic signal green hote hi horn bajata hai... saamne truck Himalaya nahi hilega. 🚦",
+
+"Tu helmet sirf police dekhke yaad karta hai. 🪖",
+
+"Tu bike wash karata hai... mausam turant personal ho jaata hai. 🌧️",
+
+"Tu cricket me catch chhodke grass inspect karne lagta hai. 🏏",
+
+"Tu football miss karke shoes adjust karta rehta hai. ⚽",
+
+"Tu badminton shuttle se zyada excuses udaata hai. 🏸",
+
+"Tu government office me file itni baar kholta hai... kaam fir bhi next counter pe hota hai. 📄",
+
+"Tu passport office me photo dekhke khud ko hi reject kar deta hai. 📸",
+
+"Tu bank me sign har baar alag font me karta hai. ✍️",
+
+"Tu ATM se paise nikalke pehle receipt padh leta hai... notes baad me ginta hai. 🏧",
+
+"Tu election ink ko tattoo samajhke 3 din flex karta hai. 🖐️",
+
+"Tu courier wale ko '5 minute' bolta hai... woh agle din milta hai. 📦",
+
+"Tu lift ke saamne itna close khada rehta hai... andar wale pehle tujhe side karte hain. 🛗",
+
+"Tu hostel me charger se zyada apna mug protect karta hai. 😂",
+
+"Tu library me book kholke pehle last page dekh leta hai. 📚",
+
+"Tu canteen ki line me menu change hone tak decide nahi kar pata. 🍛",
+
+"Tu fresher's party me dance se zyada pockets check karta rehta hai. 🎉",
+
+"Tu Holi pe sabko colour lagata hai... shampoo ko sabse zyada punishment milti hai. 🎨",
+
+"Tu Diwali pe diye kam... extension boards zyada jala deta hai. 🪔",
+
+"Tu society meeting me paani kam... opinion zyada deta hai. 🏘️",
+
+"Tu colony cricket me bat tera hota hai... rules bhi tere hi hote hain. 🏏",
+
+"Tu tuition me front bench pe baithke bhi backbencher wali harkatein karta hai. 📖",
+
+"Tu farewell photo me smile itni force karta hai... principal bhi confuse ho jaata hai. 😂",
 
 
 ],
    reverseRoasts: [
 
-"Google pe 'Google' search karna... confidence alag hi level ka hai. 🌐",
+"Tu reverse roast maangne aata hai... bot pehle tujhe hi terms and conditions dikha deta hai. 📜",
 
-"7+8 ke liye calculator kholna... research kaafi deep chal rahi hai. 🧮",
+"Tu doosre ka naam type karta hai... keyboard autocorrect me tera naam bhar deta hai. ⌨️",
 
-"Password bhoolke 'Remember Me' pe bharosa... next level planning. 🔐",
+"Tu roast request bhejta hai... loading circle bhi do baar soch leta hai. 🔄",
 
-"OTP aane se pehle 15 baar refresh... dedication unlimited. 📲",
+"Tu itne confidence se request karta hai... bot pehle 'Are you sure?' teen baar poochta hai. ⚠️",
 
-"Mute pe baat karke 'Aawaz aa rahi hai?' puchna... iconic moment. 🎤",
+"Tu reverse roast trigger karta hai... notification tere phone pe pehle aa jaati hai. 📲",
 
-"Charging pe phone laga ke battery har 10 second me check karna... trust issues. 🔋",
+"Tu sochta hai aaj doosra fasega... cursor seedha tere naam pe ruk jaata hai. 🖱️",
 
-"Shopping cart bharna aur kuch order na karna... financial strategy. 🛒",
+"Tu roast button dabata hai... screen pe 'Owner identified' flash ho jaata hai. 🚨",
 
-"Screenshot lekar gallery me kabhi na dekhna... digital museum. 🖼️",
+"Tu request submit karta hai... system pehle tera profile picture zoom kar leta hai. 🔍",
 
-"Weather app dekhke bhi bahar jhaankna... double verification. 🌦️",
+"Tu doosre ko nominate karta hai... selection committee tujhe unanimous choose kar leti hai. 🗳️",
 
-"Remote dhoondhte dhoondhte usi pe baith jana... achievement unlocked. 📺",
+"Tu bachne ke liye chup rehta hai... mic sirf tere saamne on hota hai. 🎤",
 
-"'Skip Ad' ka countdown pura dekhna... patience ka World Record. ▶️",
+"Tu backbench pe baithta hai... teacher attendance ke baad seedha tujhe khada kar deta hai. 📚",
 
-"Calculator se 10×10 confirm karna... NASA ko CV bhej do. 🚀",
+"Tu presentation wale din aankh niche karke baithta hai... projector pe pehla naam tera hi aa jaata hai. 📽️",
 
-"Comment likhke khud hi like maar dena... self support system. ❤️",
+"Tu group photo me side me khada hota hai... photographer bolta hai 'Bhai thoda aur side.' 📸",
 
-"Flight Mode on karke network check karna... science bhi confuse hai. ✈️",
+"Tu canteen me line ke end me lagta hai... counter pe jaate hi samose khatam ho jaate hain. 🥟",
 
-"YouTube pe 'How to sleep early' dekhte dekhte 3 baje tak jagta... discipline dekho. 🌙"
+"Tu train me khaali seat dekhke bhaagta hai... uspe 'Reserved' ka banda wahi aa jaata hai. 🚆",
 
+"Tu lift ka button baar baar dabata hai... lift fir bhi doosre floor pe rukti rehti hai. 🛗",
+
+"Tu traffic signal pe shortcut leta hai... saamne barricade smile karta milta hai. 🚧",
+
+"Tu cricket me six maarne jaata hai... ball seedha apni hi bottle gira deti hai. 🏏",
+
+"Tu exam me topper ke paas baithta hai... invigilator seat hi change kar deta hai. 📝",
+
+"Tu stage pe confidence se chadhta hai... mic stand hi neeche gir jaata hai. 🎤",
+
+"Tu white shirt pehenke nikalta hai... pehli gravy tujhe hi apna ghar samajh leti hai. 🍛",
+
+"Tu barber ko reference photo dikhata hai... mirror dekhke reference hi delete kar deta hai. ✂️",
+
+"Tu naya perfume lagata hai... pehla reaction machharon ka aata hai. 🦟",
+
+"Tu parking me perfect jagah dhoondhta hai... pillar hi door kholne nahi deta. 🚗",
+
+"Tu umbrella kholta hai... hawa usko drone bana ke le jaati hai. ☂️",
+
+"Tu chai lekar sofa pe baithta hai... remote usi cushion ke neeche retirement le chuka hota hai. 📺",
+
+"Tu Maggi banata hai... masala packet dustbin me aur wrapper cooker me chala jaata hai. 🍜",
+
+"Tu wallet nikalke payment karne jaata hai... loyalty card sabse pehle bahar aa jaata hai. 💳",
+
+"Tu nayi notebook kholta hai... pehla pen hi ink dene se mana kar deta hai. ✍️",
+
+"Tu speech dene khada hota hai... pehli khansi hi confidence le jaati hai. 😂",
+
+"Tu reverse roast dabata hai... phone ka front camera khud hi ON ho jaata hai. 📸",
+
+"Tu doosre ka naam type karta hai... keyboard pehla suggestion tera hi deta hai. ⌨️",
+
+"Tu roast request bhejta hai... progress bar aadhe raste pe rukke hansne lagti hai. 😂",
+
+"Tu submit pe click karta hai... loading screen bhi bolti hai 'Pakka?' ⚠️",
+
+"Tu bachne ke liye doosre ko tag karta hai... algorithm bolta hai 'Nice try.' 🎯",
+
+"Tu stage ke peeche chupne jaata hai... spotlight shortcut lekar wahin pahunch jaati hai. 🔦",
+
+"Tu audience me baithta hai... host bolta hai 'Volunteer mil gaya.' 🎤",
+
+"Tu backbench choose karta hai... teacher aaj wahi se padhana shuru kar deta hai. 📚",
+
+"Tu group photo ke kone me khada hota hai... photographer bolta hai 'Bhai thoda aur bahar.' 📷",
+
+"Tu train me khaali seat dekhke sprint maarta hai... uncle bolte hain 'Beta rumal rakha hai.' 🚆",
+
+"Tu lift pakadne bhaagta hai... andar wala Close button Olympic level pe daba deta hai. 🛗",
+
+"Tu white shoes pehenke nikalta hai... pehla kabootar patriotic feel kar leta hai. 🕊️",
+
+"Tu naya phone cover lagata hai... screen pehla crack welcome gift bhej deti hai. 📱",
+
+"Tu rain se bachne ke liye shade ke neeche khada hota hai... upar se AC ka paani tapakna shuru ho jaata hai. 💧",
+
+"Tu cricket me catch lene jaata hai... ball aur izzat dono haath se nikal jaate hain. 🏏",
+
+"Tu mic pakadta hai... feedback ki awaaz pehle hi tera introduction de deti hai. 🔊",
+
+"Tu exam me topper ke peeche baithta hai... invigilator tujhe front row upgrade de deta hai. 📝",
+
+"Tu barber ko reference photo dikhata hai... barber internet off karke cutting shuru kar deta hai. ✂️",
+
+"Tu canteen me last samosa dekhke khush hota hai... tere se pehle ek aur haath aa jaata hai. 🥟",
+
+"Tu bus me window seat pakadta hai... dhoop bhi wahi reservation kara leti hai. ☀️",
+
+"Tu charger lagata hai... socket bolta hai 'Aaj leave pe hoon.' 🔌",
+
+"Tu bottle kholta hai... cap seedha bed ke neeche retirement le leti hai. 🥤",
+
+"Tu payment karne QR scan karta hai... network meditation pe chala jaata hai. 📶",
+
+"Tu presentation start karta hai... HDMI cable national holiday mana leti hai. 💻",
+
+"Tu cake cut karne jaata hai... knife bhi sabke saamne attitude dikha deti hai. 🎂",
+
+"Tu nayi shirt pehenke nikalta hai... pen pocket me revolution shuru kar deta hai. 🖊️",
+
+"Tu silent room me chip packet kholta hai... awaaz Dolby Atmos me aati hai. 🍟",
+
+"Tu cinema me perfect seat leta hai... saamne 6-foot ka banda aa baithta hai. 🎬",
+
+"Tu earphones suljha ke rakhta hai... pocket me jaake fir engineering kar lete hain. 🎧",
+
+"Tu confidence se bolta hai 'Easy hai'... universe usi waqt difficulty update release kar deta hai. ☠️"
 ]
 
 };
