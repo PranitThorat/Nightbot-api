@@ -9,6 +9,8 @@ function normalize(name) {
     return name
         .toLowerCase()
         .replace(/@/g, "")
+        .replace(/\s+/g, "")
+        .replace(/[^a-z0-9]/g, "");
         .trim();
 }
 
@@ -47,7 +49,7 @@ Usage:
     const target = user2 || user1;
 
     // -----------------------------
-    // Amora Protection
+    // Amora Easter Egg
     // -----------------------------
 
     if (
@@ -56,9 +58,11 @@ Usage:
     ) {
 
         return response(
-`${roastData.amora.title}
 
-${roastData.amora.message}`
+`💖 Amora
+
+${pick(roastData.amora.messages)}`
+
         );
 
     }
@@ -83,7 +87,26 @@ ${roastData.amora.message}`
     const roast = pick(roastPool);
 
     // -----------------------------
-    // Reverse Headers
+    // Normal Roast Icons
+    // -----------------------------
+
+    const normalIcons = [
+
+        "🎯",
+        "🔥",
+        "😂",
+        "☠️",
+        "⚡",
+        "📍",
+        "🚨",
+        "👀",
+        "💀",
+        "🎭"
+
+    ];
+
+    // -----------------------------
+    // Reverse Roast Headers
     // -----------------------------
 
     const reverseHeaders = [
@@ -149,23 +172,31 @@ ${roastData.amora.message}`
     ];
 
     // -----------------------------
-    // Final Response
+    // Reverse Roast Output
     // -----------------------------
 
     if (reverseRoast) {
 
         return response(
+
 `${pick(reverseHeaders)}
 
 ${roast}`
+
         );
 
     }
 
+    // -----------------------------
+    // Normal Roast Output
+    // -----------------------------
+
     return response(
-`${target}...
+
+`${pick(normalIcons)} ${target}
 
 ${roast}`
+
     );
 
 }
