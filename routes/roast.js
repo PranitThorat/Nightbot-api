@@ -32,6 +32,7 @@ export async function getRoast(request) {
     const user2 = (url.searchParams.get("u2") || "").trim();
 
     if (!user1) {
+
         return response(
 `☠️ ROAST MACHINE
 
@@ -39,6 +40,7 @@ Usage:
 
 !roast Name`
         );
+
     }
 
     const caller = user1;
@@ -62,7 +64,7 @@ ${roastData.amora.message}`
     }
 
     // -----------------------------
-    // Reverse Roast Probability
+    // Reverse Roast Chance
     // -----------------------------
 
     const REVERSE_ROAST_CHANCE = 10;
@@ -81,61 +83,79 @@ ${roastData.amora.message}`
     const roast = pick(roastPool);
 
     // -----------------------------
-    // Reverse Wrappers
+    // Reverse Headers
     // -----------------------------
 
-    const reverseWrappers = [
+    const reverseHeaders = [
 
-`${target} ko chhod...
+`🎯 ${target} ❌
+🔥 ${caller} ✅`,
 
-Pehle tu.`,
+`⚠️ Candidate Changed
 
-`${target} baad me...
+❌ ${target}
+✅ ${caller}`,
 
-Ab tera number hai.`,
+`🔄 UNO Reverse
 
-`Target hold pe hai...
+❌ ${target}
+✅ ${caller}`,
 
-Tu idhar aa.`,
+`🚨 Wrong Target
 
-`Galat aadmi confidence leke aa gaya...
+❌ ${target}
+✅ ${caller}`,
 
-Pehle tera hisaab.`,
+`🎭 Plot Twist
 
-`${target} wait karega...
+❌ ${target}
+✅ ${caller}`,
 
-Scene ab tere saath hai.`,
+`☠️ Better Victim Found
 
-`Request accept hui...
+❌ ${target}
+✅ ${caller}`,
 
-Candidate change ho gaya.`,
+`📌 System Redirect
 
-`Target pending...
+❌ ${target}
+✅ ${caller}`,
 
-Caller confirmed.`,
+`🎯 Priority Updated
 
-`System ne reconsider kar liya...
+❌ ${target}
+✅ ${caller}`,
 
-Ab tu.`,
+`⚡ Target Swapped
 
-`Queue reverse direction me chal padi...
+❌ ${target}
+✅ ${caller}`,
 
-Pehle tu.`,
+`🚫 Access Denied
 
-`Target bach gaya...
+❌ ${target}
+✅ ${caller}`,
 
-Tu nahi.`
+`📢 Public Notice
+
+❌ ${target}
+✅ ${caller}`,
+
+`🎬 Scene Changed
+
+❌ ${target}
+✅ ${caller}`
 
     ];
 
     // -----------------------------
-    // Final Output
+    // Final Response
     // -----------------------------
 
     if (reverseRoast) {
 
         return response(
-`${pick(reverseWrappers)}
+`${pick(reverseHeaders)}
 
 ${roast}`
         );
