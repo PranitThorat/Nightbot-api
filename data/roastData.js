@@ -3425,103 +3425,999 @@ export const roastData = {
 
 "Google searched for {target}...\n'Did you mean literally anyone else?' 🔍",
 
-"Face ID saw {target}...\n'Try another face.' 📱",
+"Face ID met {target}...\n'Try another person.' 📱",
 
-"Autofocus looked at {target}...\n'Manual hi better hai.' 📸",
+"Autofocus saw {target}...\n'Manual mode activated.' 📸",
 
-"ChatGPT read '{target}'...\n'I can't help with this one.' 🤖",
+"ChatGPT received '{target}'...\n'I need a better prompt.' 🤖",
 
-"Netflix recommended {target}...\n'Not interested.' 📺",
+"Netflix suggested {target}...\n'Skip Recommendation.' 📺",
 
-"Spotify played {target}'s vibe...\nSkipped instantly. 🎵",
+"Spotify played {target}'s vibe...\nInstant skip. 🎵",
 
-"Instagram algorithm saw {target}...\n'Reach denied.' 📱",
+"Instagram algorithm found {target}...\n'Reach not deserved.' 📱",
 
-"YouTube hid {target}'s comment...\n'Community protection.' ▶️",
+"YouTube saw {target}'s comment...\n'Replies turned off.' ▶️",
 
-"Google Maps found {target}...\n'Route not worth calculating.' 🗺️",
+"Google Maps found {target}...\n'Recalculating personality...' 🗺️",
 
-"Bluetooth detected {target}...\n'Pairing declined.' 🔊",
+"QR Scanner scanned {target}...\n'Unsafe to proceed.' 📲",
 
-"QR Scanner scanned {target}...\n'Invalid content.' 📲",
+"Bluetooth found {target}...\n'Connection refused.' 🔊",
 
-"Camera opened on {target}...\nStorage felt wasted. 📷",
+"Camera opened for {target}...\n'Lens deserves better.' 📷",
 
-"Marvel auditioned {target}...\nBackground crowd bhi full thi. 🦸",
+"Doctor Strange checked every timeline...\n{target} still took the L. 🔮",
 
-"Doctor Strange checked every timeline...\n{target} lost in all of them. 🔮",
+"Thanos met {target}...\n'Snap cancelled. Nature already handled it.' 💀",
 
-"Thanos saw {target}...\n'Snap ki bhi zarurat nahi.' 💀",
+"Deadpool looked at {target}...\n'This joke writes itself.' 🟥",
 
-"Deadpool broke the fourth wall...\n'Editor, crop {target}.' 🟥",
+"Batman met {target}...\nGotham finally had a bigger problem. 🦇",
 
-"Batman met {target}...\nGotham suddenly felt peaceful. 🦇",
+"Gojo saw {target}...\nInfinity stayed on. ⚡",
 
-"Gojo saw {target}...\nInfinity stayed enabled. ⚡",
+"Sukuna looked at {target}...\n'Even I have standards.' 👹",
 
-"Sukuna looked at {target}...\n'Not my type of curse.' 👹",
+"Ryuk saw {target}...\n'Death Note bhi waste hai.' 📓",
 
-"Death Note reached {target}...\nEven Ryuk skipped the page. 📓",
+"L investigated {target}...\nCase solved before sitting down. 🍰",
 
-"L investigated {target}...\nCase closed in 3 seconds. 🍰",
+"Doraemon searched every gadget...\nNothing could fix {target}. 🔵",
 
-"Doraemon checked the future...\nStill couldn't fix {target}. 🔵",
+"Shinchan met {target}...\n'Main bhi itna random nahi.' 🖍️",
 
-"Shinchan met {target}...\n'Ye toh mere bhi bahar hai.' 🖍️",
+"Nobita saw {target}...\nConfidence +100. 😂",
 
-"Nobita looked at {target}...\nConfidence unlocked. 😂",
+"Tom & Jerry noticed {target}...\nFight postponed for comedy. 🐭",
 
-"Tom & Jerry saw {target}...\nCalled a truce. 🐭",
+"Among Us lobby saw {target}...\nVote speedrun completed. 🚀",
 
-"Among Us lobby saw {target}...\nEmergency Meeting before Round 1. 🚀",
+"GTA loaded {target}...\nMission Failed before moving. 🚔",
 
-"GTA loaded {target}...\nMission Failed immediately. 🚔",
+"Minecraft Creeper saw {target}...\nExplosion wasn't necessary. 💥",
 
-"Minecraft Creeper saw {target}...\nBacked away slowly. 💥",
-
-"UNO Reverse reached {target}...\nEven the card refused. 🔄",
+"UNO Reverse reached {target}...\nCard folded itself. 🔄",
 
 "Google Photos scanned {target}...\nFace grouping unavailable. 📸",
 
 "LinkedIn found {target}...\nOpen to Embarrassment. 💼",
 
-"Amazon searched for {target}'s confidence...\nCurrently unavailable. 📦",
+"Amazon searched confidence for {target}...\nCurrently unavailable. 📦",
 
-"Wikipedia mentioned {target}...\nSee also: Bad Decisions. 📖",
+"Wikipedia updated {target}...\nSee also: Poor Decisions. 📖",
 
-"Oscar jury watched {target}...\nBest Unintentional Comedy. 🏆",
+"Oscar jury watched {target}...\nBest Accidental Comedy. 🏆",
 
 "WWE referee saw {target}...\nStarted counting emotional damage. 🤼",
 
-"IPL auction saw {target}...\nUnsold before bidding. 🏏",
+"IPL auction reached {target}...\nUnsold before bidding. 🏏",
 
 "Chess queen saw {target}...\nResigned voluntarily. ♟️",
 
-"Error 404:\n{target}'s confidence not found. ❌",
+"Google Review for {target}...\n★☆☆☆☆ 'Wouldn't recommend.' ⭐",
 
-"System Update:\nRemoved {target}'s aura successfully. ⚙️",
+"Error 404...\n{target}'s aura not found. ❌",
 
-"Achievement Unlocked:\n{target} scared the algorithm. 🏆",
+"System Update...\nRemoved support for {target}. ⚙️",
 
-"Breaking News:\n{target} rejected by Autofocus. 📰",
+"Patch Notes...\n{target} nerfed again. 📝",
 
-"Loading {target}'s confidence...\nTimed out. ⏳",
+"Breaking News...\n{target} rejected by Autofocus. 📰",
 
-"Patch Notes:\nRemoved support for {target}. 📝",
+"Loading {target}'s comeback...\nRequest timed out. ⏳",
 
-"AI Review:\n{target} flagged as low-quality input. 🤖",
+"Achievement Unlocked...\nMade AI question humanity. 🏆",
 
-"Weather Forecast:\n100% chance of second-hand embarrassment around {target}. 🌧️",
+"AI Review...\n{target} classified as training noise. 🤖",
 
-"Leaderboard updated...\n{target} reached #1 in awkward moments. 🥇",
+"Weather Alert...\nHeavy embarrassment around {target}. 🌧️",
 
-"Terms & Conditions...\n{target} wasn't accepted. 📄",
+"Leaderboard refreshed...\n{target} still carrying the L. 🥇",
 
-"Mission Objective:\nProtect everyone from {target}. 🎯",
+"Terms & Conditions...\n{target} wasn't eligible. 📄",
 
-"Public Service Announcement:\nMaintain safe distance from {target}. 🚨",
+"Mission Update...\nProtect the lobby from {target}. 🎯",
 
-"Google Review:\n'{target} - Would not recommend.' ⭐"
+"Public Notice...\n{target} may reduce team morale. 🚨",
+
+"Google Lens scanned {target}...\n'Object not worth identifying.' 🔍",
+
+"Discord gave {target} the 'Muted' role by default. 🎧",
+
+"Reddit saw {target}...\nDownvoted automatically. ⬇️",
+
+"Wikipedia created {target}'s page...\nMarked it as a draft forever. 📖",
+
+"Steam looked at {target}...\nRefund approved instantly. 🎮",
+
+"Play Store reviewed {target}...\n'Not compatible with this device.' 📲",
+
+"App Store rejected {target}...\n'Needs major improvements.' 🍎",
+
+"GitHub saw {target}'s commit...\nRepository archived itself. 💻",
+
+"VS Code opened {target}'s project...\nExtensions started uninstalling. 🖥️",
+
+"Windows Update saw {target}...\n'Not worth restarting.' 🪟",
+
+"Linux users saw {target}...\n'Skill issue.' 🐧",
+
+"Chrome opened {target}...\nFirst tab: 'How to recover dignity.' 🌐",
+
+"Safari found {target}...\nEven private browsing wasn't enough. 🧭",
+
+"Firefox saw {target}...\nCrash report generated emotionally. 🦊",
+
+"Spotify Wrapped included {target}...\n'Most Skipped Personality.' 🎵",
+
+"Duolingo saw {target}...\nEven the owl lost motivation. 🦉",
+
+"Uber matched {target}...\nDriver cancelled immediately. 🚗",
+
+"Swiggy accepted {target}'s order...\nRestaurant declined instead. 🍔",
+
+"Zomato reviewed {target}...\n'Taste not found.' 🍕",
+
+"Blinkit saw {target}...\nDelivery cancelled for everyone's safety. 🛒",
+
+"Amazon Prime met {target}...\nDelivery delayed indefinitely. 📦",
+
+"Flipkart searched {target}...\nNo exchange value found. 📦",
+
+"LinkedIn endorsed {target}...\n'Specializes in awkward moments.' 💼",
+
+"Indeed matched {target}...\n'Better luck elsewhere.' 📄",
+
+"Zoom admitted {target}...\nEveryone suddenly remembered another meeting. 💻",
+
+"Google Meet saw {target}...\n'Mic issue' became permanent. 🎤",
+
+"Microsoft Teams invited {target}...\nMeeting ended for all participants. 👔",
+
+"Canva opened {target}...\nTemplate resigned. 🎨",
+
+"Photoshop loaded {target}...\nUndo gave up. 🖌️",
+
+"CapCut edited {target}...\nDeleted the whole timeline. ✂️",
+
+"Premiere Pro rendered {target}...\nExport failed successfully. 🎬",
+
+"FIFA signed {target}...\nBench requested a transfer. ⚽",
+
+"Valorant queued with {target}...\nAFK warning before Round 1. 🎯",
+
+"PUBG matched {target}...\nEven the bots hid. 🎮",
+
+"Minecraft villagers saw {target}...\n'Hmm.' turned into 'No.' 🟩",
+
+"Pokémon met {target}...\nProfessor forgot to give a starter. ⚡",
+
+"Mario saw {target}...\nEven Bowser felt bad. 🍄",
+
+"Sonic raced {target}...\nPaused for fairness. 💨",
+
+"Subway Surfers added {target}...\nInspector took the day off. 🚆",
+
+"Temple Run saw {target}...\nMonkeys lost interest. 🐒",
+
+"Candy Crush added {target}...\nEven candies refused to match. 🍬",
+
+"Clash Royale matched {target}...\nKing tower surrendered early. 👑",
+
+"Brawl Stars saw {target}...\nMatchmaking apologized. ⭐",
+
+"Dragon Ball scanned {target}...\nPower level unavailable. 🟠",
+
+"Naruto met {target}...\nShadow Clones also left. 🍥",
+
+"One Piece invited {target}...\nEven Buggy said 'Not joining.' 🏴‍☠️",
+
+"Attack on Titan saw {target}...\nWalls weren't the biggest problem anymore. 🧱",
+
+"Jujutsu High reviewed {target}...\nRejected by curses too. 👹",
+
+"Demon Slayer saw {target}...\nEven Muzan skipped the fight. ⚔️",
+
+"Blue Lock evaluated {target}...\nEgo not detected. ⚽",
+
+"Squid Game saw {target}...\nEliminated during introductions. 🔺",
+
+"Discord:\n{target} joined VC.\nEveryone switched to Push-to-Talk. 🎧",
+
+"GitHub:\n{target} pushed to main.\nRepo locked. 💻",
+
+"Stack Overflow:\n{target} asked a question.\n-12 votes in 30 seconds. 📚",
+
+"Reddit:\n{target} posted.\nComments carried the whole post. 👽",
+
+"Tinder:\n{target} swiped.\n'No internet connection.' ❤️",
+
+"Spotify:\n{target} became the playlist.\nSkipped on shuffle too. 🎵",
+
+"Steam:\n{target} launched.\nPlaytime: 0.1 hours. 🎮",
+
+"PlayStation:\n{target} earned a trophy.\nParticipation Award. 🏆",
+
+"Xbox:\n{target} came online.\nFriends went offline. 🎮",
+
+"Nintendo:\nMario looked at {target}...\n'It's-a not my problem.' 🍄",
+
+"Valorant:\n{target} locked Reyna.\nTeam surrendered. 🎯",
+
+"CS2:\n{target} bought an AWP.\nEconomy cried. 🔫",
+
+"Minecraft:\nVillagers changed profession to avoid {target}. 🟩",
+
+"Roblox:\nEven the NPC reported {target}. 🧱",
+
+"Fortnite:\n{target} landed.\nStorm said 'Mine now.' 🌩️",
+
+"PUBG:\n{target} survived.\nBy disconnecting. 🎮",
+
+"Among Us:\n{target} joined.\nEmergency Meeting. 🚀",
+
+"UNO:\n{target} got +4.\nTable added another +4. 🔄",
+
+"Chess:\n{target} opened with confidence.\nEnded with Ctrl+Z. ♟️",
+
+"Ludo:\nEven the dice rolled its eyes. 🎲",
+
+"Google Drive:\n{target} uploaded confidence.\nStorage still empty. ☁️",
+
+"Canva:\n{target} opened a template.\nTemplate closed itself. 🎨",
+
+"Photoshop:\nUndo gave up on {target}. 🖌️",
+
+"CapCut:\nAuto captions apologized. ✂️",
+
+"Zoom:\n{target} unmuted.\nMeeting ended. 💻",
+
+"Google Meet:\n'Your internet is unstable.'\nFor everyone else's benefit. 🎤",
+
+"Notion:\n{target}'s life plan.\n404 pages. 📝",
+
+"Excel:\n#VALUE! detected in {target}. 📊",
+
+"PowerPoint:\n'{target}'\nPresentation not convincing. 📽️",
+
+"VS Code:\n{target} pressed Run.\nDebugger resigned. 💻",
+
+"Windows:\n{target} clicked Update.\nPC chose retirement. 🪟",
+
+"Linux:\nEven sudo refused {target}. 🐧",
+
+"Chrome:\n{target} opened 100 tabs.\nNone were useful. 🌐",
+
+"Safari:\n{target} searched confidence.\nNo results. 🧭",
+
+"Uber:\nDriver saw {target}.\nTrip cancelled. 🚗",
+
+"Swiggy:\nRestaurant accepted.\nChef declined. 🍔",
+
+"Zomato:\n'{target}'\nTable for none. 🍕",
+
+"Amazon:\nReturn request approved.\nFor {target}. 📦",
+
+"LinkedIn:\n'{target}'\nEndorsed for unemployment. 💼",
+
+"Duolingo:\nThe owl unfollowed {target}. 🦉",
+
+"IMDb:\n{target}\nRated 2/10 by own family. 🎬",
+
+"Spotify Wrapped:\nMost Skipped Human. 🎵",
+
+"Google Calendar:\nNobody scheduled time for {target}. 📅",
+
+"AirDrop:\nEveryone set it to 'Contacts Only.' 📲",
+
+"Bluetooth:\n'{target}'\nDevice ignored. 🔊",
+
+"Wi-Fi:\nConnected.\nTrust not established. 📶",
+
+"QR Code:\nScan successful.\nRegret downloaded. 📲",
+
+"Google Lens:\n'{target}'\nObject not recognized. 🔍",
+
+"Cloud Backup:\nSkipped {target}.\nNot worth restoring. ☁️",
+
+"{target} is the reason tutorials have comments turned on. 💀",
+
+"{target} lost the argument that nobody started. 😭",
+
+"{target} got ratioed by silence. 📉",
+
+"{target} entered the chat...\nThe chat left. 💬",
+
+"{target} has NPC Premium. 🎮",
+
+"{target} made 'seen' look respectful. 👀",
+
+"{target} lost to buffering. ⏳",
+
+"{target} got ghosted by an AI. 🤖",
+
+"{target} is built like a software update nobody asked for. 📲",
+
+"{target} made autocorrect give up. ⌨️",
+
+"{target} has negative plot armor. 🎬",
+
+"{target} lost a staring contest with sunglasses. 🕶️",
+
+"{target} could lose a tutorial level. 🎮",
+
+"{target} is the loading screen's biggest achievement. ⏳",
+
+"{target} unlocked embarrassment in early access. 🚧",
+
+"{target} made 'low expectations' look ambitious. 📉",
+
+"{target} got humbled by the home screen. 📱",
+
+"{target} is sponsored by bad timing. ⌚",
+
+"{target} got outperformed by the demo version. 🧪",
+
+"{target} makes lag look productive. 🐌",
+
+"{target} has less aura than airplane mode. ✈️",
+
+"{target} makes captcha feel intelligent. 🤖",
+
+"{target} could miss a point-blank loading screen. 🎯",
+
+"{target} got left on delivered by destiny. 📦",
+
+"{target} lost a race against auto-save. 💾",
+
+"{target} is the reason the skip button exists. ⏭️",
+
+"{target} turned second-hand embarrassment into first-hand experience. 😬",
+
+"{target} could make a motivational speaker resign. 🎤",
+
+"{target} has tutorial boss energy. 🎮",
+
+"{target} got defeated by default settings. ⚙️",
+
+"{target} makes placeholder text look confident. 📝",
+
+"{target} got nerfed before release. 📉",
+
+"{target} has beta-version confidence. 🧪",
+
+"{target} got reported by common sense. 🚨",
+
+"{target} is the free trial of disappointment. 🎟️",
+
+"{target} made Ctrl+Z wish it worked in real life. ⌨️",
+
+"{target} has DLC confidence. Sold separately. 🎮",
+
+"{target} lost to recommended settings. ⚙️",
+
+"{target} is proof that random doesn't mean lucky. 🎲",
+
+"{target} got outplayed by the tutorial popup. 💡",
+
+"{target} makes buffering look fast. 📶",
+
+"{target} could start a fire with an ice cube... somehow. 🧊",
+
+"{target} is the human version of 1% battery. 🔋",
+
+"{target} got humbled by a loading icon. ⏳",
+
+"{target} makes 'maybe later' sound like a compliment. 😭",
+
+"{target} has less screen time than the intro logo. 🎬",
+
+"{target} is what happens when Ctrl+C forgets Ctrl+V. ⌨️",
+
+"{target} got replaced by stock footage. 📹",
+
+"{target} could lose hide and seek while wearing a GPS. 📍",
+
+"{target} makes background characters look iconic. 🎭",
+
+"{target} got left on read by the loading screen. 💀",
+
+"{target} makes 'We'll see' sound like a rejection. 😭",
+
+"{target} is the only person who can miss a green light. 🚦",
+
+"{target} got fact-checked by a fortune cookie. 🥠",
+
+"{target} could lose an argument with an echo. 🗣️",
+
+"{target} has tutorial boss energy. 🎮",
+
+"{target} makes background characters feel important. 🎬",
+
+"{target} got nerfed in real life. 📉",
+
+"{target} brings buffering to real conversations. ⏳",
+
+"{target} has less aura than an empty chair. 🪑",
+
+"{target} got benched from a single-player game. 🎮",
+
+"{target} is DLC.\nConfidence sold separately. 🎟️",
+
+"{target} got ghosted by customer support. 📞",
+
+"{target} makes airplane mode look social. ✈️",
+
+"{target} got outperformed by the Terms & Conditions. 📄",
+
+"{target} has the confidence of a 1% battery. 🔋",
+
+"{target} got humbled by automatic doors. 🚪",
+
+"{target} could make a motivational quote apologize. 📜",
+
+"{target} has Wi-Fi signal personality. 📶",
+
+"{target} is the human version of 'Coming Soon'. 🚧",
+
+"{target} lost a race against auto-save. 💾",
+
+"{target} got replaced by the placeholder image. 🖼️",
+
+"{target} got ratioed by an NPC. 🎮",
+
+"{target} makes lag look athletic. 🐢",
+
+"{target} got defeated by the practice mode. 🎯",
+
+"{target} is the free trial of disappointment. 🎟️",
+
+"{target} lost to a CAPTCHA. 🤖",
+
+"{target} could get friend-zoned by Siri. 📱",
+
+"{target} is why mute buttons exist. 🔇",
+
+"{target} got carried by the loading screen. ⏳",
+
+"{target} lost hide-and-seek with location ON. 📍",
+
+"{target} makes spam emails feel personal. 📩",
+
+"{target} got blocked by an offline account. 🚫",
+
+"{target} makes recycled jokes look original. ♻️",
+
+"{target} got kicked from spectator mode. 👀",
+
+"{target} could lose to an AFK player. 🎮",
+
+"{target} has expired coupon energy. 🏷️",
+
+"{target} got outplayed by the tutorial popup. 💡",
+
+"{target} makes buffering look productive. 📶",
+
+"{target} is built like a skipped cutscene. 🎬",
+
+"{target} got humbled by the demo version. 🧪",
+
+"{target} has less character development than a traffic cone. 🚧",
+
+"{target} got ignored by autocorrect. ⌨️",
+
+"{target} is what happens when copy-paste glitches. 📋",
+
+"{target} got evicted from the friend zone. 🏠",
+
+"{target} has NPC dialogue without the quest. 💬",
+
+"{target} lost to random chance... twice. 🎲",
+
+"{target} could miss an open book exam. 📚",
+
+"{target} makes low battery look energetic. 🔋",
+
+"{target} got cancelled by common sense. 🚨",
+
+"{target} claps when the plane lands. 👏",
+
+"{target} watches the microwave like it's Netflix. 🍿",
+
+"{target} says 'I'm almost there' before leaving home. 🚶",
+
+"{target} opens Instagram...\nFor 'just 5 minutes.' 📱",
+
+"{target} loses a 1v1 against autocorrect. ⌨️",
+
+"{target} still says 'first' in comment sections. 🥇",
+
+"{target} brings a calculator to split ₹10. 🧮",
+
+"{target} pauses music to think harder. 🎧",
+
+"{target} thanks Google after searching. 🔍",
+
+"{target} charges the phone at 99%. 🔋",
+
+"{target} gets scared by their own notification. 📳",
+
+"{target} skips the intro...\nthen rewinds it. ⏪",
+
+"{target} reads 'Terms & Conditions.' 📄",
+
+"{target} says 'LOL' with a straight face. 😐",
+
+"{target} still double taps YouTube videos. 👍",
+
+"{target} smells the milk after reading the expiry date. 🥛",
+
+"{target} refreshes the page like life got an update. 🔄",
+
+"{target} apologizes to furniture after bumping into it. 🪑",
+
+"{target} wears headphones with no music. 🎧",
+
+"{target} opens the fridge every 10 minutes.\nNothing changed. 🧊",
+
+"{target} closes the elevator faster by pressing the button 12 times. 🛗",
+
+"{target} asks 'Who's there?' after hearing their own ringtone. 📞",
+
+"{target} laughs before remembering the joke wasn't funny. 😂",
+
+"{target} loses Rock, Paper, Scissors to themselves. ✂️",
+
+"{target} still blows on ice cream. 🍦",
+
+"{target} misses calls while holding the phone. 📱",
+
+"{target} gets ads for things already bought. 🛍️",
+
+"{target} forgets why they unlocked the phone. 📲",
+
+"{target} opens Chrome...\nForgets why. 🌐",
+
+"{target} says 'one last game' at 2 AM. 🌙",
+
+"{target} checks both pockets...\nPhone's in the hand. 📱",
+
+"{target} puts sunglasses on indoors.\nStill squints. 🕶️",
+
+"{target} mutes ads.\nNot the TV. 📺",
+
+"{target} loses the TV remote while sitting on it. 📺",
+
+"{target} watches the loading circle like it's a movie. ⏳",
+
+"{target} says 'I know this shortcut.'\nGets lost anyway. 🗺️",
+
+"{target} opens 47 tabs.\nNeeds the first one. 🌐",
+
+"{target} searches Google...\n'Google.' 🔍",
+
+"{target} gets nervous during CAPTCHA tests. 🤖",
+
+"{target} joins the meeting.\nWrong meeting. 💻",
+
+"{target} records a voice note...\nSays 'Never mind.' 🎙️",
+
+"{target} starts a diet...\nAfter dessert. 🍰",
+
+"{target} walks into the wrong classroom with confidence. 🚪",
+
+"{target} says 'I'm listening.'\nReplies 'What?' 2 seconds later. 👂",
+
+"{target} stares at the receipt like prices will change. 🧾",
+
+"{target} looks both ways before crossing a one-way street. 🚦",
+
+"{target} presses Ctrl+S in real life. 💾",
+
+"{target} gets tired from watching workout videos. 💪",
+
+"{target} treats free Wi-Fi like buried treasure. 📶",
+
+"{target} says 'I don't need GPS.'\nEnds up in another city. 🧭",
+
+"'{target} definitely practiced being awkward.' 😭",
+
+"'Even the subtitles gave up.'\n({target}) 🎬",
+
+"'Somebody lower the difficulty.'\n({target}) 🎮",
+
+"'This wasn't even a fair fight.'\nAgainst {target}. 💀",
+
+"'Bro got outplayed by the menu screen.'\n({target}) 📋",
+
+"'Main character?\nBackground extra at best.'\n({target}) 🎥",
+
+"'Respawn with different stats.'\n({target}) 🎮",
+
+"'That confidence came from Wish.'\n({target}) 📦",
+
+"'Bro buffering in real life.'\n({target}) ⏳",
+
+"'Someone forgot to install common sense.'\n({target}) 💾",
+
+"'Even the tutorial skipped {target}.' 📖",
+
+"'Factory reset might help.'\n({target}) 🔄",
+
+"'That wasn't a mistake...\nThat was {target}.' 💀",
+
+"'Bro is playing life on spectator mode.'\n({target}) 👀",
+
+"'Achievement Unlocked:\nExisting aggressively.'\n({target}) 🏆",
+
+"'Not even plot armor could save this.'\n({target}) 🎬",
+
+"'Bro got negative spawn protection.'\n({target}) 🛡️",
+
+"'That wasn't lag.\nThat was a life decision.'\n({target}) 🐢",
+
+"'Someone update the firmware.'\n({target}) 🤖",
+
+"'POV:\nYou trusted {target}. 🤡",
+
+"'Bro lost before the cutscene ended.'\n({target}) 🎥",
+
+"'Even random chance said 'not today'.'\n({target}) 🎲",
+
+"'This deserves a replay.\nNobody believes it.'\n({target}) 📺",
+
+"'CPU usage: 2%.\n{target} is thinking.' 🖥️",
+
+"'The comeback is in another update.'\n({target}) 📦",
+
+"'Bro got carried by auto-correct.'\n({target}) ⌨️",
+
+"'This looks AI-generated.'\n({target}) 🤖",
+
+"'Even the loading tip was more useful.'\n({target}) ⏳",
+
+"'Bro unlocked Premium Embarrassment.'\n({target}) 💳",
+
+"'Skill issue wasn't enough.\n{target} invented a new issue.' 🎮",
+
+"'Even the exit button wanted to leave.'\n({target}) 🚪",
+
+"'That's enough internet for today.'\n({target}) 📶",
+
+"'This needs a software rollback.'\n({target}) 🔙",
+
+"'Bro got defeated by the settings menu.'\n({target}) ⚙️",
+
+"'Even NPCs have better dialogue.'\n({target}) 💬",  
+
+"'Bro makes placeholder text look charismatic.'\n({target}) 📝",
+
+"'That aura expired in beta.'\n({target}) 📉",
+
+"'Someone forgot to render confidence.'\n({target}) 🎨",
+
+"'Even the replay button said 'nah'.'\n({target}) ▶️",
+
+"'Bro is sponsored by bad decisions.'\n({target}) 📢",
+
+"'This should've stayed in drafts.'\n({target}) 🗂️",
+
+"'The uninstall button is looking tempting.'\n({target}) 🗑️",
+
+"'Bro got humbled by the pause menu.'\n({target}) ⏸️",
+
+"'Even Google would've said 'Good luck'.'\n({target}) 🔍",
+
+"'That wasn't a plot twist.\nIt was {target}.' 🎭",
+
+"'Bro has side quest energy.'\n({target}) 🧭",
+
+"'The tutorial warned us about this.'\n({target}) 📚",
+
+"'Bro got cooked by default settings.'\n({target}) ⚙️",
+
+"'The algorithm can't save this.'\n({target}) 📉",
+
+"'Even autocorrect stopped trying.'\n({target}) ⌨️",
+
+"'Bro's confidence is running on the free plan.' 💀",
+
+"'Even the ad skipped {target}.' 📺",
+
+"'POV:\n{target} thought that was a good idea.' 🤡",
+
+"'Bro got cooked by the loading screen.' 🔥",
+
+"'Somebody check if {target} is AI-generated.' 🤖",
+
+"'Even Bluetooth couldn't connect with {target}.' 📶",
+
+"'This wasn't even in the patch notes.' 📝",
+
+"'Bro got humbled by gravity.' 🌍",
+
+"'Even the replay button refused.' ▶️",
+
+"'That aura left the chat.' 👋",
+
+"'Bro has permanent low battery energy.' 🔋",
+
+"'CPU overheating...\nTrying to understand {target}. 🖥️",
+
+"'Bro spawned with random debuffs.' 🎮",
+
+"'Even lag has better timing.' ⏳",
+
+"'{target} is proof that tutorials are optional.' 📚",
+
+"'Bro got folded by default settings.' ⚙️",
+
+"'Even Ctrl+Z can't help now.' ⌨️",
+
+"'Bro's Wi-Fi has more personality.' 📶",
+
+"'That wasn't a fumble...\nThat was ranked.' 🏅",
+
+"'Even the NPC had questions.' 🎭",
+
+"'Bro made silence awkward.' 😭",
+
+"'Task failed successfully.\n({target})' ❌",
+
+"'Respawn recommended.' 🪦",
+
+"'Even the plot skipped {target}.' 🎬",
+
+"'Bro got outclassed by a coin flip.' 🪙",
+
+"'The tutorial boss would've won.' 🎮",
+
+"'{target} just unlocked Hard Mode by existing.' 💀",
+
+"'Bro got ratioed by common sense.' 📉",
+
+"'The vibes filed a restraining order.' 🚨",
+
+"'Even the echo didn't answer back.' 🗣️",
+
+"'Bro has background buffering.' ⏳",
+
+"'This belongs in a bug report.' 🐞",
+
+"'Nobody expected anything...\nStill disappointed.' 😭",
+
+"'Bro got left on read by reality.' 📱",
+
+"'Even copy-paste couldn't duplicate that mistake.' 📋",
+
+"'Bro's spawn point needs a refund.' 🎮",
+
+"'Somebody call customer support.' ☎️",
+
+"'Even random number generators avoid {target}.' 🎲",
+
+"'Bro's comeback is still compiling.' 💻",
+
+"'That confidence expired yesterday.' 🗓️",
+
+"'Bro got benched from practice mode.' 🎯",
+
+"'Even Google Maps couldn't find the point.' 🗺️",
+
+"'Skill issue got promoted to personality trait.' 🎮",
+
+"'Even the tutorial said 'good luck'.' 📖",
+
+"'Bro turned easy mode into impossible.' 🎲",
+
+"'That wasn't an L...\nThat was the alphabet.' 📚",
+
+"'Bro got patched out of the update.' 🔧",
+
+"'Even karma said 'I'm busy'.' ⚖️",
+
+"'Bro's aura is still buffering.' 🌫️",
+
+"'This should've stayed in airplane mode.' ✈️",
+
+"Patch Notes v3.2\n• Reduced {target}'s confidence by 100%.\n• Bug remains. 📝",
+
+"Hotfix\n• {target} still causes second-hand embarrassment. 🔥",
+
+"Maintenance Complete\n• {target} unchanged. Unfortunately. 🛠️",
+
+"Known Issues\n• {target}. 📋",
+
+"Bug Report\nExpected: Competence.\nReceived: {target}. 🐞",
+
+"Update Failed\nReason: {target}. ❌",
+
+"Error Log\n[CRITICAL]\n{target} detected. 🚨",
+
+"Changelog\nRemoved:\n{target}'s last good decision. 📜",
+
+"System Status\nEverything operational.\nExcept {target}. 🟢",
+
+"Emergency Patch\nCouldn't fix {target}. 🤕",
+
+"[SYSTEM]\nConfidence.dll not found.\nUser: {target} 💀",
+
+"[ERROR 418]\n{target} detected.\nI'm a teapot now. ☕",
+
+"[WARNING]\nCommon sense stopped responding.\nCause: {target} ⚠️",
+
+"[FATAL]\nReality.exe crashed after meeting {target}. 💻",
+
+"[BOOT FAILED]\nUnable to load charisma.sys 🧩",
+
+"[STATUS]\nEverything is working.\nExcept {target}. 🟢",
+
+"[SECURITY ALERT]\n{target} attempted to think.\nAccess denied. 🚫",
+
+"[INFO]\nProblem reproduced successfully.\n({target}) 📝",
+
+"[RECOVERY MODE]\nNothing could be recovered. 🩹",
+
+"[DEBUG]\nStill can't explain {target}. 🐛",
+
+"★★★★★\nWould roast again.\n({target}) 🔥",
+
+"⭐☆☆☆☆\nArrived with confidence.\nLeft without it. 📦",
+
+"⭐☆☆☆☆\nNot as advertised.\n({target}) 🛒",
+
+"⭐☆☆☆☆\nPlot was weak.\nCharacter weaker. 🎬",
+
+"⭐☆☆☆☆\nDidn't laugh.\nJust felt bad. 😭",
+
+"⭐☆☆☆☆\nExpectation: Hero.\nReality: {target}. 🤡",
+
+"⭐☆☆☆☆\nBattery lasted longer than the confidence. 🔋",
+
+"⭐☆☆☆☆\nNPC with premium cosmetics. 🎮",
+
+"⭐☆☆☆☆\nWould not recommend in ranked. 🏆",
+
+"⭐☆☆☆☆\nReturn window expired.\nUnfortunately. 📦",
+
+"💡 Tip:\nDon't follow {target}'s example.",
+
+"💡 Hint:\nSaving before meeting {target} is recommended.",
+
+"💡 Loading Tip:\nConfidence not included.",
+
+"💡 Pro Tip:\nLower expectations first.",
+
+"💡 Remember:\nSpectators are watching.",
+
+"💡 Fun Fact:\nEven tutorials skip this part.",
+
+"💡 Tip:\nMute first.\nThink later.",
+
+"💡 Hint:\nThere's no achievement for this.",
+
+"💡 Reminder:\nThe undo button has limits.",
+
+"💡 Loading...\nStill looking for the comeback.",
+
+"📢 Reminder\nDon't do what {target} just did.",
+
+"⚠️ Alert\nConfidence running critically low.",
+
+"📬 New Message\n'Good luck.'",
+
+"🚨 Emergency Broadcast\n{target} has logged in.",
+
+"🔋 Battery Saver\nEnabled automatically after seeing {target}.",
+
+"📡 Signal Lost\nSearching for the point...",
+
+"🛑 Warning\nViewer discretion advised.",
+
+"📢 System Notice\nExpect turbulence.",
+
+"📱 Missed Call\nCommon sense tried.",
+
+"Support Ticket #404\nIssue: {target}.\nStatus: Unresolved. 🎫",
+
+"Customer Support\n'Have you tried being someone else?'\n({target}) ☎️",
+
+"Live Agent\n'Yeah... that's beyond our department.' 📞",
+
+"Ticket Closed\nReason: Can't fix {target}. 🔒",
+
+"Support Bot\n'I don't get paid enough for this.' 🤖",
+
+"Refund Request\nRejected.\nReason: {target}. 💳",
+
+"Escalated to Senior Support...\nThey also left. 🏃",
+
+"Estimated Wait Time\nForever.\n({target}) ⏳",
+
+"Support Response\n'Interesting problem.'\n*closes chat* 💬",
+
+"Case Status\nSolved.\nBy avoiding {target}. 🚪",
+
+"Support Update\nIssue reproduced immediately. 📝",
+
+"Agent Typing...\nAgent disconnected. 📡",
+
+"Troubleshooting\nStep 1: Don't be {target}. 🔧",
+
+"Customer Care\n'We'll pretend this never happened.' 🙈",
+
+"Priority Level\nCritical.\n({target}) 🚨",
+
+"Auto Reply\n'Your request has been ignored successfully.' 📬",
+
+"Service Center\nWarranty doesn't cover {target}. 🛠️",
+
+"Call Ended\nCustomer: {target}. 📞",
+
+"Support Team\nCurrently laughing. 😂",
+
+"Resolution\nTurn it off.\nLeave it off. 🔌",
+
+"Police Report\nConfidence stolen.\nVictim: {target}. 🚓",
+
+"Case File\nMissing: Good Decisions. 📁",
+
+"Incident Report\nReality assaulted {target}. 🚨",
+
+"Evidence Collected\nStill not enough to explain this. 🔍",
+
+"Witness Statement\n'I wish I hadn't seen it.' 👀",
+
+"Crime Scene\n{target} was here. 🚧",
+
+"Investigation Closed\nToo obvious. 📂",
+
+"Wanted\nOne decent comeback. 🏃",
+
+"Officer's Notes\n'I'm taking early retirement.' 👮",
+
+"Suspect\n{target}.\nCharge: Existing loudly. 📋",
+
+"Weather Today\n100% chance of embarrassment.\n({target}) 🌧️",
+
+"Heat Advisory\n{target} got cooked. 🔥",
+
+"Visibility\nZero confidence ahead. 🌫️",
+
+"Forecast\nHeavy emotional damage expected. ⛈️",
+
+"Air Quality\nBetter than {target}'s decisions. 🌬️",
+
+"Storm Warning\nBrace yourselves. ⚡",
+
+"Humidity\n100% awkwardness. 💧",
+
+"Sunny\nExcept around {target}. ☀️",
+
+"Wind Speed\nEnough to blow away the excuse. 🌪️",
+
+"Climate Report\nAura continues to decline. 📉",
+
+"🥠 Fortune\nTomorrow will be better.\nToday belongs to {target}.",
+
+"🥠 Fortune\nConfidence is temporary.\nScreenshots are forever.",
+
+"🥠 Fortune\nAvoid unnecessary risks.\nLike trusting {target}.",
+
+"🥠 Fortune\nLuck is nearby.\nNot for {target}.",
+
+"🥠 Fortune\nSomeone is thinking about you.\nIt's HR.",
+
+"🥠 Fortune\nA plot twist is coming.\nIt's not a good one.",
+
+"🥠 Fortune\nThe universe noticed.\nUnfortunately.",
+
+"🥠 Fortune\nPatience will reward you.\nWatching {target} won't.",
+
+"🥠 Fortune\nToday is your lucky day.\nUnless you're {target}.",
+
+"🥠 Fortune\nThe stars tried.\nThey really did.",
 
 
 
