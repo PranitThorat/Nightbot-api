@@ -3731,8 +3731,6 @@ export const roastData = {
 
 "{target} has NPC Premium. 🎮",
 
-"{target} made 'seen' look respectful. 👀",
-
 "{target} lost to buffering. ⏳",
 
 "{target} got ghosted by an AI. 🤖",
