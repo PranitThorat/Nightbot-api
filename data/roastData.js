@@ -5,14 +5,17 @@ export const roastData = {
     aliases: [
 
         "amora",
-        "@amora",
-        "amoraa",
         "panda",
-        "@panda",
+        "amoraa",
         "amorapanda",
-        "amora panda",
         "pandaa",
-        "pandu"
+        "pandu",
+
+        "cozypandagaming",
+        "purplepandaplayz",
+        "buddyanujmarskole",
+        "annypm5n",
+        "atharvaanagha"
 
     ],
 
