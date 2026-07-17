@@ -52,20 +52,17 @@ Usage:
     // Amora Easter Egg
     // -----------------------------
 
-    if (
-        isAlias(caller, roastData.amora.aliases) ||
-        isAlias(target, roastData.amora.aliases)
-    ) {
+        if (isAlias(target, roastData.amora.aliases)) {
 
-        return response(
+            return response(
 
-`💖 Amora
+    `💖 Amora
 
-${pick(roastData.amora.messages)}`
+    ${pick(roastData.amora.messages)}`
 
-        );
+            );
 
-    }
+        }
 
     // -----------------------------
     // Reverse Roast Chance
