@@ -81,11 +81,20 @@ ${pick(roastData.amora.messages)}`
     // -----------------------------
 
     const roastPool = reverseRoast
-        ? roastData.reverseRoasts
-        : roastData.normalRoasts;
+    ? roastData.reverseRoasts
+    : roastData.normalRoasts;
 
-    const roast = pick(roastPool);
+    let roast = pick(roastPool);
 
+    if (reverseRoast) {
+       roast = roast
+        .replaceAll("{target}", caller)
+        .replaceAll("{victim}", caller)
+        .replaceAll("{caller}", caller)
+        .replaceAll("{roaster}", caller)
+        .replaceAll("{original}", target)
+        .replaceAll("{requested}", target);
+    }
     // -----------------------------
     // Normal Roast Icons
     // -----------------------------
