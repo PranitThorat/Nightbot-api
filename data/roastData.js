@@ -4241,183 +4241,1331 @@ export const roastData = {
 
 "Emergency Patch\nCouldn't fix {target}. 🤕",
 
-"[SYSTEM]\nConfidence.dll not found.\nUser: {target} 💀",
-
-"[ERROR 418]\n{target} detected.\nI'm a teapot now. ☕",
-
-"[WARNING]\nCommon sense stopped responding.\nCause: {target} ⚠️",
-
-"[FATAL]\nReality.exe crashed after meeting {target}. 💻",
-
-"[BOOT FAILED]\nUnable to load charisma.sys 🧩",
-
-"[STATUS]\nEverything is working.\nExcept {target}. 🟢",
-
-"[SECURITY ALERT]\n{target} attempted to think.\nAccess denied. 🚫",
-
-"[INFO]\nProblem reproduced successfully.\n({target}) 📝",
-
-"[RECOVERY MODE]\nNothing could be recovered. 🩹",
-
-"[DEBUG]\nStill can't explain {target}. 🐛",
-
-"★★★★★\nWould roast again.\n({target}) 🔥",
-
-"⭐☆☆☆☆\nArrived with confidence.\nLeft without it. 📦",
-
-"⭐☆☆☆☆\nNot as advertised.\n({target}) 🛒",
-
-"⭐☆☆☆☆\nPlot was weak.\nCharacter weaker. 🎬",
-
-"⭐☆☆☆☆\nDidn't laugh.\nJust felt bad. 😭",
-
-"⭐☆☆☆☆\nExpectation: Hero.\nReality: {target}. 🤡",
-
-"⭐☆☆☆☆\nBattery lasted longer than the confidence. 🔋",
-
-"⭐☆☆☆☆\nNPC with premium cosmetics. 🎮",
-
-"⭐☆☆☆☆\nWould not recommend in ranked. 🏆",
-
-"⭐☆☆☆☆\nReturn window expired.\nUnfortunately. 📦",
-
-"💡 Tip:\nDon't follow {target}'s example.",
-
-"💡 Hint:\nSaving before meeting {target} is recommended.",
-
-"💡 Loading Tip:\nConfidence not included.",
-
-"💡 Pro Tip:\nLower expectations first.",
-
-"💡 Remember:\nSpectators are watching.",
-
-"💡 Fun Fact:\nEven tutorials skip this part.",
-
-"💡 Tip:\nMute first.\nThink later.",
-
-"💡 Hint:\nThere's no achievement for this.",
-
-"💡 Reminder:\nThe undo button has limits.",
-
-"💡 Loading...\nStill looking for the comeback.",
-
-"📢 Reminder\nDon't do what {target} just did.",
-
-"⚠️ Alert\nConfidence running critically low.",
-
-"📬 New Message\n'Good luck.'",
-
-"🚨 Emergency Broadcast\n{target} has logged in.",
-
-"🔋 Battery Saver\nEnabled automatically after seeing {target}.",
-
-"📡 Signal Lost\nSearching for the point...",
-
-"🛑 Warning\nViewer discretion advised.",
-
-"📢 System Notice\nExpect turbulence.",
-
 "📱 Missed Call\nCommon sense tried.",
 
-"Support Ticket #404\nIssue: {target}.\nStatus: Unresolved. 🎫",
+"{target} ko dekh ke\nSharma Ji ka beta bhi tension free ho gaya. 💀",
 
-"Customer Support\n'Have you tried being someone else?'\n({target}) ☎️",
+"{target} ko dekh ke\nmummy ne nazar utarna bhi zaroori nahi samjha. 🩴",
 
-"Live Agent\n'Yeah... that's beyond our department.' 📞",
+"{target} ka future dekh ke\njyotish ne fees wapas kar di. 🔮",
 
-"Ticket Closed\nReason: Can't fix {target}. 🔒",
+"{target} ko dekh ke\npados wali aunty ke paas bhi gossip khatam ho gayi. ☕",
 
-"Support Bot\n'I don't get paid enough for this.' 🤖",
+"{target} itna confusing hai,\nGoogle bhi bolta 'Bhai tu hi bata.' 🤦",
 
-"Refund Request\nRejected.\nReason: {target}. 💳",
+"{target} ko dekh ke\nteacher ne attendance hi cancel kar di. 📚",
 
-"Escalated to Senior Support...\nThey also left. 🏃",
+"{target} ka confidence dekh ke\njhooth bhi sharma gaya. 😭",
 
-"Estimated Wait Time\nForever.\n({target}) ⏳",
+"{target} ko dekh ke\ninterviewer khud bahar chala gaya. 💼",
 
-"Support Response\n'Interesting problem.'\n*closes chat* 💬",
+"{target} ki entry pe\nDJ ne AUX nikaal diya. 🎧",
 
-"Case Status\nSolved.\nBy avoiding {target}. 🚪",
+"{target} ko dekh ke\nUPI bhi 'Payment Failed' bolta hai. 💸",
 
-"Support Update\nIssue reproduced immediately. 📝",
+"{target} ko dekh ke\nrailway waiting list bhi confirm lagne lagi. 🚆",
 
-"Agent Typing...\nAgent disconnected. 📡",
+"{target} ko dekh ke\nchai thandi ho gayi. ☕",
 
-"Troubleshooting\nStep 1: Don't be {target}. 🔧",
+"{target} ka level dekh ke\nhostel warden bhi emotional ho gaya. 🏫",
 
-"Customer Care\n'We'll pretend this never happened.' 🙈",
+"{target} ko dekh ke\nrickshaw wala bhi bolta 'Bhai paidal hi chale ja.' 🚲",
 
-"Priority Level\nCritical.\n({target}) 🚨",
+"{target} ko dekh ke\nAadhaar photo bhi handsome lagne lage. 🪪",
 
-"Auto Reply\n'Your request has been ignored successfully.' 📬",
+"{target} ka confidence dekh ke\nbattery saver automatically on ho gaya. 🔋",
 
-"Service Center\nWarranty doesn't cover {target}. 🛠️",
+"{target} ko dekh ke\nbarber ne machine band kar di. ✂️",
 
-"Call Ended\nCustomer: {target}. 📞",
+"{target} ko dekh ke\nmosquito bhi blood donate kar gaya. 🦟",
 
-"Support Team\nCurrently laughing. 😂",
+"{target} ki kismat dekh ke\nlottery bhi hans padi. 🎟️",
 
-"Resolution\nTurn it off.\nLeave it off. 🔌",
+"{target} ko dekh ke\ntraffic police ne bhi ignore kar diya. 🚓",
 
-"Police Report\nConfidence stolen.\nVictim: {target}. 🚓",
+"{target} ko dekh ke\nviva lene wala bolta 'Bas beta jao.' 🎓",
 
-"Case File\nMissing: Good Decisions. 📁",
+"{target} ki shakal dekh ke\nFace ID ne transfer maang liya. 📱",
 
-"Incident Report\nReality assaulted {target}. 🚨",
+"{target} ko dekh ke\nlift ne Ground Floor pe hi resign kar diya. 🛗",
 
-"Evidence Collected\nStill not enough to explain this. 🔍",
+"{target} ko dekh ke\nwatchman bhi visitor entry na kare. 🚪",
 
-"Witness Statement\n'I wish I hadn't seen it.' 👀",
+"{target} itna unlucky hai,\nRaincoat pehen ke bhi bheeg jaata. 🌧️",
 
-"Crime Scene\n{target} was here. 🚧",
+"{target} ko dekh ke\nhelmet bhi safety chhod de. 🪖",
 
-"Investigation Closed\nToo obvious. 📂",
+"{target} ki baatein sun ke\nAlexa bhi mute ho gayi. 🔊",
 
-"Wanted\nOne decent comeback. 🏃",
+"{target} ko dekh ke\nWi-Fi password khud change ho gaya. 📶",
 
-"Officer's Notes\n'I'm taking early retirement.' 👮",
+"{target} ko dekh ke\nrecharge wale ne bhi refund de diya. 📱",
 
-"Suspect\n{target}.\nCharge: Existing loudly. 📋",
+"{target} ka dimaag dekh ke\ncalculator ne Error dikha diya. 🧮",
 
-"Weather Today\n100% chance of embarrassment.\n({target}) 🌧️",
+"{target} ka dimaag dekh ke\ncalculator ne tuition join kar li. 🧮",
 
-"Heat Advisory\n{target} got cooked. 🔥",
+"{target} ko dekh ke\nkutta bhi dusri gali se jaata hai. 🐕",
 
-"Visibility\nZero confidence ahead. 🌫️",
+"{target} ka confidence dekh ke\nnazar bhi lagne se mana kar de. 🧿",
 
-"Forecast\nHeavy emotional damage expected. ⛈️",
+"{target} itna unlucky hai,\nfree sample bhi paise leke milta hai. 💸",
 
-"Air Quality\nBetter than {target}'s decisions. 🌬️",
+"{target} ko dekh ke\nATM bhi 'Insufficient Balance' bol deta hai. 🏧",
 
-"Storm Warning\nBrace yourselves. ⚡",
+"{target} ka future dekh ke\nGoogle bhi Incognito ho gaya. 🌐",
 
-"Humidity\n100% awkwardness. 💧",
+"{target} ko dekh ke\nchai bhi thandi pad gayi. ☕",
 
-"Sunny\nExcept around {target}. ☀️",
+"{target} ki entry pe\nDJ ne bola 'Main ghar jaa raha hoon.' 🎧",
 
-"Wind Speed\nEnough to blow away the excuse. 🌪️",
+"{target} ko dekh ke\nrickshaw wala U-turn maar gaya. 🛺",
 
-"Climate Report\nAura continues to decline. 📉",
+"{target} itna slow hai,\nkachua bhi horn maar de. 🐢",
 
-"🥠 Fortune\nTomorrow will be better.\nToday belongs to {target}.",
+"{target} ko dekh ke\nmachhar bhi vegetarian ban gaya. 🦟",
 
-"🥠 Fortune\nConfidence is temporary.\nScreenshots are forever.",
+"{target} ka level dekh ke\nfail bhi pass lagta hai. 📄",
 
-"🥠 Fortune\nAvoid unnecessary risks.\nLike trusting {target}.",
+"{target} ko dekh ke\nmirror bolta 'Main off hoon.' 🪞",
 
-"🥠 Fortune\nLuck is nearby.\nNot for {target}.",
+"{target} ka luck dekh ke\nBlack Cat bhi direction change kar de. 🐈",
 
-"🥠 Fortune\nSomeone is thinking about you.\nIt's HR.",
+"{target} ko dekh ke\ncamera khud blur ho gaya. 📸",
 
-"🥠 Fortune\nA plot twist is coming.\nIt's not a good one.",
+"{target} ka network dekh ke\nJio bhi Airtel ban gaya. 📶",
 
-"🥠 Fortune\nThe universe noticed.\nUnfortunately.",
+"{target} ko dekh ke\npandit ji ne kundli phaad di. 📜",
 
-"🥠 Fortune\nPatience will reward you.\nWatching {target} won't.",
+"{target} ki planning dekh ke\ncalendar ne resign kar diya. 📅",
 
-"🥠 Fortune\nToday is your lucky day.\nUnless you're {target}.",
+"{target} ko dekh ke\nlift ne stairs recommend kar diye. 🛗",
 
-"🥠 Fortune\nThe stars tried.\nThey really did.",
+"{target} ko dekh ke\nhelmet bhi safety chhod de. 🪖",
+
+"{target} ka face dekh ke\nFace ID ne transfer maang liya. 📱",
+
+"{target} ko dekh ke\nmosquito ne blood donate kar diya. 🩸",
+
+"{target} itna confuse hai,\nGPS bolta 'Bhai tu hi chala le.' 🗺️",
+
+"{target} ko dekh ke\nGoogle bhi spelling check maange. 🔍",
+
+"{target} ki shakal dekh ke\npassport photo bhi glow up lagti hai. 🪪",
+
+"{target} ko dekh ke\nexam paper khud blank ho gaya. 📝",
+
+"{target} itna unlucky hai,\ncoin toss bhi edge pe khada reh jaaye. 🪙",
+
+"{target} ko dekh ke\nWi-Fi password khud change ho gaya. 📶",
+
+"{target} ki baat sun ke\nAlexa bhi 'No thanks' bol de. 🔊",
+
+"{target} ko dekh ke\nbattery saver permanently ON ho gaya. 🔋",
+
+"{target} ko dekh ke\nrecharge wala bhi refund de de. 📲",
+
+"{target} ka confidence dekh ke\nego bhi respect maang le. 😭",
+
+"{target} ko dekh ke\nprinter paper jam kar le. 🖨️",
+
+"{target} ko dekh ke\nfan bhi hawa dena band kar de. 🪭",
+
+"{target} ki vibe dekh ke\nBluetooth khud unpair ho gaya. 📡",
+
+"{target} ko dekh ke\nYouTube 'Skip Ad' hata de. ▶️",
+
+"{target} itna unlucky hai,\numbrella leke nikle to dhoop nikal aaye. ☂️",
+
+"{target} ko dekh ke\nschool bell bhi late bajti hai. 🔔",
+
+"{target} ka aura dekh ke\nshadow bhi overtime refuse kar de. 🌑",
+
+"{target} ko dekh ke\ncalculator bhi counting bhool gaya. 😂",
+
+"{target} ko dekh ke\nbank wale bhi bol dein,\n'Loan mat lena.' 💳",
+
+"{target} ko dekh ke\nmummy ne family group se remove kar diya. 📱",
+
+"{target} ka future dekh ke\nplacement cell ne office band kar diya. 🎓",
+
+"{target} ko dekh ke\npandit ji ne bola,\n'Muhurat bhi risk nahi lega.' 📿",
+
+"{target} ko dekh ke\nbarber ne bola,\n'Bhai cap pehen le.' ✂️",
+
+"{target} ko dekh ke\nhostel ka warden bhi emotional ho gaya. 🏫",
+
+"{target} ki timing dekh ke\nalarm bhi late bajta hai. ⏰",
+
+"{target} ko dekh ke\ntraffic signal bhi red pe atak gaya. 🚦",
+
+"{target} ka confidence dekh ke\njhooth bhi sach lagne lage. 🤡",
+
+"{target} ko dekh ke\nauto wala bhi bolta,\n'Bhai paidal hi chale ja.' 🛺",
+
+"{target} ki kismat dekh ke\nlottery bhi application reject kar de. 🎟️",
+
+"{target} ko dekh ke\ninterviewer ne resume wapas kar diya. 📄",
+
+"{target} ko dekh ke\nphotographer ne lens band kar diya. 📸",
+
+"{target} ko dekh ke\nwatchman bhi gate lock kar de. 🚪",
+
+"{target} ko dekh ke\nrestaurant ne menu hata diya. 🍽️",
+
+"{target} ki baatein sun ke\nAlexa ne khud ko mute kar liya. 🔊",
+
+"{target} ko dekh ke\nGoogle Maps bhi bolta,\n'Tu hi dekh le.' 🗺️",
+
+"{target} ko dekh ke\nrailway waiting list bhi hans padi. 🚆",
+
+"{target} ka aura dekh ke\nshadow bhi leave pe chali gayi. 🌑",
+
+"{target} ko dekh ke\nATM bhi receipt dene se mana kar de. 🏧",
+
+"{target} ko dekh ke\nchai wala bhi free biscuit na de. ☕",
+
+"{target} ki planning dekh ke\ncalendar ne date skip kar di. 📅",
+
+"{target} ko dekh ke\nmachhar bhi blood donate kar gaya. 🦟",
+
+"{target} ko dekh ke\nFace ID ne permanent leave le li. 📱",
+
+"{target} ki harkatein dekh ke\nWi-Fi bhi password badal de. 📶",
+
+"{target} ko dekh ke\nlift ne stairs recommend kar diye. 🛗",
+
+"{target} ka level dekh ke\ncalculator bhi counting bhool gaya. 🧮",
+
+"{target} ko dekh ke\nmirror bhi reflection refresh kare. 🪞",
+
+"{target} ko dekh ke\nrecharge wala bhi refund de de. 📲",
+
+"{target} ko dekh ke\nteacher ne attendance se naam hi hata diya. 📚",
+
+"{target} ko dekh ke\npolice bhi bole,\n'Ja beta, tu already suffer kar raha hai.' 🚓",
+
+"{target} ka confidence dekh ke\nego bhi notice period pe chala gaya. 😭",
+
+"{target} ko dekh ke\npassport photo bhi glow-up lagne lage. 🪪",
+
+"{target} ko dekh ke\ndoctor ne bola,\n'Yeh case medical se zyada spiritual hai.' 🩺",
+
+"{target} ko dekh ke\npandit ji ne pooja online kar di. 📿",
+
+"{target} ko dekh ke\ncricket coach ne football join kar li. 🏏",
+
+"{target} ki padhai dekh ke\nreport card ne blank rehna choose kiya. 📖",
+
+"{target} ko dekh ke\nmummy ne bola,\n'Isko kisi aur ghar drop kar aao.' 💀",
+
+"{target} ko dekh ke\nPapa ne TV ka volume full kar diya,\nbaat hi na karni pade. 📺",
+
+"{target} ko dekh ke\nneighbour aunty ne comparison karna band kar diya. 😂",
+
+"{target} ko dekh ke\nteacher boli,\n'Tum bas attendance de diya karo.' 📚",
+
+"{target} ko dekh ke\ninterviewer bola,\n'Coffee peete hain... interview rehne do.' ☕",
+
+"{target} ko dekh ke\npandit ji bole,\n'Kundli nahi... himmat chahiye.' 📿",
+
+"{target} ko dekh ke\nmummy boli,\n'Isko return policy ke andar hi de dete.' 💀",
+
+"{target} ko dekh ke\nPapa bole,\n'Maine isko Wi-Fi hi zyada de diya.' 📶",
+
+"{target} ko dekh ke\ndoctor bola,\n'Isko dawa se zyada dua lagegi.' 🩺",
+
+"{target} ko dekh ke\nbarber bola,\n'Bhai cap free le ja.' ✂️",
+
+"{target} ko dekh ke\nphotographer bola,\n'Background hi click kar leta hoon.' 📸",
+
+"{target} ko dekh ke\ncoach bola,\n'Water boy banna bhi achievement hai.' 🏏",
+
+"{target} ko dekh ke\nexam paper bola,\n'Mujhe bhi easy nahi lag raha.' 📄",
+
+"{target} ko dekh ke\nGoogle Maps bola,\n'Bhai tu khud hi bhatak.' 🗺️",
+
+"{target} ko dekh ke\nlift boli,\n'Stairs better option hai.' 🛗",
+
+"{target} ko dekh ke\nATM bola,\n'Balance se pehle confidence check kar.' 🏧",
+
+"{target} ko dekh ke\ntraffic police boli,\n'Helmet se zyada dua pehen.' 🚓",
+
+"{target} ko dekh ke\nmachhar bola,\n'Risk zyada hai.' 🦟",
+
+"{target} ko dekh ke\nchai wala bola,\n'Bhai pehle paani pee le.' ☕",
+
+"{target} ko dekh ke\nwatchman bola,\n'Guest entry full hai.' 🚪",
+
+"{target} ko dekh ke\nschool bell boli,\n'Aaj chhutti hi kar dete.' 🔔",
+
+"{target} ko dekh ke\nFace ID bola,\n'Main overtime nahi karunga.' 📱",
+
+"{target} ko dekh ke\nAlexa boli,\n'Main behri ban jaati hoon.' 🔊",
+
+"{target} ko dekh ke\nmummy boli,\n'Isko nazar nahi... network laga hai.' 📡",
+
+"{target} ko dekh ke\nPapa bole,\n'Beta padhai chhod... kuch aur dekhte hain.' 📚",
+
+"{target} ko dekh ke\nmummy boli,\n'Isko rishtedaaron se chhupa ke rakho.' 😂",
+
+"{target} ko dekh ke\nPapa bole,\n'Calculator bhi confuse ho gaya.' 🧮",
+
+"{target} ko dekh ke\nmummy boli,\n'Isse behas karne se achha bartan dho loon.' 🍽️",
+
+"{target} ko dekh ke\nPapa bole,\n'Phone ki galti nahi thi.' 📱",
+
+"{target} ko dekh ke\nmummy boli,\n'Ye offline hi theek lagta hai.' 📶",
+
+"{target} ko dekh ke\nPapa bole,\n'Password badal do.' 🔐",
+
+"{target} ko dekh ke\nmummy boli,\n'Isko guest room mein hi rehne do.' 🏠",
+
+"{target} ko dekh ke\nPapa bole,\n'Volume badha... baat mat sun.' 📺",
+
+"{target} ko dekh ke\ndoctor bola,\n'Normal report likhne ka mann hi nahi kar raha.' 🩺",
+
+"{target} ko dekh ke\ndoctor bola,\n'Ye Google se bhi bahar ka case hai.' 💀",
+
+"{target} ko dekh ke\ndoctor bola,\n'Discharge nahi... restart chahiye.' 🔄",
+
+"{target} ko dekh ke\ndoctor bola,\n'Second opinion bhi same hi rahega.' 😂",
+
+"{target} ko dekh ke\ndoctor bola,\n'Isko vitamin nahi... vacation chahiye.' 🌴",
+
+"{target} ko dekh ke\ndoctor bola,\n'Insurance bhi cover nahi karega.' 💳",
+
+"{target} ko dekh ke\ndoctor bola,\n'Operation successful... confidence nahi bacha.' 😭",
+
+"{target} ko dekh ke\ndoctor bola,\n'Case study bana dete hain.' 📖",
+
+"{target} ko dekh ke\ndoctor bola,\n'Intern ko bhi mat dikhana.' 🤦",
+
+"{target} ko dekh ke\ndoctor bola,\n'File dekh ke hi BP badh gaya.' 📂",
+
+"{target} ko dekh ke\nYamraj bole,\n'Isko zindagi hi handle karne do.' ☠️",
+
+"{target} ko dekh ke\nbhoot bhi ghar shift kar gaya. 👻",
+
+"{target} ko dekh ke\njudge bola,\n'Saza zindagi already de rahi hai.' ⚖️",
+
+"{target} ko dekh ke\npolice boli,\n'Warning kaafi hai.' 🚓",
+
+"{target} ko dekh ke\nchor bola,\n'Iske ghar se kya hi milega.' 😂",
+
+"{target} ko dekh ke\nbeggar bola,\n'Bhai tu hi rakh le.' 💰",
+
+"{target} ko dekh ke\nfortune cookie bhi khali nikli. 🥠",
+
+"{target} ko dekh ke\nlaptop bola,\n'Low battery se bhi low confidence.' 🔋",
+
+"{target} ko dekh ke\nmirror bola,\n'Auto-hide on.' 🪞",
+
+"{target} ko dekh ke\nGoogle bola,\n'Ispe search waste mat kar.' 🔍",
+
+"{target} ko dekh ke\ninterviewer bola,\n'Experience ki zarurat nahi... miracle chahiye.' 💼",
+
+"{target} ko dekh ke\nteacher boli,\n'Isko answer sheet mat dena... umeed badh jaayegi.' 📄",
+
+"{target} ko dekh ke\nmummy boli,\n'Beta guest banke hi aa jaya kar.' 💀",
+
+"{target} ko dekh ke\nPapa bole,\n'Investment galat jagah ho gaya.' 📉",
+
+"{target} ko dekh ke\ndoctor bola,\n'Google pe bhi iska ilaaj nahi mila.' 🩺",
+
+"{target} ko dekh ke\npandit ji bole,\n'Iske grah nahi... game kharab hai.' 📿",
+
+"{target} ko dekh ke\njudge bola,\n'Court ki zarurat hi nahi... zindagi kaafi hai.' ⚖️",
+
+"{target} ko dekh ke\nchor bola,\n'Risk reward ke layak nahi.' 😂",
+
+"{target} ko dekh ke\nmachhar bola,\n'Iron bhi waste jayega.' 🦟",
+
+"{target} ko dekh ke\nWi-Fi bola,\n'Connected... but why?' 📶",
+
+"{target} ko dekh ke\nGoogle Maps bola,\n'Lost cause detected.' 🗺️",
+
+"{target} ko dekh ke\nFace ID bola,\n'Yeh update ke baad dekhte hain.' 📱",
+
+"{target} ko dekh ke\nAlexa boli,\n'Main offline ho rahi hoon.' 🔇",
+
+"{target} ko dekh ke\nATM bola,\n'Confidence withdraw nahi hota.' 🏧",
+
+"{target} ko dekh ke\nexam paper bola,\n'Pass hona meri insult hai.' 📚",
+
+"{target} ko dekh ke\ncricket umpire bola,\n'Out toh pehle se hi tha.' 🏏",
+
+"{target} ko dekh ke\nbarber bola,\n'Hairstyle se zyada dua chahiye.' ✂️",
+
+"{target} ko dekh ke\nphotographer bola,\n'Landscape hi better hai.' 📸",
+
+"{target} ko dekh ke\nrestaurant wala bola,\n'Chef chhutti pe chala gaya.' 🍽️",
+
+"{target} ko dekh ke\nwatchman bola,\n'Andar jaake bhi kya karega?' 🚪",
+
+"{target} ko dekh ke\nGoogle bola,\n'Ispe data waste mat kar.' 🔍",
+
+"{target} ko dekh ke\ncalculator bola,\n'Error bhi sharma gaya.' 🧮",
+
+"{target} ko dekh ke\nbattery saver automatically ON ho gaya. 🔋",
+
+"{target} ko dekh ke\nrecharge wala bola,\n'Validity bhi waste hai.' 📲",
+
+"{target} ko dekh ke\nlift boli,\n'Stairs deserve better.' 🛗",
+
+"{target} ko dekh ke\nGPS bola,\n'Bhai tu khud hi kho ja.' 🧭",
+
+"{target} ko dekh ke\ncamera bola,\n'Blur hi theek hai.' 📷",
+
+"{target} ko dekh ke\nmirror bola,\n'Update available.' 🪞",
+
+"{target} ko dekh ke\nhelmet bola,\n'Main bhi nahi bacha sakta.' 🪖",
+
+"{target} ko dekh ke\nUPI bola,\n'Insufficient confidence.' 💸",
+
+"{target} ko dekh ke\nPapa bole,\n'Refund milta hai?' 💀",
+
+"{target} ko dekh ke\nTeacher boli,\n'Next question.' 📚",
+
+"{target} ko dekh ke\nDoctor bola,\n'Good luck.' 🩺",
+
+"{target} ko dekh ke\nPandit bola,\n'Main busy hoon.' 📿",
+
+"{target} ko dekh ke\nGoogle bhi bola,\n'Skip.' 🔍",
+
+"{target} ko dekh ke\nATM bola,\n'Try tomorrow.' 🏧",
+
+"{target} ko dekh ke\nWi-Fi bhi\ndisconnect ho gaya. 📶",
+
+"{target} ko dekh ke\nFace ID bola,\n'No thanks.' 📱",
+
+"{target} ko dekh ke\nLift boli,\n'Stairs use kar.' 🛗",
+
+"{target} ko dekh ke\nCamera ne\nlens band kar diya. 📸",
+
+"{target} ko dekh ke\nMachhar bola,\n'Fasting pe hoon.' 🦟",
+
+"{target} ko dekh ke\nMirror bola,\n'Loading...' 🪞",
+
+"{target} ko dekh ke\nCoach bola,\n'Water le aa.' 🏏",
+
+"{target} ko dekh ke\nExam bhi bola,\n'Meri kya galti?' 📄",
+
+"{target} ko dekh ke\nBarber bola,\n'Cap free hai.' ✂️",
+
+"{target} ko dekh ke\nRestaurant bola,\n'Kitchen band.' 🍽️",
+
+"{target} ko dekh ke\nTraffic Police boli,\n'Ja beta.' 🚓",
+
+"{target} ko dekh ke\nCalculator bola,\n'Impossible.' 🧮",
+
+"{target} ko dekh ke\nBattery bhi\n1% pe aa gayi. 🔋",
+
+"{target} ko dekh ke\nGoogle Maps bola,\n'Best of luck.' 🗺️",
+
+"{target} ko dekh ke\nAlexa boli,\n'Mute hi theek hai.' 🔊",
+
+"{target} ko dekh ke\nUPI bola,\n'Payment Failed.' 💸",
+
+"{target} ko dekh ke\nPrinter bola,\n'Paper Jam.' 🖨️",
+
+"{target} ko dekh ke\nHelmet bola,\n'Main nahi.' 🪖",
+
+"{target} ko dekh ke\nFan bhi\nslow chalne laga. 🪭",
+
+"{target} ko dekh ke\nClock boli,\n'Time waste.' ⏰",
+
+"{target} ko dekh ke\nGoogle bola,\n'Did you mean failure?' 😂",
+
+"{target} ko dekh ke\nMummy boli,\n'Pados mein reh le.' 💀",
+
+"{target} ko dekh ke\nPapa bole,\n'Network issue hai.' 📡",
+
+"{target} ko dekh ke\nInterviewer bola,\n'We'll never call.' ☎️",
+
+"{target} joined.\nCommon sense left. 💀",
+
+"{target} typing...\nHope left. 😂",
+
+"{target} online.\nLuck offline. 📶",
+
+"{target} entered.\nMood exited. 🚪",
+
+"{target} smiled.\nMirror cried. 🪞",
+
+"{target} spoke.\nBrain lagged. 🧠",
+
+"{target} arrived.\nWi-Fi disconnected. 📡",
+
+"{target} came.\nRespect left. 💀",
+
+"{target} loaded.\nError 404. 🤡",
+
+"{target} cooked.\nEveryone ordered outside. 🍽️",
+
+"{target} studied.\nBooks filed complaint. 📚",
+
+"{target} played.\nBench celebrated. 🏏",
+
+"{target} danced.\nMusic apologized. 🎵",
+
+"{target} sang.\nAuto-Tune resigned. 🎤",
+
+"{target} laughed.\nJokes disappeared. 😂",
+
+"{target} ran.\nGPS got confused. 🗺️",
+
+"{target} blinked.\nCamera crashed. 📸",
+
+"{target} thought.\nCalculator froze. 🧮",
+
+"{target} replied.\nChat went silent. 😶",
+
+"{target} exists.\nEnough damage. 💀",
+
+"{target} joined.\n\nEveryone left. 💀",
+
+"{target} is typing...\n\nAdmin disabled chat. 😂",
+
+"{target} started speaking...\n\nSkipped Ad. ▶️",
+
+"{target} entered the lobby...\n\nMatch cancelled. 🎮",
+
+"{target} sent a message...\n\nThis message was deleted. 💀",
+
+"{target} requested to join...\n\nRequest declined. 😂",
+
+"{target} came online...\n\nServer restarting. 🔄",
+
+"{target} opened mic...\n\nHost muted {target}. 🎤",
+
+"{target} entered chat...\n\nSlow Mode enabled. 🐢",
+
+"{target} reacted 👍\n\nReaction removed. 💀",
+
+"{target} joined voice.\n\nEveryone muted themselves. 🎙️",
+
+"{target} entered stream.\n\nViewer count dropped. 📉",
+
+"{target} turned camera on.\n\nCamera turned itself off. 📷",
+
+"{target} started live.\n\nInternet disconnected. 📶",
+
+"{target} said 'Hi'.\n\nChat went AFK. 😴",
+
+"{target} unlocked achievement.\n\nHow did bro do that? 🤡",
+
+"{target} connected.\n\nFirewall activated. 🛡️",
+
+"{target} entered server.\n\nServer under maintenance. 🔧",
+
+"{target} opened chat.\n\nChat closed. 🚪",
+
+"{target} pinged everyone.\n\nEveryone ignored it. 🔕",
+
+"{target} sent a friend request.\n\nUser not interested. 💀",
+
+"{target} joined the squad.\n\nSquad disbanded. 🎮",
+
+"{target} clicked Ready.\n\nMatchmaking cancelled. ❌",
+
+"{target} loaded in.\n\nGame crashed. 🕹️",
+
+"{target} enabled voice.\n\nNoise suppression gave up. 🎤",
+
+"{target} entered class.\n\nTeacher ended the meeting. 📚",
+
+"{target} started arguing.\n\nComments turned off. 🔒",
+
+"{target} uploaded a photo.\n\nStorage marked as junk. 🗑️",
+
+"{target} opened Google.\n\nGoogle asked 'Are you sure?' 🔍",
+
+"{target} entered the queue.\n\nQueue disappeared. ⏳",
+
+"{target} logged in.\n\nSecurity alert triggered. 🚨",
+
+"{target} scanned QR.\n\nQR expired instantly. 📱",
+
+"{target} started dancing.\n\nMusic stopped. 🎵",
+
+"{target} pressed Send.\n\nMessage failed. ❌",
+
+"{target} said 'Trust me.'\n\nNobody did. 😂",
+
+"{target} entered Discord.\n\nStage ended. 🎧",
+
+"{target} opened YouTube.\n\nSkip Ad disappeared. ▶️",
+
+"{target} joined the call.\n\nPoor connection detected. 📡",
+
+"{target} entered chat.\n\nEmote Only Mode enabled. 😶",
+
+"{target} started explaining.\n\nEveryone hit Skip. ⏭️",
+
+"{target} ne motivation video dekhi...\nVideo ne khud skip kar diya. 💀",
+
+"{target} ne gym join kiya...\nDumbbells ne chhutti le li. 🏋️",
+
+"{target} ne selfie li...\nCamera ne aankh band kar li. 📸",
+
+"{target} ne Google khola...\nGoogle ne Incognito on kar diya. 🔍",
+
+"{target} ne exam diya...\nQuestion paper ro diya. 📄",
+
+"{target} ne cricket khela...\nBall boundary paar bhaag gayi. 🏏",
+
+"{target} ne gaana gaya...\nSpotify crash ho gaya. 🎵",
+
+"{target} ne joke maara...\nSilence ne taali baja di. 👏",
+
+"{target} ne speech shuru ki...\nAudience buffering mein chali gayi. 😂",
+
+"{target} ne dance kiya...\nDJ ne light band kar di. 🎧",
+
+"{target} ne padhai shuru ki...\nBooks ne leave le li. 📚",
+
+"{target} ne interview diya...\nHR ne CV khaamoshi se band kar diya. 💼",
+
+"{target} ne cooking ki...\nSwiggy ka order double ho gaya. 🍕",
+
+"{target} ne race lagayi...\nGoogle Maps confuse ho gaya. 🗺️",
+
+"{target} ne mic on kiya...\nInternet ne surrender kar diya. 🎤",
+
+"{target} ne confidence dikhaya...\nConfidence ne complaint likh di. 🤡",
+
+"{target} ne game start ki...\nServer maintenance pe chala gaya. 🎮",
+
+"{target} ne advice di...\nSabne topic change kar diya. 😂",
+
+"{target} ne smile ki...\nMirror update maangne laga. 🪞",
+
+"{target} ne entry maari...\nExit bhi saath aa gaya. 🚪",
+
+"{target} ne bolna shuru kiya...\nSubtitles ne resign kar diya. 💀",
+
+"{target} ne YouTube khola...\nSkip Ad bhi wapas aa gaya. ▶️",
+
+"{target} ne Wi-Fi connect kiya...\nRouter ne restart maang liya. 📶",
+
+"{target} ne chai banayi...\nCup ne mana kar diya. ☕",
+
+"{target} ne photo upload ki...\nGallery ne storage full dikha diya. 📱",
+
+"{target} ne talent dhoonda...\n404 Not Found. 🤖",
+
+"{target} ne luck try ki...\nLuck ne busy tone baja di. 📞",
+
+"{target} ne shortcut liya...\nSeedha starting point pe aa gaya. 🔄",
+
+"{target} ne plan banaya...\nCalendar hans pada. 📅",
+
+"{target} ne comeback socha...\nBrain ne timeout le liya. 🧠",
+
+"Jahan {target} hota hai,\nwahan logic chhutti pe hota hai. 💀",
+
+"{target} ko dekh ke\nconfidence bhi soch mein pad gaya. 😂",
+
+"{target} ke ideas se\ncalculator bhi confuse ho jaata hai. 🧮",
+
+"{target} jitna unlucky hai,\ncoin toss bhi decide nahi karta. 🪙",
+
+"{target} ke plans mein\nGoogle Maps bhi bhatak jaata hai. 🗺️",
+
+"{target} bolta kam hai,\nconfuse zyada karta hai. 🤡",
+
+"{target} se milke\nWi-Fi bhi weak feel karta hai. 📶",
+
+"{target} ka logic dekh ke\nteacher bhi attendance leke nikal jaaye. 📚",
+
+"{target} ki timing dekh ke\nalarm bhi snooze maar de. ⏰",
+
+"{target} ko dekh ke\nmood bhi airplane mode mein chala jaata hai. ✈️",
+
+"{target} itna unlucky hai,\nfortune cookie bhi blank nikli. 🥠",
+
+"{target} jahan khada hota hai,\nqueue wahi se slow ho jaati hai. 🚶",
+
+"{target} ne shortcut liya,\nGoogle Maps ne bhi haath khade kar diye. 🗺️",
+
+"{target} se milke\nintrovert bhi baat karne lagta hai... kisi aur se. 😂",
+
+"{target} ka confidence dekh ke\njhooth bhi uncomfortable ho jaata hai. 🤡",
+
+"{target} exam mein itna blank tha,\nquestion paper ne hint maang li. 📄",
+
+"{target} ne game join kiya,\nteammates ne tutorial khol liya. 🎮",
+
+"{target} itna late aata hai,\nkal bhi uska wait karta hai. ⏰",
+
+"{target} ki advice sunke\nGoogle bhi 'Are you sure?' poochta hai. 🔍",
+
+"{target} ne mic on kiya,\nnetwork ne leave apply kar di. 🎤",
+
+"{target} ka comeback itna late aata hai,\nargument retire ho jaata hai. 💀",
+
+"{target} se race haarna bhi\nachievement unlock jaisa lagta hai. 🏆",
+
+"{target} ka plan sunke\ncalendar ne date skip kar di. 📅",
+
+"{target} itna confuse hai,\ncoin toss bhi redraw maangta hai. 🪙",
+
+"{target} ka luck dekh ke\nblack cat bhi route change kar leti hai. 🐈",
+
+"{target} ko ignore karne ke liye\npeople alarm bhi laga lete hain. 😂",
+
+"{target} ki timing dekh ke\nloading screen bhi impatient ho jaaye. ⌛",
+
+"{target} ka logic sunke\ncalculator ne factory reset maang liya. 🧮",
+
+"{target} ne selfie dali,\nfront camera ne back camera bula liya. 📸",
+
+"{target} ka aura dekh ke\nBluetooth bhi disconnect ho gaya. 📶",
+
+"{target} itna silent hai,\nghost bhi usse conversation start kare. 👻",
+
+"{target} ki planning dekh ke\nDomino's bhi late ho jaaye. 🍕",
+
+"{target} ne dance kiya,\nDJ ne headphone utaar diye. 🎧",
+
+"{target} ko dekh ke\nmeme pages ko content mil gaya. 😂",
+
+"{target} ka mood itna unstable hai,\nweather app bhi confuse ho gaya. 🌦️",
+
+"{target} ka confidence EMI pe chal raha hai. 💳",
+
+"{target} itna dramatic hai,\nserial writers notes lete hain. 📺",
+
+"{target} ko dekh ke\nspam folder bhi trust issues le aaya. 📩",
+
+"{target} se baat karke\nbattery 5% kam ho jaati hai. 🔋",
+
+"{target} ka Wi-Fi nahi,\nvibe weak hai. 📶",
+
+"{target} ko dekh ke\nNPC bhi main character feel kare. 🎭",
+
+"{target} ka level dekh ke\npractice mode bhi give up kar de. 🎮",
+
+"{target} itna random hai,\nautocorrect bhi resign kar de. ⌨️",
+
+"{target} ne secret bataya,\nwallpaper ko bhi pata chal gaya. 📱",
+
+"{target} ka focus dekh ke\nsquirrel bhi judge kare. 🐿️",
+
+"{target} itna overthink karta hai,\ncalculator anxiety le le. 🧠",
+
+"{target} ki speed dekh ke\nbuffering motivate ho jaaye. ⏳",
+
+"{target} ka confidence dekh ke\nplacebo effect bhi fail ho jaaye. 💀",
+
+"{target} ko dekh ke\nYouTube comments jeet jaate hain. 😂",
+
+"{target} ka talent hidden nahi,\nmissing hai. 🤡",
+
+"{target} ko 1 minute akela chhod do...\nkuch na kuch ulta ho hi jaata hai. 💀",
+
+"{target} ko instructions do...\nwoh Terms & Conditions samajh leta hai. 😂",
+
+"{target} ko chance do...\nwoh coincidence bana deta hai. 🤡",
+
+"{target} ko map do...\nwoh destination ko hi lost kar de. 🗺️",
+
+"{target} ko trophy do...\nwoh participation bhi lose kar de. 🏆",
+
+"{target} ko secret batao...\nnext update mein sabko pata hota hai. 📢",
+
+"{target} ko mic do...\necho bhi sharma jaaye. 🎤",
+
+"{target} ko remote do...\nTV bhi hang ho jaaye. 📺",
+
+"{target} ko keyboard do...\nautocorrect bhi quit kar de. ⌨️",
+
+"{target} ko responsibility do...\ncalendar reminder bhejne lage. 📅",
+
+"{target} ko group project mila...\nBaaki 3 logon ne group hi leave kar diya. 💀",
+
+"{target} ne shortcut liya...\nSeedha starting point pe pahunch gaya. 😂",
+
+"{target} ko captain banaya...\nToss bhi haar gaya. 🏏",
+
+"{target} ne charger maanga...\nSocket ne bhi mana kar diya. 🔌",
+
+"{target} ka alarm baja...\nAlarm ne khud snooze maar diya. ⏰",
+
+"{target} ko lucky draw mila...\nCoupon expire nikla. 🎟️",
+
+"{target} ne attendance lagayi...\nTeacher ne dobara count kiya. 📚",
+
+"{target} ne password banaya...\n'Hint' bhi confuse ho gayi. 🔐",
+
+"{target} ne GPS on kiya...\nSatellite ne logout kar diya. 🛰️",
+
+"{target} ko mic mila...\nEcho bhi chup ho gaya. 🎤",
+
+"{target} ne chai banayi...\nBiscuit ne jump maar diya. ☕",
+
+"{target} ko trophy mili...\nNeeche 'Trial Version' likha tha. 🏆",
+
+"{target} ne exam shuru kiya...\nPen ne ink bachani shuru kar di. 🖊️",
+
+"{target} ne speech di...\nClaps buffering mein chale gaye. 👏",
+
+"{target} ne selfie dali...\nGallery ne recycle bin khol diya. 📸",
+
+"{target} ko promotion mila...\nSapne mein. 😭",
+
+"{target} ne Wi-Fi lagaya...\nPadosi ka fast ho gaya. 📶",
+
+"{target} ne advice di...\nSabne volume kam kar diya. 🔊",
+
+"{target} ne race lagayi...\nFinish line shift ho gayi. 🏃",
+
+"{target} ko secret diya...\nBreaking News ban gaya. 📰",
+
+"{target} ne keyboard uthaya...\nAutocorrect ne resign kar diya. ⌨️",
+
+"{target} ne homework kiya...\nDog ne bhi refuse kar diya. 🐶",
+
+"{target} ko lift mili...\nBeech mein maintenance aa gayi. 🛗",
+
+"{target} ne lottery kharidi...\nLottery hi band ho gayi. 💸",
+
+"{target} ko motivation mila...\n5 minute ke liye. 😂",
+
+"{target} ne swimming shuru ki...\nPool ne warning de di. 🏊",
+
+"{target} ne cricket kheli...\nScoreboard ne restart maang liya. 🏏",
+
+"{target} ne guitar uthaya...\nStrings ne strike kar di. 🎸",
+
+"{target} ne cooking ki...\nSmoke alarm ne celebration kar diya. 🔥",
+
+"{target} ne dance kiya...\nFloor ne slip mode on kar diya. 🕺",
+
+"{target} ne movie suggest ki...\nRemote chup gaya. 📺",
+
+"{target} ko map mila...\nCompass ne leave le li. 🧭",
+
+"{target} ne joke sunaya...\nEmoji bhi react na kare. 😐",
+
+"{target} ne helmet pehna...\nConfidence phir bhi nahi aaya. 🪖",
+
+"{target} ne cycle chalayi...\nStand zyada stable nikla. 🚲",
+
+"{target} ne shopping ki...\nWallet ne last seen hide kar diya. 💳",
+
+"{target} ne football kheli...\nGoalpost side ho gaya. ⚽",
+
+"{target} ne coding shuru ki...\nBug ne welcome bol diya. 💻",
+
+"{target} ne recharge karaya...\nValidity sharma gayi. 📱",
+
+"{target} ne meditation ki...\nThoughts aur loud ho gaye. 🧘",
+
+"{target} ko bas 5 minute do...\nKahani ban jayegi. 💀",
+
+"{target} ko ek idea do...\nProblem free milti hai. 😂",
+
+"{target} ko responsibility do...\nReminder bhi reminder set kare. 📅",
+
+"{target} ko confidence do...\nReturn policy bhi de dena. 🤡",
+
+"{target} ko chance do...\nRegret guaranteed. 💀",
+
+"{target} ko mic do...\nSilence premium ho jaata hai. 🎤",
+
+"{target} ko steering do...\nGoogle Maps pray karne lagta hai. 🗺️",
+
+"{target} ko camera do...\nBlur automatic ho jaata hai. 📸",
+
+"{target} ko remote do...\nTV khud off ho jaata hai. 📺",
+
+"{target} ko plan banane do...\nUniverse popcorn le aata hai. 🍿",
+
+"{target} ne apology likhi...\nSpell check bhi maan na saka. 💀",
+
+"{target} ko OTP aaya...\nExpire pehle hi ho gaya. 📱",
+
+"{target} ne shortcut dhoonda...\nDetour mil gaya. 😂",
+
+"{target} ka comeback aaya...\nAudience ghar ja chuki thi. 🎤",
+
+"{target} ne prediction ki...\nUlta hi ho gaya. 🔮",
+
+"{target} ka confidence itna fake hai...\nCaptcha bhi reject kar de. 🤖",
+
+"{target} ne selfie upload ki...\nFilter ne overtime maang liya. 📸",
+
+"{target} ko life ne plot diya...\nYe blooper bana baitha. 🎬",
+
+"{target} ne mic pakda...\nSilence ne standing ovation de diya. 👏",
+
+"{target} ne advice maangi...\nGoogle ne therapist suggest kar diya. 🔍",
+
+"{target} ka plan sunke...\nCalendar ne sick leave le li. 📅",
+
+"{target} ne race shuru ki...\nFinish line shift ho gayi. 🏃",
+
+"{target} ka logic dekh ke...\nMaths ne Arts le li. 📚",
+
+"{target} ne confidence dikhaya...\nReality ne report kar diya. 🚨",
+
+"{target} ko surprise dena tha...\nKhud surprise ho gaya. 😂",
+
+"{target} ne secret rakha...\nStatus bana diya. 📢",
+
+"{target} ka aim itna off hai...\nGPS ko bhi guilt ho gaya. 🧭",
+
+"{target} ne speech di...\nMute button famous ho gaya. 🎙️",
+
+"{target} ne coding ki...\nBug ne thank you bol diya. 💻",
+
+"{target} ne dance kiya...\nFloor warranty claim karne laga. 🕺",
+
+"{target} ka network nahi...\nDestiny weak hai. 📶",
+
+"{target} ne movie recommend ki...\nTrailer hi kaafi tha. 🎬",
+
+"{target} ne joke maara...\nCrickets bhi silent ho gaye. 🦗",
+
+"{target} ko map mila...\nCompass ne resign kar diya. 🧭",
+
+"{target} ka luck dekh ke...\n404 bhi lucky lagne laga. 🤡",
+
+"{target} ne cricket kheli...\nUmpire ne vacation le li. 🏏",
+
+"{target} ne gaana gaya...\nLyrics ne copyright strike maar di. 🎵",
+
+"{target} ne cooking ki...\nSmoke alarm influencer ban gaya. 🔥",
+
+"{target} ne presentation di...\nProjector ne aankh band kar li. 📽️",
+
+"{target} ne motivation li...\nMonday jeet gaya. 😭",
+
+"{target} ka Wi-Fi slow nahi...\nKismat buffering mein hai. ⏳",
+
+"{target} ne gym join kiya...\nAttendance hi workout ban gayi. 🏋️",
+
+"{target} ne phone uthaya...\nBattery ne notice de diya. 🔋",
+
+"{target} ko chance mila...\nUniverse ne popcorn nikaal liya. 🍿",
+
+"{target} ne team banayi...\nBench bhi unavailable thi. 🎮",
+
+"{target} ne shortcut samjha...\nTutorial khul gaya. 📖",
+
+"{target} ne 'Trust me' bola...\nSabne screenshot le liya. 📸",
+
+"{target} ne future plan kiya...\nFuture ne block kar diya. 🚫",
+
+"{target} ne talent show join kiya...\nJudges ne lunch break le liya. 🍔",
+
+"{target} ka confidence dekh ke...\nDelusion bhi inspire ho gaya. 😂",
+
+"{target} ki kismat itni kharab hai...\nRaincoat pehne to dhoop nikal aaye. ☀️",
+
+"{target} ki kismat dekh ke...\nBlack cat bhi U-turn maar le. 🐈",
+
+"{target} ki kismat mein...\nBuffering bhi HD mein aati hai. ⏳",
+
+"{target} ki kismat itni weak hai...\nFree trial bhi decline ho jaye. 💀",
+
+"{target} ki kismat dekh ke...\nLottery ticket bhi sharma jaaye. 🎟️",
+
+"{target} ki kismat aisi hai...\nShortcut bhi lamba pad jaata hai. 🗺️",
+
+"{target} ki kismat se...\nMonday ko bhi overtime milta hai. 😭",
+
+"{target} ki kismat dekh ke...\nCoin toss bhi edge pe ruk jaaye. 🪙",
+
+"{target} ki kismat itni legendary hai...\nAutoCorrect bhi galat suggest kare. ⌨️",
+
+"{target} ki kismat mein...\n'Better luck next time' permanent likha hai. 😂",
+
+"{target} ki kismat itni kharab hai...\nAuto-save bhi fail ho jaata hai. 💀",
+
+"{target} ki kismat dekh ke...\nLoading bar bhi reverse chalti hai. ⏳",
+
+"{target} ki kismat mein...\n'Out of Stock' permanent likha hai. 📦",
+
+"{target} ki kismat aisi hai...\nGreen signal bhi red ho jaata hai. 🚦",
+
+"{target} ki kismat dekh ke...\nWeather app bhi sorry bol de. 🌧️",
+
+"{target} ki kismat itni legendary hai...\nOffline game bhi disconnect ho jaaye. 🎮",
+
+"{target} ki kismat se...\nAlarm Sunday ko hi bajta hai. ⏰",
+
+"{target} ki kismat dekh ke...\nCalculator bhi guess maar de. 🧮",
+
+"{target} ki kismat mein...\nLow Battery 100% pe bhi aa jaaye. 🔋",
+
+"{target} ki kismat aisi hai...\nCaptcha bhi doosra Captcha maang le. 🤖",
+
+"{target} jitna unlucky hai...\nFree Wi-Fi bhi password maange. 📶",
+
+"{target} ki kismat dekh ke...\nCoin toss bhi cancel ho jaaye. 🪙",
+
+"{target} ki kismat mein...\nExpress lane bhi traffic ban jaaye. 🚗",
+
+"{target} ki kismat itni weak hai...\nCoupon apply hi na ho. 💸",
+
+"{target} ki kismat dekh ke...\nCloud backup bhi bhool jaaye. ☁️",
+
+"{target} ki kismat mein...\nLift Ground Floor pe hi atak jaaye. 🛗",
+
+"{target} ki kismat aisi hai...\nBluetooth khud unpair ho jaaye. 📡",
+
+"{target} ki kismat dekh ke...\nATM bhi 'Come Tomorrow' bol de. 🏧",
+
+"{target} ki kismat mein...\nBuffering bhi lag kar jaaye. 📺",
+
+"{target} ki kismat dekh ke...\n404 Error ko confidence aa jaaye. 😂",
+
+"{target} se milke...\nGoogle Maps ne career change kar liya. 🗺️",
+
+"{target} se milke...\nCalculator ne counting chhod di. 🧮",
+
+"{target} se milke...\nAlarm bhi late uthne laga. ⏰",
+
+"{target} se milke...\nMirror ne reflection hide kar diya. 🪞",
+
+"{target} se milke...\nWi-Fi ne password badal diya. 📶",
+
+"{target} se milke...\nKeyboard ne typing quit kar di. ⌨️",
+
+"{target} se milke...\nChair ne support dena chhod diya. 🪑",
+
+"{target} se milke...\nHeadphones ne mute choose kar liya. 🎧",
+
+"{target} se milke...\nCamera ne portrait mode band kar diya. 📸",
+
+"{target} se milke...\nCompass bhi confuse ho gaya. 🧭",
+
+"{target} se milke...\nCalendar ne Monday double kar diya. 📅",
+
+"{target} se milke...\nRemote ne battery nikaal di. 📺",
+
+"{target} se milke...\nNotebook ne blank rehna choose kiya. 📖",
+
+"{target} se milke...\nPen ne ink bachani shuru kar di. 🖊️",
+
+"{target} se milke...\nShoes bhi reverse chalne lage. 👟",
+
+"{target} se milke...\nMic ne static hi bhejna shuru kar diya. 🎤",
+
+"{target} se milke...\nCoffee bhi neend dene lagi. ☕",
+
+"{target} se milke...\nTorch ne darkness support kar di. 🔦",
+
+"{target} se milke...\nUmbrella ko baarish pasand aa gayi. ☂️",
+
+"{target} se milke...\nLuck ne number block kar diya. 💀",
+
+"{target} ko dekh ke...\nAutocorrect bhi spelling poochta hai. 😂",
+
+"{target} ko dekh ke...\nGoogle bhi guess maar deta hai. 🔍",
+
+"{target} ko dekh ke...\nEcho bhi reply na kare. 🎤",
+
+"{target} ko dekh ke...\nShadow social distancing kar le. 🌑",
+
+"{target} ko dekh ke...\nRain bhi U-turn maar le. 🌧️",
+
+"{target} ko dekh ke...\nAlarm snooze maang le. ⏰",
+
+"{target} ko dekh ke...\nBattery 100% pe bhi low feel kare. 🔋",
+
+"{target} ko dekh ke...\nCompass North bhool jaaye. 🧭",
+
+"{target} ko dekh ke...\nTraffic jam bhi shortcut le. 🚗",
+
+"{target} ko dekh ke...\nMonday ko bhi bura lagne lage. 😭",
+
+"{target} ko dekh ke...\nGPS location hide kar de. 📍",
+
+"{target} ko dekh ke...\nQR code bhi scan hone se mana kar de. 📱",
+
+"{target} ko dekh ke...\nKeyboard Caps Lock se sharma jaaye. ⌨️",
+
+"{target} ko dekh ke...\nTorch bhi aankh band kar le. 🔦",
+
+"{target} ko dekh ke...\nLift stairs recommend kar de. 🛗",
+
+"{target} ko dekh ke...\nCloud backup bhi delete maang le. ☁️",
+
+"{target} ko dekh ke...\nAutoCorrect bol de, 'Main bhi human hoon.' 🤖",
+
+"{target} ko dekh ke...\nBluetooth range kam kar de. 📡",
+
+"{target} ko dekh ke...\nGoogle Translate bhi language change kar de. 🌍",
+
+"{target} ko dekh ke...\nUniverse bole, 'Main out hoon.' 💀",
+
+"{target} ka luck itna kharab hai...\nRecharge ke baad bhi 'No Service' aata hai. 📶",
+
+"{target} itna unlucky hai...\nAutoCorrect bhi galat likhta hai. ⌨️",
+
+"{target} ki timing aisi hai...\nHappy Hour bhi khatam ho jaata hai. 🍔",
+
+"{target} ko dekh ke...\nMonday bhi bole 'Main itna bura nahi.' 😭",
+
+"{target} se milte hi...\nBattery 100% se 2% ho jaati hai. 🔋",
+
+"{target} ka confidence dekh ke...\nPlacebo effect bhi fail ho gaya. 💊",
+
+"{target} ki planning dekh ke...\nChaos bhi confused ho gaya. 🌪️",
+
+"{target} itna random hai...\nPlot twist bhi seedha ho jaaye. 🎬",
+
+"{target} ke ideas sunke...\nBrain ne Airplane Mode on kar diya. ✈️",
+
+"{target} ki vibe dekh ke...\nNPC bhi career change kar le. 🎮",
+
+"{target} ko chance mila...\nUniverse ne popcorn nikaal liya. 🍿",
+
+"{target} ne entry maari...\nExit ne taali baja di. 🚪",
+
+"{target} ki speed dekh ke...\nBuffering motivate ho gayi. ⏳",
+
+"{target} ne plan banaya...\nGoogle Calendar ne sick leave le li. 📅",
+
+"{target} ko dekh ke...\nMirror ne front camera ko bula liya. 📸",
+
+"{target} itna overconfident hai...\nTutorial bhi skip kar deta hai. 😂",
+
+"{target} ki kismat dekh ke...\nLoading screen bhi pity feel kare. 💀",
+
+"{target} se milke...\nGoogle Maps ne location off kar di. 🗺️",
+
+"{target} ne gaana gaya...\nLyrics bhaag gayi. 🎵",
+
+"{target} ne dance kiya...\nBeat hi disappear ho gayi. 🎧",
+
+"{target} ne cooking ki...\nSwiggy ne notification bhej di. 🍕",
+
+"{target} ko dekh ke...\nAlarm bhi overtime maangne laga. ⏰",
+
+"{target} ka logic dekh ke...\nWikipedia edit lock ho gayi. 📖",
+
+"{target} itna unlucky hai...\nFree trial bhi payment maangta hai. 💳",
+
+"{target} ne speech di...\nSubtitles ne resign kar diya. 🎤",
+
+"{target} ko dekh ke...\nCalculator ne 'Approximate' likh diya. 🧮",
+
+"{target} ka comeback aaya...\nTopic already change ho chuka tha. 🤡",
+
+"{target} ko dekh ke...\nRain check bhi cancel ho gaya. 🌧️",
+
+"{target} ka aura dekh ke...\nBluetooth pairing fail ho gayi. 📡",
+
+"{target} ne joke maara...\nEmoji bhi react na kare. 😐",
+
+"{target} ki attendance dekh ke...\nProxy bhi refuse kar de. 📚",
+
+"{target} ko dekh ke...\nTraffic jam bhi reverse chalne laga. 🚗",
+
+"{target} ki wajah se...\nLow Battery bhi stress le leti hai. 🔋",
+
+"{target} ka future dekh ke...\nHoroscope ne leave le li. 🔮",
+
+"{target} ko dekh ke...\nFortune Cookie ne blank paper de diya. 🥠",
+
+"{target} ki wajah se...\nWi-Fi bhi mobile data use kare. 📶",
+
+"{target} ne shortcut liya...\nGPS ne kaha 'Main nikalta hoon.' 🧭",
+
+"{target} ko dekh ke...\nAutocorrect ne spelling seekhni shuru kar di. 😂",
+
+"{target} ne selfie dali...\nGallery ne archive kar diya. 📷",
+
+"{target} ka confidence EMI pe chal raha hai. 💀",
+
+"{target} ne password badla...\nPassword bhi wapas badal gaya. 🔐",
+
+"{target} ne recharge karaya...\nTower chhutti pe chala gaya. 📶",
+
+"{target} ne chai banayi...\nCup ne resign kar diya. ☕",
+
+"{target} ne selfie li...\nGallery ne storage bachaa li. 📸",
+
+"{target} ne GPS on kiya...\nRoad hi missing nikli. 🗺️",
+
+"{target} ne helmet pehna...\nConfidence phir bhi nahi aaya. 🪖",
+
+"{target} ne lottery kharidi...\nLucky number absent tha. 🎟️",
+
+"{target} ne coding shuru ki...\nBug attendance laga gaya. 💻",
+
+"{target} ne padhai shuru ki...\nNeend top rank le gayi. 😴",
+
+"{target} ne gaana gaya...\nLyrics ne mute maar diya. 🎤",
+
+"{target} ne dance kiya...\nDJ washroom chala gaya. 🎧",
+
+"{target} ne cricket kheli...\nBall ne transfer le liya. 🏏",
+
+"{target} ne football maari...\nGoalpost side ho gaya. ⚽",
+
+"{target} ne joke maara...\nEmoji bhi sochne lag gaye. 😂",
+
+"{target} ne speech di...\nMic ne static chalu kar diya. 🎙️",
+
+"{target} ne race lagayi...\nFinish line bore ho gayi. 🏃",
+
+"{target} ne shopping ki...\nWallet airplane mode mein chala gaya. 💳",
+
+"{target} ne driving shuru ki...\nGPS ne aankh band kar li. 🚗",
+
+"{target} ne drawing banayi...\nRubber khud chalne laga. ✏️",
+
+"{target} ne cooking ki...\nMaggi bhi raw reh gayi. 🍜",
+
+"{target} ne movie lagayi...\nRemote sofa ke andar chala gaya. 📺",
+
+"{target} ne homework kiya...\nDog ne bhi refuse kar diya. 🐶",
+
+"{target} ne mic pakda...\nEcho ne leave le li. 🎤",
+
+"{target} ne Wi-Fi lagaya...\nPadosi ka signal strong ho gaya. 📡",
+
+"{target} ne shortcut liya...\nDetour khush ho gaya. 🛣️",
+
+"{target} ne phone charge kiya...\nBattery ne overtime refuse kar diya. 🔋",
+
+"{target} ne password bhool gaya...\nPassword ne bhi usse bhool diya. 🤦",
+
+"{target} ne motivation dekhi...\nSkip button jeet gaya. ⏭️",
+
+"{target} ne camera khola...\nBlur automatic aa gaya. 📷",
+
+"{target} ne presentation di...\nProjector sleep mode mein chala gaya. 📽️",
+
+"{target} ne online order kiya...\nDelivery boy ne U-turn maar diya. 📦",
+
+"{target} ne cycle chalayi...\nStand zyada fast nikla. 🚲",
+
+"{target} ne umbrella khola...\nBaarish band ho gayi. ☂️",
+
+"{target} ne torch on ki...\nAndhera confident ho gaya. 🔦",
+
+"{target} ne calculator uthaya...\nAnswer bhi confuse ho gaya. 🧮",
+
+"{target} ne keyboard chalaya...\nAutocorrect ne notice de diya. ⌨️",
+
+"{target} ne alarm lagaya...\nAlarm hi late uth gaya. ⏰",
+
+"{target} ne map dekha...\nCompass ne logout kar diya. 🧭",
+
+"{target} ne bench pe baitha...\nBench bhi khadi ho gayi. 😂",
+
+"{target} ne life set karni chahi...\nLife ne update postpone kar diya. 💀",
+
+"{target} ke dost\nphone uthate hi bolte hain,\n'Conference pe hoon.' 📞",
+
+"{target} ke padosi\nbell ki awaaz se pehle hi ignore kar dete hain. 🚪",
+
+"{target} ke teachers\nattendance me naam dekhke sirf saans lete hain. 📚",
+
+"{target} ke classmates\nnotes share karne se pehle screenshot hata dete hain. 📝",
+
+"{target} ke relatives\n'Padhai kaisi chal rahi?' bhi nahi puchte. 😂",
+
+"{target} ke teammates\ncaptain badalne ki request bhej dete hain. 🏏",
+
+"{target} ke friends\nlocation hamesha 'Offline' rakhte hain. 📍",
+
+"{target} ke contacts\nAuto Block list me rehte hain. 📱",
+
+"{target} ke neighbours\nWi-Fi ka password har hafte badalte hain. 📶",
+
+"{target} ke fans...\ncomment section me hi imaginary hain. 🤡",
+
+"{target} ke cousins\nfamily function me dusri table choose karte hain. 🍽️",
+
+"{target} ke roommates\ncharger pe naam likh dete hain. 🔋",
+
+"{target} ke seniors\nragging bhi skip kar dete hain. 😂",
+
+"{target} ke juniors\nrespect ki jagah condolences dete hain. 💀",
+
+"{target} ke batchmates\nproject group full bata dete hain. 📚",
+
+"{target} ke gym partners\nwarm-up ke baad ghar chale jaate hain. 🏋️",
+
+"{target} ke cricket teammates\nfielding usko boundary ke bahar dete hain. 🏏",
+
+"{target} ke football teammates\npass ki jagah dua dete hain. ⚽",
+
+"{target} ke PUBG teammates\nmic mute karke khelte hain. 🎮",
+
+"{target} ke Discord friends\nVoice Channel lock kar dete hain. 🎧",
+
+"{target} ke WhatsApp groups\nReply Permission off rakhte hain. 💬",
+
+"{target} ke Insta followers\nStory dekhke bhi react nahi karte. 📸",
+
+"{target} ke subscribers\nbell icon bhi nahi dabate. 🔔",
+
+"{target} ke viewers\nad dekhna zyada pasand karte hain. ▶️",
+
+"{target} ke moderators\ntimeout ready rakhte hain. ⏳",
+
+"{target} ke enemies\ncompetition feel hi nahi karte. 😂",
+
+"{target} ke haters\novertime bhi refuse kar dete hain. ☠️",
+
+"{target} ke supporters\nanonymous rehna pasand karte hain. 🤫",
+
+"{target} ke rishtedaar\nphoto khichte waqt side ho jaate hain. 📸",
+
+"{target} ke mama bhi\nnaam save nahi karte. 📱",
+
+"{target} ke chacha\nhar baar pehchaanne ka acting karte hain. 😭",
+
+"{target} ke dost\n'Bhai aa raha hoon' sunte hi nikal jaate hain. 🏃",
+
+"{target} ke padosi\ncurtain nahi,\npoora gate band kar dete hain. 🚪",
+
+"{target} ke tuition sir\nextra class cancel kar dete hain. 📖",
+
+"{target} ke HR\nresume dekhke lunch pe chale jaate hain. 💼",
+
+"{target} ke interviewer\n'Any questions?' bhi nahi puchte. 😂",
+
+"{target} ke barber\nappointment reschedule kar dete hain. ✂️",
+
+"{target} ke photographer\nburst mode bhi avoid karte hain. 📷",
+
+"{target} ke delivery wale\n'Customer not reachable' likh dete hain. 📦",
+
+"{target} ke auto wale\nmeter dekhne se pehle mana kar dete hain. 🛺",
+
+"{target} ke doctor\nGoogle bhi consult kar lete hain. 🩺",
+
+"{target} ke dentist\n'Bas muh band rakho.' bolte hain. 😬",
+
+"{target} ke tailor\nextra kapda maang lete hain. 🪡",
+
+"{target} ke mechanic\ntest drive se mana kar dete hain. 🔧",
+
+"{target} ke watchman\nandar se hi 'Nahi hai.' bol dete hain. 🚪",
+
+"{target} ke neighbours\ndoorbell ka volume kam kar dete hain. 🔔",
+
+"{target} ke relatives\nshaadi ka card WhatsApp pe bhej dete hain. 💌",
+
+"{target} ke classmates\nbench reserve nahi karte. 🪑",
+
+"{target} ke group me\n'Typing...' bhi fake hota hai. 💬",
+
+"{target} ke contacts\nDP hide karke rakhte hain. 📱",
+
+"{target} ke fans\nGoogle Form bharne ke baad bhi nahi milte. 😂"
+
+
 
 
 
